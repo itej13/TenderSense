@@ -5,6 +5,7 @@ import { useSectorStore } from '../lib/DataContext'
 import { sectorMeta, SECTORS } from '../lib/sectors'
 import TenderCard from '../components/TenderCard'
 import Evaluate from '../components/Evaluate'
+import SubmitTenderLink from '../components/SubmitTenderLink'
 
 type Tab = 'overview' | 'tenders' | 'evaluate'
 
@@ -211,6 +212,7 @@ export default function Sector() {
 
         {tab === 'tenders' && (
           <div>
+            <SubmitTenderLink sector={id as SectorId} />
             {data.tenders.length === 0 ? (
               <div className="rounded-xl border border-dashed border-slate-300 bg-white p-10 text-center text-slate-500">
                 No tenders in this sector dataset yet.

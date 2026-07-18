@@ -1,9 +1,13 @@
 import { Link, NavLink, Outlet } from 'react-router-dom'
 import { SECTORS } from '../lib/sectors'
+import { useAuth } from '../lib/auth'
 import { useSectorStore } from '../lib/DataContext'
+import { useSubmissions } from '../lib/SubmissionsContext'
 
 export default function Layout() {
   const { totalTenders, ready } = useSectorStore()
+  const { user, logout, isAdmin } = useAuth()
+  const { pendingCount } = useSubmissions()
 
   return (
     <div className="min-h-screen flex flex-col">
@@ -23,16 +27,58 @@ export default function Layout() {
                 </span>
               </span>
             </Link>
-            <div className="hidden items-center gap-3 sm:flex">
-              <span className="font-mono text-[11px] text-slate-400">
+            <div className="flex items-center gap-2 sm:gap-3">
+              <span className="hidden font-mono text-[11px] text-slate-400 sm:inline">
                 {ready ? `${totalTenders} tenders · 7 sectors` : 'loading research…'}
               </span>
               <Link
                 to="/sector/water?tab=evaluate"
-                className="rounded-md bg-stamp px-3 py-1.5 text-xs font-semibold text-white hover:bg-orange-700"
+                className="hidden rounded-md bg-stamp px-3 py-1.5 text-xs font-semibold text-white hover:bg-orange-700 sm:inline"
               >
                 Evaluate a bid
               </Link>
+              {isAdmin && (
+                <Link
+                  to="/admin/review"
+                  className="rounded-md border border-white/20 px-2.5 py-1.5 text-xs font-semibold text-white hover:bg-white/10"
+                >
+                  Review
+                  {pendingCount > 0 && (
+                    <span className="ml-1.5 rounded-full bg-amber-500 px-1.5 py-0.5 text-[10px] font-bold text-ink-950">
+                      {pendingCount}
+                    </span>
+                  )}
+                </Link>
+              )}
+              {user ? (
+                <div className="flex items-center gap-2">
+                  {user.picture ? (
+                    <img
+                      src={user.picture}
+                      alt=""
+                      className="hidden h-7 w-7 rounded-full border border-white/20 md:block"
+                      referrerPolicy="no-referrer"
+                    />
+                  ) : null}
+                  <span className="hidden max-w-[11rem] truncate font-mono text-[10px] uppercase tracking-wider text-slate-400 md:inline">
+                    {user.name} · {user.role}
+                  </span>
+                  <button
+                    type="button"
+                    onClick={logout}
+                    className="rounded-md px-2.5 py-1.5 text-xs text-slate-300 hover:bg-white/10 hover:text-white"
+                  >
+                    Sign out
+                  </button>
+                </div>
+              ) : (
+                <Link
+                  to="/login"
+                  className="rounded-md border border-white/20 px-2.5 py-1.5 text-xs font-semibold text-white hover:bg-white/10"
+                >
+                  Sign in
+                </Link>
+              )}
             </div>
           </div>
           <nav
