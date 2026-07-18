@@ -1,0 +1,65 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Syne", ui-sans-serif, system-ui, sans-serif;
+  --font-sans: "Manrope", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, monospace;
+  --color-ink-950: #07111f;
+  --color-ink-900: #0c1a2e;
+  --color-ink-800: #15253d;
+  --color-paper: #eef2f6;
+  --color-stamp: #c2410c;
+  --color-cyan-line: #0e7490;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: var(--font-sans);
+  background:
+    radial-gradient(ellipse 80% 50% at 10% -10%, rgba(14, 116, 144, 0.12), transparent 55%),
+    radial-gradient(ellipse 60% 40% at 100% 0%, rgba(194, 65, 12, 0.08), transparent 50%),
+    linear-gradient(180deg, #e8eef4 0%, #f3f6f9 40%, #eef2f6 100%);
+  color: #0f172a;
+  -webkit-font-smoothing: antialiased;
+}
+
+.font-display {
+  font-family: var(--font-display);
+}
+
+.blueprint-grid {
+  background-image:
+    linear-gradient(rgba(14, 116, 144, 0.07) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(14, 116, 144, 0.07) 1px, transparent 1px);
+  background-size: 28px 28px;
+}
+
+@keyframes rise-in {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.rise-in {
+  animation: rise-in 0.55s ease-out both;
+}
+
+.rise-in-delay-1 { animation-delay: 0.06s; }
+.rise-in-delay-2 { animation-delay: 0.12s; }
+.rise-in-delay-3 { animation-delay: 0.18s; }
+
+@media (prefers-reduced-motion: reduce) {
+  .rise-in {
+    animation: none;
+  }
+}

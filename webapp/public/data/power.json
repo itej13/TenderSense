@@ -1,0 +1,729 @@
+{
+  "sector": "power",
+  "sectorLabel": "Power & Energy",
+  "generatedAt": "2026-07-18",
+  "sources": [
+    {
+      "name": "Central Public Procurement Portal (CPPP / eprocure.gov.in)",
+      "url": "https://eprocure.gov.in",
+      "type": "tender-portal"
+    },
+    {
+      "name": "Solar Energy Corporation of India (SECI) tenders",
+      "url": "https://www.seci.co.in",
+      "type": "authority-website"
+    },
+    {
+      "name": "REC Limited tenders",
+      "url": "https://recindia.nic.in",
+      "type": "authority-website"
+    },
+    {
+      "name": "Power Finance Corporation (PFC) tenders",
+      "url": "https://pfcindia.co.in",
+      "type": "authority-website"
+    },
+    {
+      "name": "PFC Consulting Ltd (PFCCL)",
+      "url": "https://www.pfcclindia.com",
+      "type": "authority-website"
+    },
+    {
+      "name": "REC Power Development and Consultancy Ltd (RECPDCL)",
+      "url": "https://www.recpdcl.in",
+      "type": "authority-website"
+    },
+    {
+      "name": "NHPC Ltd tenders",
+      "url": "https://www.nhpcindia.com",
+      "type": "authority-website"
+    },
+    {
+      "name": "NTPC Ltd tender portal",
+      "url": "https://ntpctender.ntpc.co.in",
+      "type": "authority-website"
+    },
+    {
+      "name": "POWERGRID (PGCIL) published tenders",
+      "url": "https://apps.powergrid.in/pgciltenders/u/view-published-tender.aspx",
+      "type": "authority-website"
+    },
+    {
+      "name": "Maharashtra State Electricity Distribution Co. Ltd (MSEDCL)",
+      "url": "https://www.mahadiscom.in",
+      "type": "authority-website"
+    },
+    {
+      "name": "Ministry of Finance, Manual for Procurement of Consultancy & Other Services (June 2022)",
+      "url": "https://cdnbbsr.s3waas.gov.in/s395192c98732387165bf8e396c0f2dad2/uploads/2022/08/2022080626.pdf",
+      "type": "policy-document"
+    },
+    {
+      "name": "General Financial Rules 2017 (Rule 192 - QCBS)",
+      "url": "https://constitutionofindia.in/rule-192-of-the-general-financial-rules-2017-quality-and-cost-based-selection-qcbs/",
+      "type": "policy-document"
+    },
+    {
+      "name": "RDSS Revamped Distribution Sector Scheme Guidelines",
+      "url": "https://www.nsefi.in/assets/policies/Final_Revamped_Scheme_Guidelines_Revised.pdf",
+      "type": "policy-document"
+    }
+  ],
+  "tenders": [
+    {
+      "id": "power-001",
+      "title": "Selection of Consultancy Firm for Owner's Engineer (OE) services for 100 MW Solar PV + 40 MW/120 MWh BESS at Rajnandgaon, Chhattisgarh",
+      "issuingAuthority": "Solar Energy Corporation of India (SECI)",
+      "tenderRef": "SECI/C&P/RfP/2020/CG/100/120/OE (World Bank STEP ref IN-SECI-214410-CS-QCBS)",
+      "url": "https://www.seci.co.in/whats-new-detail/1131",
+      "datePublished": null,
+      "estimatedValueINR": null,
+      "estimatedValueLabel": null,
+      "scopeSummary": "Owner's Engineer services covering design, construction, commissioning and operations for a 100 MW (AC) / 160 MWp (DC) solar PV project with a 40 MW/120 MWh battery energy storage system, under the World Bank-funded Innovations in Solar Power & Hybrid Technologies project. Scope includes engineering review, quality assurance, and supervision across the project lifecycle.",
+      "consultancyType": "Supervision",
+      "eligibility": {
+        "minAnnualTurnoverINR": null,
+        "similarProjectsRequired": "Prior Owner's Engineer / Lender's Engineer experience on solar and BESS projects; marks graded by cumulative MW (>100 MW solar, >2 MW / large BESS)",
+        "keyPersonnel": [
+          "Solar Expert (15 yrs, min 5 yrs solar)",
+          "Site In-charge (10 yrs, 2 solar projects min 25 MW each, cumulative 100 MWp)",
+          "Civil Design Expert (15 yrs, 5 yrs building design)",
+          "Energy Storage Expert (10 yrs)",
+          "Electrical/Transmission System Design Expert (15 yrs, 10 yrs electrical design)",
+          "Social & Environment Expert (5 yrs)",
+          "Procurement/Contract Specialist (15 yrs)",
+          "Support Staff (5 nos., 5 yrs each) + Project Manager (15 yrs)"
+        ],
+        "other": [
+          "Selection under World Bank Procurement Regulations for IPF Borrowers (Nov 2020)",
+          "10% mark penalty for key experts not on the firm's permanent payroll"
+        ]
+      },
+      "evaluationMethod": "QCBS 80:20",
+      "minTechnicalScore": 75,
+      "technicalCriteria": [
+        {
+          "criterion": "Specific experience of the Consultant relevant to the assignment",
+          "maxMarks": 45,
+          "subCriteria": [
+            "Cumulative MW of OE/Lender's Engineer solar projects (up to 15)",
+            "Cumulative MW of BESS/large projects (up to 20)",
+            "Solar-with-storage preferential experience (2 marks/project, max 10)"
+          ],
+          "notes": "Graded by cumulative capacity of prior OE/LE assignments"
+        },
+        {
+          "criterion": "Approach and Methodology",
+          "maxMarks": 15,
+          "subCriteria": [
+            "Approach, methodology, capabilities, manpower",
+            "Checks to ensure quality and timeliness of deliverables"
+          ],
+          "notes": null
+        },
+        {
+          "criterion": "Key professional staff",
+          "maxMarks": 40,
+          "subCriteria": [
+            "7 named experts scored 3-4 marks each (max 28)",
+            "5 support staff assessed collectively",
+            "Project Manager experience marks"
+          ],
+          "notes": "10% deduction if a key professional is not on permanent payroll"
+        }
+      ],
+      "sourceType": "archived-tender",
+      "sourceDocument": "SECI RFP for Selection of Consultants (Owner's Engineer), World Bank QCBS"
+    },
+    {
+      "id": "power-002",
+      "title": "Consulting Services for REC Policy, Regulatory, Stressed-Asset and Government Program Support",
+      "issuingAuthority": "REC Limited (Ministry of Power)",
+      "tenderRef": "REC/PCM/PMD/Consulting Services/2021-22/03 dated 31.05.2021",
+      "url": "https://recindia.nic.in/uploads/corrigendum/1622526836tenderdocumentconsultant.pdf",
+      "datePublished": "2021-05-31",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": null,
+      "scopeSummary": "Firm-level consulting support to REC across policy design and research, regulatory work, stressed-asset management (valuation, due-diligence, resolution), and program/PMU support for central and state power-distribution schemes. A long-duration advisory engagement staffed by a multi-disciplinary expert team.",
+      "consultancyType": "Transaction Advisory",
+      "eligibility": {
+        "minAnnualTurnoverINR": 4000000000,
+        "similarProjectsRequired": "Demonstrated firm experience in distribution PMU/program management, stressed-asset advisory, and power-sector regulatory work (scored by awarded value over 4 FYs)",
+        "keyPersonnel": [
+          "Engagement Partner (min 20 yrs power-sector advisory)",
+          "Sector Expert - Power (min 13 yrs)",
+          "Engagement Manager / Team Lead",
+          "Team Members / Analysts - Regulatory & Policy (min 3 yrs)",
+          "Team Members / Analysts - Program & Project Management (min 3 yrs)"
+        ],
+        "other": [
+          "Minimum average annual turnover Rs 400 Cr from consultancy (Indian operations) over 3 FYs",
+          "Key experts also assessed via interview marks"
+        ]
+      },
+      "evaluationMethod": "QCBS",
+      "minTechnicalScore": 70,
+      "technicalCriteria": [
+        {
+          "criterion": "Firm / Consultant's Experience",
+          "maxMarks": 25,
+          "subCriteria": [
+            "Distribution PMU / program / project management experience (10)",
+            "Stressed-asset management advisory experience (5)",
+            "Power-sector regulatory work experience (10)"
+          ],
+          "notes": "Marks proportional to awarded value of work; highest-value firm gets full marks"
+        },
+        {
+          "criterion": "Experience and Qualifications of Key Experts / Team",
+          "maxMarks": 75,
+          "subCriteria": [
+            "Per-expert marks for years beyond qualifying minimum (1 mark/additional year to a cap)",
+            "Interview marks per key expert"
+          ],
+          "notes": "Advisory mandates are heavily personnel-weighted"
+        }
+      ],
+      "sourceType": "archived-tender",
+      "sourceDocument": "REC RFP for Consulting Services (Policy/Regulatory/Stressed Asset/Govt Program), 2021"
+    },
+    {
+      "id": "power-003",
+      "title": "Owner's Engineer / pre- and post-award engineering consultancy for super-critical thermal power plant",
+      "issuingAuthority": "NTPC Limited",
+      "tenderRef": null,
+      "url": "https://ntpctender.ntpc.co.in/uploads/job_16953.html",
+      "datePublished": null,
+      "estimatedValueINR": null,
+      "estimatedValueLabel": null,
+      "scopeSummary": "Consultancy for pre-award and post-award engineering of a coal-fired super-critical thermal power plant, covering BTG (boiler, turbo-generator and auxiliaries) and Balance of Plant including associated Electrical, C&I and Civil systems, plus assistance in technical bid evaluation, QA/FQA activities and finalisation of Quality Plans.",
+      "consultancyType": "Supervision",
+      "eligibility": {
+        "minAnnualTurnoverINR": 52000000,
+        "similarProjectsRequired": "Pre- and post-award engineering for at least 2 coal-fired super-critical thermal power plants in successful operation for min 1 year; at least one of min 300 MW capacity",
+        "keyPersonnel": [
+          "Power-plant engineering team covering BTG, BOP, Electrical, C&I and Civil disciplines"
+        ],
+        "other": [
+          "Average annual turnover >= INR 52 million over preceding 3 FYs",
+          "Net worth >= 25% of paid-up share capital",
+          "Holding-company turnover fallback allowed with Letter of Undertaking + Board Resolution"
+        ]
+      },
+      "evaluationMethod": "QCBS",
+      "minTechnicalScore": null,
+      "technicalCriteria": [
+        {
+          "criterion": "Relevant experience of the Consultant",
+          "maxMarks": null,
+          "subCriteria": [
+            "Number and capacity of super-critical thermal plants engineered"
+          ],
+          "notes": "Marks per RFP Annexure-I"
+        },
+        {
+          "criterion": "Qualification and experience of key experts",
+          "maxMarks": null,
+          "subCriteria": [
+            "Discipline-wise CVs (BTG, BOP, Electrical, C&I, Civil)"
+          ],
+          "notes": "Marks per RFP Annexure-I"
+        }
+      ],
+      "sourceType": "archived-tender",
+      "sourceDocument": "NTPC tender (job 16953) - Owner's Engineer / engineering consultancy for thermal plant"
+    },
+    {
+      "id": "power-004",
+      "title": "Lot-1 Package: Planning, Design & Engineering (PDE) works for 1856 MW Sawalkote Hydro Project, J&K",
+      "issuingAuthority": "NHPC Limited",
+      "tenderRef": "NIT No. 2025_NHPC_870158_1 (Works NH/CCW/CC-III/CO-409/PR14325/42)",
+      "url": "https://www.nhpcindia.com/welcome/tender_detail/8319.html",
+      "datePublished": "2025-09-03",
+      "estimatedValueINR": 2098000000,
+      "estimatedValueLabel": "\u20b9209.80 Cr",
+      "scopeSummary": "Planning, design and engineering consultancy for the 1856 MW Sawalkote hydroelectric project near Sidhu village, Ramban district, J&K. Core design covers an RCC (roller compacted concrete) dam, underground caverns, tunnels and associated infrastructure, over a 113-month duration. NOTE: this NIT was subsequently cancelled via Corrigendum-1 (Tender Cancellation Notice, 11-08-2025); retained for its verifiable eligibility/scoring structure.",
+      "consultancyType": "Design Review",
+      "eligibility": {
+        "minAnnualTurnoverINR": 240000000,
+        "similarProjectsRequired": "Experience designing RCC dams >= 80 m height, caverns >= 18 m span, and hydroelectric projects > 500 MW",
+        "keyPersonnel": [
+          "Hydropower design & engineering team (dam, underground works, hydro-mechanical, electro-mechanical)"
+        ],
+        "other": [
+          "Average consultancy turnover >= Rs 24 Cr over last 2 FYs and positive net worth",
+          "Joint ventures allowed with lead partner holding >= 50% equity"
+        ]
+      },
+      "evaluationMethod": "QCBS 70:30",
+      "minTechnicalScore": null,
+      "technicalCriteria": [
+        {
+          "criterion": "Firm's relevant hydro design & engineering experience",
+          "maxMarks": null,
+          "subCriteria": [
+            "RCC dam design (>= 80 m)",
+            "Underground cavern design (>= 18 m span)",
+            "Hydro projects > 500 MW"
+          ],
+          "notes": "Detailed marks in the RFP; eligibility thresholds confirmed"
+        },
+        {
+          "criterion": "Key personnel & methodology",
+          "maxMarks": null,
+          "subCriteria": [],
+          "notes": "Standard QCBS technical heads"
+        }
+      ],
+      "sourceType": "archived-tender",
+      "sourceDocument": "NHPC NIT 2025_NHPC_870158_1 (Sawalkote PDE, Lot-1) - subsequently cancelled"
+    },
+    {
+      "id": "power-005",
+      "title": "Survey and preparation of report (DPR) for ISTS transmission system for evacuation from Kudankulam Unit 3 & 4 (2x1000 MW)",
+      "issuingAuthority": "PFC Consulting Ltd (PFCCL)",
+      "tenderRef": "PFCCL bid document dated 21-03-2024 (Area Code 3(E)(i))",
+      "url": "https://www.pfcclindia.com/download/bid_document_kudankulam_21-03-24.pdf",
+      "datePublished": "2024-03-21",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": null,
+      "scopeSummary": "Route/survey and preparation of report (feasibility/DPR-type) for an inter-state transmission system to evacuate power from Kudankulam nuclear units 3 & 4. Open only to survey agencies pre-empaneled with PFCCL under Area Code 3(E)(i); financial proposals opened only for empaneled and responsive bidders and award made to the lowest cost among them.",
+      "consultancyType": "DPR",
+      "eligibility": {
+        "minAnnualTurnoverINR": null,
+        "similarProjectsRequired": "At least 1 completed survey/report for a 400 kV transmission line of min 96 km, from FY2018-19 up to 7 days before bid submission",
+        "keyPersonnel": [
+          "Survey and transmission-line report team (per empanelment category)"
+        ],
+        "other": [
+          "Mandatory prior Technical Empanelment with PFCCL under Area Code 3(E)(i)",
+          "Bidder evaluated solely on its own credentials (no borrowed credentials)"
+        ]
+      },
+      "evaluationMethod": "LCS",
+      "minTechnicalScore": null,
+      "technicalCriteria": [
+        {
+          "criterion": "Empanelment + qualifying experience (pass/fail)",
+          "maxMarks": null,
+          "subCriteria": [
+            "PFCCL Category empanelment held",
+            "400 kV / 96 km line survey experience"
+          ],
+          "notes": "Empanelment substitutes for a scored technical evaluation; award by lowest cost (L1) among qualified"
+        }
+      ],
+      "sourceType": "archived-tender",
+      "sourceDocument": "PFCCL bid document (Kudankulam ISTS survey & report)"
+    },
+    {
+      "id": "power-006",
+      "title": "Empanelment of Technical Consultants for Project Management Consultancy (PMC) for Solar PV plants (Floating/Ground/Rooftop), PAN India, 2 years",
+      "issuingAuthority": "REC Power Development and Consultancy Ltd (RECPDCL)",
+      "tenderRef": "RECPDCL Tender No. .../CONSULTANTS/288",
+      "url": "https://www.recpdcl.in/assets/data/tenders/NITDocumentToTenderNo288.pdf",
+      "datePublished": null,
+      "estimatedValueINR": null,
+      "estimatedValueLabel": null,
+      "scopeSummary": "Empanelment of technical consultants (2 years) to provide project management consultancy for setting up solar PV plants (floating, ground-mounted, rooftop) at various PAN-India locations. Scope includes RFP preparation, EPC bid evaluation, design and drawings, site survey and quality assurance. Empanelment only; individual assignments awarded to the lowest bidder (L1) among empaneled firms.",
+      "consultancyType": "PMC",
+      "eligibility": {
+        "minAnnualTurnoverINR": 10500000,
+        "similarProjectsRequired": "Completed project management consultancy for solar PV plants (floating and ground-mounted); category-wise experience",
+        "keyPersonnel": [
+          "Solar PMC technical team (design, survey, QA)"
+        ],
+        "other": [
+          "Average annual turnover: Category A Rs 1.05 Cr / Category B Rs 2.63 Cr over 4 FYs",
+          "MSE/Start-up turnover relaxation per GOI guidelines",
+          "Net worth certificate from Chartered Accountant required"
+        ]
+      },
+      "evaluationMethod": "LCS",
+      "minTechnicalScore": null,
+      "technicalCriteria": [
+        {
+          "criterion": "Technical qualification for empanelment (pass/fail)",
+          "maxMarks": null,
+          "subCriteria": [
+            "Prior solar PMC experience",
+            "Turnover & net worth thresholds"
+          ],
+          "notes": "Two-stage: technical qualification for empanelment, then L1 price bid per assignment"
+        }
+      ],
+      "sourceType": "archived-tender",
+      "sourceDocument": "RECPDCL NIT No. 288 - Empanelment of Solar PV PMC consultants"
+    },
+    {
+      "id": "power-007",
+      "title": "Appointment of PFC Third-Party Quality Monitoring Agency (PFC-TPQMA) under RDSS, Package-5 (HP, Uttarakhand & Kerala)",
+      "issuingAuthority": "Power Finance Corporation (PFC)",
+      "tenderRef": "GEM/2024/B/4842170",
+      "url": "https://pfcindia.co.in/ensite/Tenders/TenderDetails/20498",
+      "datePublished": "2024-04-05",
+      "estimatedValueINR": 65900000,
+      "estimatedValueLabel": "\u20b96.59 Cr",
+      "scopeSummary": "Independent third-party quality monitoring and field inspection of distribution-sector works executed under the Revamped Distribution Sector Scheme (RDSS) across Himachal Pradesh, Uttarakhand and Kerala (Package-5). Two-part bid. A parallel Package-6 (AP & Puducherry) was awarded to WAPCOS Ltd at Rs 7.96 Cr (Dec 2024).",
+      "consultancyType": "Supervision",
+      "eligibility": {
+        "minAnnualTurnoverINR": null,
+        "similarProjectsRequired": "Experience in third-party inspection / quality monitoring of power-distribution infrastructure works",
+        "keyPersonnel": [
+          "Field quality inspectors & monitoring engineers (distribution works)"
+        ],
+        "other": [
+          "Two-part (technical + financial) bid via GeM",
+          "TPQMA selections typically use QCBS with a lower qualifying technical bar (~60/100)"
+        ]
+      },
+      "evaluationMethod": "QCBS",
+      "minTechnicalScore": 60,
+      "technicalCriteria": [
+        {
+          "criterion": "Firm experience in quality monitoring / third-party inspection",
+          "maxMarks": null,
+          "subCriteria": [],
+          "notes": "Detailed marks in the GeM bid document"
+        },
+        {
+          "criterion": "Qualified inspection personnel",
+          "maxMarks": null,
+          "subCriteria": [],
+          "notes": null
+        }
+      ],
+      "sourceType": "archived-tender",
+      "sourceDocument": "PFC tender GEM/2024/B/4842170 (PFC-TPQMA, RDSS Package-5)"
+    },
+    {
+      "id": "power-008",
+      "title": "Preparation of Detailed Project Report (DPR) for MSEDCL Feeder Separation works",
+      "issuingAuthority": "MSEDCL (facilitated by RECTPCL)",
+      "tenderRef": "RECTPCL DPR tender dated 10-04-2018 (MSEDCL Feeder Separation)",
+      "url": "https://www.recpdcl.in/assets/data/pdf/Tender%20for%20DPR%20(MSEDCL-Feeder%20Seperation)%2010-04-2018.pdf",
+      "datePublished": "2018-04-10",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": null,
+      "scopeSummary": "Preparation of a Detailed Project Report for feeder-separation works for MSEDCL, including GPS survey of the electrical network, single-line diagrams, mapping of existing and proposed distribution network, and cost estimation. Representative of state-DISCOM distribution DPR consultancy.",
+      "consultancyType": "DPR",
+      "eligibility": {
+        "minAnnualTurnoverINR": 10500000,
+        "similarProjectsRequired": "At least 1 assignment >= Rs 0.5 Cr (or 2 assignments >= Rs 0.3 Cr each) in last 7 FYs covering GPS survey, SLD, network mapping and DPR for a power-distribution network in India",
+        "keyPersonnel": [
+          "Survey & distribution network planning team"
+        ],
+        "other": [
+          "Average financial turnover >= Rs 1.05 Cr over last 4 FYs"
+        ]
+      },
+      "evaluationMethod": "Other",
+      "minTechnicalScore": null,
+      "technicalCriteria": [
+        {
+          "criterion": "Qualifying experience (similar DPR assignments)",
+          "maxMarks": null,
+          "subCriteria": [
+            "GPS survey + SLD + network mapping + DPR value threshold"
+          ],
+          "notes": "Eligibility-driven; scoring/selection method per the RFP body"
+        }
+      ],
+      "sourceType": "archived-tender",
+      "sourceDocument": "RECTPCL tender for DPR (MSEDCL Feeder Separation), 2018"
+    },
+    {
+      "id": "power-009",
+      "title": "Appointment of Project Management Consultant (PMC) for MTSKPY / feeder-level solarisation",
+      "issuingAuthority": "Maharashtra State Electricity Distribution Co. Ltd (MSEDCL)",
+      "tenderRef": "MSEDCL/SPD/MTSKPY/PMC/2025-26/T-02 dated 21.08.2025",
+      "url": "https://www.mahadiscom.in/en/terms-of-reference-tor-for-appointment-of-project-management-consultant-pmc/",
+      "datePublished": "2025-08-21",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": null,
+      "scopeSummary": "Project Management Consultant to support implementation of feeder-level solarisation (Mukhyamantri Saur Krishi Vahini / PM-KUSUM Component-C style) works, including planning, tender support, monitoring and quality assurance. Only the Terms of Reference are public at the source URL; the full RFP carries the detailed evaluation marks.",
+      "consultancyType": "PMC",
+      "eligibility": {
+        "minAnnualTurnoverINR": null,
+        "similarProjectsRequired": "PMC / implementation-support experience for solar or distribution infrastructure schemes (per full RFP)",
+        "keyPersonnel": [
+          "PMC team - solar / distribution project management (per full RFP)"
+        ],
+        "other": [
+          "Detailed eligibility and marks specified in the full RFP, not the public TOR",
+          "State DISCOM PMC selections increasingly use QCBS 70:30"
+        ]
+      },
+      "evaluationMethod": "Other",
+      "minTechnicalScore": null,
+      "technicalCriteria": [
+        {
+          "criterion": "Firm experience & key personnel (per full RFP)",
+          "maxMarks": null,
+          "subCriteria": [],
+          "notes": "Scoring in full RFP; TOR only exposed at source URL"
+        }
+      ],
+      "sourceType": "live-tender",
+      "sourceDocument": "MSEDCL TOR for Appointment of PMC (MTSKPY), 2025"
+    },
+    {
+      "id": "power-010",
+      "title": "Manual for Procurement of Consultancy & Other Services (June 2022) - consultant selection systems",
+      "issuingAuthority": "Ministry of Finance, Department of Expenditure",
+      "tenderRef": null,
+      "url": "https://cdnbbsr.s3waas.gov.in/s395192c98732387165bf8e396c0f2dad2/uploads/2022/08/2022080626.pdf",
+      "datePublished": "2022-06-01",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": null,
+      "scopeSummary": "The governing policy manual for central-government consultancy procurement. Chapter 3 defines the selection systems (LCS, QCBS, Single Source, Fixed Budget); Chapter 6 details the competitive process: RfP preparation, Consultancy Evaluation Committee (CEC), responsiveness screening, technical (quality) evaluation, cost evaluation and combined scoring. Reinforces the GFR-2017 cap of a maximum 80% technical weight in QCBS.",
+      "consultancyType": "Other",
+      "eligibility": {
+        "minAnnualTurnoverINR": null,
+        "similarProjectsRequired": "Defined per assignment RfP; the manual standardises criteria structure",
+        "keyPersonnel": [],
+        "other": [
+          "Technical weight in QCBS must not exceed 80% (GFR 2017 Rule 192)",
+          "Minimum qualifying technical score set in each RfP Data Sheet"
+        ]
+      },
+      "evaluationMethod": "QCBS",
+      "minTechnicalScore": null,
+      "technicalCriteria": [
+        {
+          "criterion": "Standard QCBS technical evaluation heads",
+          "maxMarks": 100,
+          "subCriteria": [
+            "Specific experience of the consultant",
+            "Adequacy & quality of methodology / work plan",
+            "Qualifications & competence of key staff"
+          ],
+          "notes": "Template criteria the manual recommends procuring entities customise"
+        }
+      ],
+      "sourceType": "policy-document",
+      "sourceDocument": "MoF Manual for Procurement of Consultancy & Other Services, June 2022"
+    },
+    {
+      "id": "power-011",
+      "title": "RDSS (Revamped Distribution Sector Scheme) Guidelines - Project Management Agency (PMA) appointment",
+      "issuingAuthority": "Ministry of Power (Nodal Agencies: PFC & REC)",
+      "tenderRef": null,
+      "url": "https://www.nsefi.in/assets/policies/Final_Revamped_Scheme_Guidelines_Revised.pdf",
+      "datePublished": null,
+      "estimatedValueINR": null,
+      "estimatedValueLabel": null,
+      "scopeSummary": "RDSS Component-III (Project Management) requires each DISCOM to appoint one or more Project Management Agencies (PMA) for project formulation, DPR/tender-document preparation, awarding, monitoring, quality assurance, material inspection and results evaluation. New PMAs (for bid-process/monitoring works) must be selected per the Nodal Agency Standard Bidding Documents (SBD), which use QCBS. Defines the PMA fee ceilings and the concurrent/third-party quality monitoring (TPQMA) arrangement.",
+      "consultancyType": "PMC",
+      "eligibility": {
+        "minAnnualTurnoverINR": null,
+        "similarProjectsRequired": "PMA experience in power-distribution schemes (DDUGJY/Saubhagya/IPDS/R-APDRP) or equivalent, per Nodal Agency SBD",
+        "keyPersonnel": [
+          "Project management, monitoring, quality-assurance and inspection personnel per SBD"
+        ],
+        "other": [
+          "PMA charges capped at 2.5% of Component-I (metering) GBS and 1.5% of Component-II (distribution infrastructure) project cost",
+          "PMA to be retained up to physical completion of the project",
+          "Selection via QCBS per Nodal Agency Standard Bidding Documents"
+        ]
+      },
+      "evaluationMethod": "QCBS",
+      "minTechnicalScore": null,
+      "technicalCriteria": [
+        {
+          "criterion": "PMA firm experience & team (per SBD)",
+          "maxMarks": null,
+          "subCriteria": [],
+          "notes": "Detailed marks in the Nodal Agency Standard Bidding Document"
+        }
+      ],
+      "sourceType": "policy-document",
+      "sourceDocument": "RDSS Revamped Distribution Sector Scheme Guidelines (Component-III, PMA)"
+    }
+  ],
+  "evaluationFramework": {
+    "summary": "Consultant selection in the Indian power sector is governed by GFR-2017 Rule 192 and the Ministry of Finance Manual for Procurement of Consultancy & Other Services (2022), which mandate Quality and Cost Based Selection (QCBS) for quality-critical consultancy. The technical (non-financial) weight can never exceed 80%. Domestic PSU and state-DISCOM assignments (NHPC design/engineering, NTPC PMC, MSEDCL PMC/DPR) cluster around QCBS 70:30 with a minimum qualifying technical score of 70/100, while complex multilaterally-funded assignments (e.g. SECI Owner's Engineer under World Bank rules) use QCBS 80:20 with a minimum of 75%.\n\nThe technical score is consistently built from three heads: the firm's relevant power-sector experience, the approach & methodology, and the qualifications/experience of key personnel. The balance between firm experience and personnel shifts by assignment type: engineering / Owner's Engineer roles load firm experience and personnel roughly equally (SECI: 45 firm / 15 method / 40 staff), whereas advisory, regulatory and PMU mandates load personnel far more (REC: 25 firm / 75 experts). Financial capacity (average annual turnover and positive net worth) usually acts as a pass/fail eligibility gate rather than a scored criterion, though transaction-advisory RfPs sometimes award up to ~15 marks for turnover. Holding-company turnover fallback (with a Letter of Undertaking and Board Resolution) is a common relaxation.\n\nTwo non-QCBS models recur: empanelment + lowest-cost (L1) for transmission survey/DPR (PFCCL) and solar PMC pools (RECPDCL), where a pre-vetted 'category' empanelment replaces detailed technical scoring; and two-stage RFQ-to-RFP for large privatisation / transaction-advisory mandates.",
+    "dominantMethod": "QCBS 70:30 (domestic) / QCBS 80:20 (multilateral-funded)",
+    "typicalMinTechnicalScore": 70,
+    "criteria": [
+      {
+        "id": "firm-experience",
+        "label": "Firm's Relevant Power-Sector Experience",
+        "typicalWeightPct": 30,
+        "description": "Authorities assess the number, value and relevance of similar consultancy assignments the firm has completed in the specific power sub-sector (generation, transmission, distribution, renewables/BESS, hydro). Marks are frequently awarded in proportion to the highest awarded value among bidders, and sub-sector match matters (e.g. solar OE experience for a solar OE assignment).",
+        "scoringGuidance": [
+          { "level": "Excellent (90-100%)", "meaning": "5+ closely-similar assignments in the same power sub-sector in the last 7 years, including some of comparable or larger value/capacity" },
+          { "level": "Good (70-89%)", "meaning": "3-4 similar assignments in the sub-sector, with at least one of comparable scale" },
+          { "level": "Fair (50-69%)", "meaning": "1-2 similar assignments, or several adjacent-sub-sector assignments" },
+          { "level": "Poor (<50%)", "meaning": "No directly similar assignment; only tangential or much smaller experience" }
+        ],
+        "inputFields": [
+          {
+            "key": "similarAssignmentsCount",
+            "label": "Number of similar power-sector consultancy assignments completed (last 7 years)",
+            "type": "number",
+            "options": [],
+            "scoring": "5+ scores in the Excellent band, 3-4 Good, 1-2 Fair, 0 Poor"
+          },
+          {
+            "key": "powerSubSector",
+            "label": "Primary power sub-sector of your experience",
+            "type": "select",
+            "options": ["Generation - Thermal", "Generation - Hydro", "Solar / Renewables + BESS", "Transmission", "Distribution", "Cross-cutting / Advisory"],
+            "scoring": "Exact match with the tender sub-sector scores highest; adjacent sub-sector is discounted"
+          },
+          {
+            "key": "highestAssignmentValueINR",
+            "label": "Value of your largest comparable assignment (INR)",
+            "type": "number",
+            "options": [],
+            "scoring": "Marks scale with awarded value; higher value relative to the tender estimate scores better"
+          },
+          {
+            "key": "yearsInPowerConsultancy",
+            "label": "Years the firm has operated in power-sector consultancy",
+            "type": "number",
+            "options": [],
+            "scoring": "More years of continuous relevant operation supports higher marks"
+          }
+        ]
+      },
+      {
+        "id": "key-personnel",
+        "label": "Key Personnel / Team Qualifications & Experience",
+        "typicalWeightPct": 40,
+        "description": "Each named key expert is scored against a role-specific minimum qualification and years of experience, with additional marks (often 1 mark per extra year, capped) for experience beyond the minimum, and sometimes interview marks. Team completeness across required disciplines is essential, and experts not on the firm's permanent payroll may attract a mark penalty (e.g. SECI deducts 10%).",
+        "scoringGuidance": [
+          { "level": "Excellent (90-100%)", "meaning": "All required roles filled by experts comfortably exceeding minimum qualifications and years, on permanent payroll" },
+          { "level": "Good (70-89%)", "meaning": "All roles filled meeting minimums, most experts exceeding them" },
+          { "level": "Fair (50-69%)", "meaning": "All mandatory roles just meet minimums; some gaps in preferred experience" },
+          { "level": "Poor (<50%)", "meaning": "One or more key roles unfilled or below minimum qualification" }
+        ],
+        "inputFields": [
+          {
+            "key": "teamLeaderExperienceYears",
+            "label": "Team Leader / lead expert total relevant experience (years)",
+            "type": "number",
+            "options": [],
+            "scoring": "Years beyond the RfP minimum earn incremental marks up to a cap"
+          },
+          {
+            "key": "keyExpertsMeetingMinCriteria",
+            "label": "Number of proposed key experts who meet or exceed their role's minimum criteria",
+            "type": "number",
+            "options": [],
+            "scoring": "Full team coverage meeting minimums is required for Good/Excellent bands"
+          },
+          {
+            "key": "pctKeyStaffOnPayroll",
+            "label": "Percentage of key experts on the firm's permanent payroll",
+            "type": "number",
+            "options": [],
+            "scoring": "Non-payroll experts can trigger a mark penalty (e.g. 10% per expert in SECI)"
+          },
+          {
+            "key": "disciplineCoverageComplete",
+            "label": "Are all mandatory technical disciplines covered by the proposed team?",
+            "type": "boolean",
+            "options": [],
+            "scoring": "Missing a mandatory discipline caps the criterion in the Poor band"
+          }
+        ]
+      },
+      {
+        "id": "approach-methodology",
+        "label": "Approach, Methodology & Work Plan",
+        "typicalWeightPct": 15,
+        "description": "Assesses the consultant's understanding of the assignment, the technical soundness and innovation of the proposed approach, realism of the work plan and staffing schedule, and quality/timeliness controls for deliverables. Sometimes evaluated via an in-person presentation.",
+        "scoringGuidance": [
+          { "level": "Excellent (90-100%)", "meaning": "Tailored, well-structured methodology with clear QA/timeliness controls and a realistic, well-staffed work plan" },
+          { "level": "Good (70-89%)", "meaning": "Sound methodology and work plan with minor gaps" },
+          { "level": "Fair (50-69%)", "meaning": "Generic approach; work plan partially aligned to the TOR" },
+          { "level": "Poor (<50%)", "meaning": "Vague or boilerplate methodology not tied to the assignment" }
+        ],
+        "inputFields": [
+          {
+            "key": "methodologyQuality",
+            "label": "Self-assessed quality of your proposed methodology",
+            "type": "select",
+            "options": ["Tailored & innovative", "Sound & standard", "Generic", "Not yet developed"],
+            "scoring": "Tailored/innovative maps to the top band; generic maps to Fair"
+          },
+          {
+            "key": "hasQualityControlPlan",
+            "label": "Does your proposal include an explicit QA / deliverable-timeliness control plan?",
+            "type": "boolean",
+            "options": [],
+            "scoring": "A concrete QA/timeliness plan supports higher marks (a named SECI sub-criterion)"
+          },
+          {
+            "key": "workPlanRealism",
+            "label": "Work plan / staffing schedule realism vs the TOR timeline",
+            "type": "select",
+            "options": ["Detailed & realistic", "Adequate", "Optimistic / thin"],
+            "scoring": "Detailed & realistic scores highest"
+          }
+        ]
+      },
+      {
+        "id": "financial-eligibility",
+        "label": "Financial Capacity (Turnover & Net Worth)",
+        "typicalWeightPct": 0,
+        "description": "In most power-sector consultancy tenders this is a pass/fail eligibility gate (minimum average annual turnover over the last 3-4 FYs, plus positive net worth or net worth >= a percentage of paid-up capital). In transaction-advisory RfPs it is sometimes a scored criterion worth up to ~15 marks. Holding-company turnover can often be used with a Letter of Undertaking and Board Resolution.",
+        "scoringGuidance": [
+          { "level": "Excellent (90-100%)", "meaning": "Turnover well above the threshold (e.g. 2x+) with strong positive net worth" },
+          { "level": "Good (70-89%)", "meaning": "Turnover comfortably above the threshold" },
+          { "level": "Fair (50-69%)", "meaning": "Turnover just meets the threshold (passes the gate)" },
+          { "level": "Poor (<50%)", "meaning": "Below the turnover threshold or negative net worth - fails eligibility" }
+        ],
+        "inputFields": [
+          {
+            "key": "avgAnnualTurnoverINR",
+            "label": "Average annual turnover over last 3 FYs (INR)",
+            "type": "number",
+            "options": [],
+            "scoring": "Must meet or exceed the tender's minimum (ranges from ~Rs 1 Cr for small DPRs to Rs 400 Cr for large advisory)"
+          },
+          {
+            "key": "turnoverFromConsultancyINR",
+            "label": "Average annual turnover specifically from consultancy/advisory fees (INR)",
+            "type": "number",
+            "options": [],
+            "scoring": "Several RfPs require the turnover to be from consultancy business specifically"
+          },
+          {
+            "key": "netWorthPositive",
+            "label": "Is your net worth positive in the most recent audited FY?",
+            "type": "boolean",
+            "options": [],
+            "scoring": "Positive net worth (or >= a % of paid-up capital) is commonly mandatory"
+          },
+          {
+            "key": "usingHoldingCompanyTurnover",
+            "label": "Will you rely on holding-company turnover to qualify?",
+            "type": "boolean",
+            "options": [],
+            "scoring": "Allowed in many PSU RfPs with a Letter of Undertaking + Board Resolution"
+          }
+        ]
+      }
+    ],
+    "keyPolicies": [
+      {
+        "name": "Manual for Procurement of Consultancy & Other Services (MoF, June 2022)",
+        "url": "https://cdnbbsr.s3waas.gov.in/s395192c98732387165bf8e396c0f2dad2/uploads/2022/08/2022080626.pdf",
+        "relevance": "Defines QCBS/LCS/SSS/FBS selection systems, the CEC process, and technical/financial scoring for all central-government consultancy procurement."
+      },
+      {
+        "name": "General Financial Rules 2017 - Rule 192 (QCBS)",
+        "url": "https://constitutionofindia.in/rule-192-of-the-general-financial-rules-2017-quality-and-cost-based-selection-qcbs/",
+        "relevance": "Statutory basis for QCBS; caps technical (non-financial) weight at 80% and requires a minimum qualifying technical score."
+      },
+      {
+        "name": "RDSS Revamped Distribution Sector Scheme Guidelines",
+        "url": "https://www.nsefi.in/assets/policies/Final_Revamped_Scheme_Guidelines_Revised.pdf",
+        "relevance": "Mandates DISCOM appointment of Project Management Agencies (PMA) via Nodal Agency SBDs (QCBS), sets PMA fee ceilings (2.5%/1.5%), and provides for third-party quality monitoring (TPQMA)."
+      }
+    ]
+  }
+}

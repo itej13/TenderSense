@@ -1,0 +1,697 @@
+{
+  "sector": "urban",
+  "sectorLabel": "Urban & Smart Cities",
+  "generatedAt": "2026-07-18",
+  "sources": [
+    {
+      "name": "Manual for Procurement of Consultancy & Other Services (Updated June 2022), Ministry of Finance, Department of Expenditure",
+      "url": "https://cdnbbsr.s3waas.gov.in/s395192c98732387165bf8e396c0f2dad2/uploads/2022/08/2022080626.pdf",
+      "type": "policy-document"
+    },
+    {
+      "name": "Model Tender Document for Procurement of Consultancy Services, Ministry of Finance (CPPP)",
+      "url": "https://eprocure.gov.in/cppp/sites/default/files/standard_biddingdocs/Procurement_Consultancy_Services.pdf",
+      "type": "policy-document"
+    },
+    {
+      "name": "Smart City Mission Guidelines, Ministry of Urban Development (MoUD/MoHUA)",
+      "url": "https://mahadma.maharashtra.gov.in/wp-content/uploads/2025/07/SmartCityGuidelines.pdf",
+      "type": "policy-document"
+    },
+    {
+      "name": "SmartNet NIUA (National Institute of Urban Affairs) - RFP repository",
+      "url": "https://smartnet.niua.org",
+      "type": "authority-website"
+    },
+    {
+      "name": "Central Public Procurement Portal (eProcure)",
+      "url": "https://eprocure.gov.in",
+      "type": "tender-portal"
+    },
+    {
+      "name": "QCBS in Government Tenders (industry reference note)",
+      "url": "https://arched.ai/resources/qcbs",
+      "type": "authority-website"
+    }
+  ],
+  "tenders": [
+    {
+      "id": "urban-001",
+      "title": "Appointment of Project Management Consultant (PMC) for the Smart City Proposal (Chandigarh Smart City Limited)",
+      "issuingAuthority": "Chandigarh Smart City Limited (SPV)",
+      "tenderRef": "RFP No. 1/2017",
+      "url": "https://smartnet.niua.org/sites/default/files/NIT_1_0.pdf",
+      "datePublished": "2017-01-01",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "Not disclosed (EMD ₹10 L)",
+      "scopeSummary": "PMC to assist the Smart City SPV in developing, planning, designing, managing, implementing and monitoring the Smart City Proposal (area-based development plus pan-city projects). Time-based, performance-linked engagement covering project structuring, procurement support, supervision and quality assurance.",
+      "consultancyType": "PMC",
+      "eligibility": {
+        "minAnnualTurnoverINR": 5000000000,
+        "similarProjectsRequired": "Experience in urban infrastructure / smart-city advisory or PMC assignments; office in India; not blacklisted",
+        "keyPersonnel": ["Team Leader / Project Director", "Urban Planner", "Urban Infrastructure Expert", "Financial/PPP Expert", "Procurement Specialist", "ICT/Smart Solutions Expert"],
+        "other": ["Company incorporated in India under Companies Act", "For JV/consortium each member min avg turnover INR 250 Cr", "EMD INR 10 lakh"]
+      },
+      "evaluationMethod": "QCBS 80:20",
+      "minTechnicalScore": 75,
+      "technicalCriteria": [
+        {
+          "criterion": "Specific experience of the consultant relevant to the assignment",
+          "maxMarks": 40,
+          "subCriteria": ["Similar smart-city / urban PMC assignments", "Sector coverage (mobility, e-governance, area development)"],
+          "notes": "Firm experience weighted heavily"
+        },
+        {
+          "criterion": "Adequacy and quality of proposed methodology and work plan (incl. presentation)",
+          "maxMarks": 20,
+          "subCriteria": ["Technical approach", "Methodology", "Work plan", "Organisation & staffing", "Presentation"]
+        },
+        {
+          "criterion": "Qualifications and competence of key personnel",
+          "maxMarks": 40,
+          "subCriteria": ["General qualifications", "Adequacy for assignment", "Experience in region/sector"]
+        }
+      ],
+      "sourceType": "archived-tender",
+      "sourceDocument": "RFP No. 1/2017, Chandigarh Smart City Limited (hosted on SmartNet NIUA)"
+    },
+    {
+      "id": "urban-002",
+      "title": "Selection of Project Management Consultant (PMC) for Puducherry Smart City",
+      "issuingAuthority": "Puducherry Smart City Development Limited (PSCDL)",
+      "tenderRef": "PMC RFP (issued Feb 2018)",
+      "url": "http://www.pondicherrysmartcity.in/admin/tender/20191218043332896778578.pdf",
+      "datePublished": "2018-02-28",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "Not disclosed (EMD ₹20 L)",
+      "scopeSummary": "PMC for design, DPR preparation, supervision and monitoring of Smart City area-based and pan-city projects covering urban infrastructure (roads/mobility, ICT, e-governance, affordable housing/slum improvement, energy). Firm supports PSCDL across the project lifecycle.",
+      "consultancyType": "PMC",
+      "eligibility": {
+        "minAnnualTurnoverINR": 300000000,
+        "similarProjectsRequired": "Experience as PMC / design-DPR / supervision consultant across urban infra, mobility, ICT, housing (assignments of at least ₹100 lakh each scored per project)",
+        "keyPersonnel": ["Team Leader (to present methodology)", "Urban Infrastructure Expert", "Urban Mobility/Transport Expert", "ICT/Smart Solutions Expert", "Affordable Housing/Slum Improvement Expert"],
+        "other": ["Min avg annual turnover ₹30 Cr (single) / ₹10 Cr per consortium member", "Office in India operational 3+ years", "EMD ₹20 lakh", "Not blacklisted in last 10 years"]
+      },
+      "evaluationMethod": "QCBS 80:20",
+      "minTechnicalScore": 70,
+      "technicalCriteria": [
+        {
+          "criterion": "Specific experience of the consultant firm relevant to the assignment",
+          "maxMarks": 40,
+          "subCriteria": ["Urban infra PMC/design/supervision", "Urban mobility & transport", "ICT & e-governance", "Affordable housing / slum improvement", "Energy / renewable"]
+        },
+        {
+          "criterion": "Proposed methodology and work plan (with Team Leader presentation)",
+          "maxMarks": 10,
+          "subCriteria": ["Technical approach (2)", "Methodology (2)", "Work plan (4)", "Organisation & staffing (2)"]
+        },
+        {
+          "criterion": "Qualifications and competence of key professional staff",
+          "maxMarks": 50,
+          "subCriteria": ["General qualifications", "Adequacy for assignment", "Region/sector experience"],
+          "notes": "Balance of the 100 marks allocated to key personnel"
+        }
+      ],
+      "sourceType": "archived-tender",
+      "sourceDocument": "Puducherry Smart City PMC RFP (pondicherrysmartcity.in)"
+    },
+    {
+      "id": "urban-003",
+      "title": "Appointment of Smart City Infrastructure Project Management Consultants (Strategic Advisory & Smart Infrastructure PM Support)",
+      "issuingAuthority": "New Delhi Municipal Council Smart City Limited (NDMCSCL)",
+      "tenderRef": "RFP No. 01/NDMCSCL/PMC/2016 dated 28.10.2016",
+      "url": "https://www.ndmc.gov.in/public_notice/RFP_Smart_city_28102016.pdf",
+      "datePublished": "2016-10-28",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "Not disclosed (EMD ₹25 L)",
+      "scopeSummary": "Strategic advisory and smart infrastructure project management support to NDMCSCL for ~24 months, with a 19-member core+non-core team (Project Director, Procurement, Financial, Spatial Urban Planner, Urban Infrastructure, etc.). Includes bid advisory, financial modelling and feasibility for water/transport/affordable-housing/parking sub-projects.",
+      "consultancyType": "PMC",
+      "eligibility": {
+        "minAnnualTurnoverINR": 2500000000,
+        "similarProjectsRequired": "At least one project (>₹10 Cr contract value) of project management/monitoring for an ULB in India; bid advisory experience on SCP-listed cities",
+        "keyPersonnel": ["Project Director", "Procurement Specialist", "Sustainability Expert", "Financial Expert", "Spatial Urban Planner", "Urban Infrastructure Specialist"],
+        "other": ["Avg annual consulting revenue of Lead Member ≥ ₹250 Cr (last 3 FY)", "EMD ₹25 lakh", "Not blacklisted"]
+      },
+      "evaluationMethod": "QCBS",
+      "minTechnicalScore": 70,
+      "technicalCriteria": [
+        {
+          "criterion": "Financial strength (avg annual consulting revenue of Lead Member)",
+          "maxMarks": 10,
+          "subCriteria": ["≥₹325 Cr: 10", "₹300-324 Cr: 5", "₹275-299 Cr: 3", "₹250-274 Cr: 1"]
+        },
+        {
+          "criterion": "Technical capability of firm/consortium (bid advisory on SCP projects)",
+          "maxMarks": 55,
+          "subCriteria": ["5 marks per bid-advisory experience related to SCP-listed cities"]
+        },
+        {
+          "criterion": "Key personnel (Project Director 8, Procurement 5, Sustainability 5, Financial 5, Spatial Urban Planner 5, Urban Infra 5, plus non-core)",
+          "maxMarks": 35,
+          "subCriteria": ["Core staff CVs", "Non-core staff CVs"],
+          "notes": "CVs not meeting desired qualification are not marked"
+        }
+      ],
+      "sourceType": "archived-tender",
+      "sourceDocument": "RFP No. 01/NDMCSCL/PMC/2016"
+    },
+    {
+      "id": "urban-004",
+      "title": "Appointment of Project Management Consultant (PMC) for the Smart City Proposal, Nashik",
+      "issuingAuthority": "Nashik Municipal Smart City Development Corporation Limited (NMSCDCL)",
+      "tenderRef": "RFP No. 01/2017-18/NMSCDCL/Nashik",
+      "url": "https://nmc.gov.in/assets/admin/upload/download/74994_2-TD.pdf",
+      "datePublished": "2017-01-01",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "Not disclosed",
+      "scopeSummary": "PMC to assist NMSCDCL in developing, planning, designing, managing, implementing and monitoring the Smart City Proposal of Nashik. Time-based engagement linked with performance, covering area-based development and pan-city smart solutions.",
+      "consultancyType": "PMC",
+      "eligibility": {
+        "minAnnualTurnoverINR": null,
+        "similarProjectsRequired": "Relevant experience in similar smart-city / urban infrastructure assignments (per Data Sheet)",
+        "keyPersonnel": ["Team Leader", "Urban Planner", "Urban Infrastructure Expert", "Financial Expert"],
+        "other": ["QCBS time-based, linked with performance", "Qualification documents pass/fail before technical scoring"]
+      },
+      "evaluationMethod": "QCBS 80:20",
+      "minTechnicalScore": 70,
+      "technicalCriteria": [
+        {
+          "criterion": "Specific experience of the consultant firm relevant to the assignment",
+          "maxMarks": 30,
+          "subCriteria": ["Similar smart-city / urban assignments"]
+        },
+        {
+          "criterion": "Adequacy of methodology, work plan and presentation",
+          "maxMarks": 20,
+          "subCriteria": ["Understanding of TOR", "Methodology", "Work plan", "Presentation"]
+        },
+        {
+          "criterion": "Qualifications and competence of key personnel",
+          "maxMarks": 50,
+          "subCriteria": ["General qualifications (20% of position marks)", "Adequacy / relevant sector experience (80% of position marks)"]
+        }
+      ],
+      "sourceType": "archived-tender",
+      "sourceDocument": "RFP No. 01/2017-18/NMSCDCL/Nashik"
+    },
+    {
+      "id": "urban-005",
+      "title": "Selection of PMC to Design, Develop, Manage & Implement the Integrated Command & Control Centre (ICCC), CCTV, OFC & IT-enabled Infrastructure",
+      "issuingAuthority": "Bhavnagar Municipal Corporation (BMC), Gujarat",
+      "tenderRef": "BMC/COMPUTER/01/2025-26",
+      "url": "https://bmcgujarat.com/media/ofad1apf/rfp-for-selection-of-pmc.pdf",
+      "datePublished": "2025-01-01",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "Not disclosed",
+      "scopeSummary": "PMC to provide end-to-end planning, design, vendor coordination, implementation monitoring, quality assurance and capacity building for an Integrated Command & Control Centre, city-wide CCTV surveillance, an OFC network and related IT-enabled smart infrastructure under the Smart City initiative.",
+      "consultancyType": "PMC",
+      "eligibility": {
+        "minAnnualTurnoverINR": null,
+        "similarProjectsRequired": "Demonstrable experience managing similar large-scale urban infrastructure and ICT/ICCC projects; pass pre-qualification stage",
+        "keyPersonnel": ["Project Manager / Team Leader", "ICT/Systems Architect", "Network (OFC) Expert", "Urban Infrastructure Expert"],
+        "other": ["Pre-qualification pass/fail before technical evaluation", "Technical presentation-cum-demonstration required"]
+      },
+      "evaluationMethod": "QCBS 80:20",
+      "minTechnicalScore": 70,
+      "technicalCriteria": [
+        {
+          "criterion": "Firm experience / technical capability (post pre-qualification)",
+          "maxMarks": null,
+          "subCriteria": ["Similar ICCC / smart infrastructure assignments"],
+          "notes": "Total technical = 100; min 70 to qualify. Municipal Commissioner may lower threshold if no bidder qualifies."
+        },
+        {
+          "criterion": "Key personnel qualifications",
+          "maxMarks": null,
+          "subCriteria": ["CVs of proposed experts"]
+        },
+        {
+          "criterion": "Approach, methodology & presentation-cum-demonstration",
+          "maxMarks": null,
+          "subCriteria": ["Understanding of scope", "Methodology", "Presentation"]
+        }
+      ],
+      "sourceType": "live-tender",
+      "sourceDocument": "RFP for Selection of PMC for ICCC, Bhavnagar Municipal Corporation (BMC/COMPUTER/01/2025-26)"
+    },
+    {
+      "id": "urban-006",
+      "title": "Selection of Consultant for Preparation of Area Development Plan & Catalytic Project Strategy for the Vizag Bay City",
+      "issuingAuthority": "Visakhapatnam Metropolitan Region Development Authority (VMRDA), Dept. of Municipal Administration & Urban Development, Govt. of Andhra Pradesh",
+      "tenderRef": null,
+      "url": "http://vmrda.gov.in/new%20pdf/639089063788413636.pdf",
+      "datePublished": null,
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "Not disclosed (EMD ₹10 L)",
+      "scopeSummary": "Consultant to prepare an Area Development Plan and Catalytic Project Strategy for the Vizag Bay City, including GIS base-map preparation, stakeholder consultation, SWOC analysis, infrastructure cost estimation, disaster-resilience/climate planning, and smart/digital infrastructure planning under a land-pooling/PPP framework.",
+      "consultancyType": "Design Review",
+      "eligibility": {
+        "minAnnualTurnoverINR": null,
+        "similarProjectsRequired": "Experience preparing area development / master plans and integrated infrastructure plans for large urban areas",
+        "keyPersonnel": ["Team Leader / Urban Planner", "GIS Expert", "Infrastructure Engineer", "Transport Planner", "Socio-economic / Environment Expert"],
+        "other": ["EMD ₹10 lakh (BG/DD)", "AP eProcurement portal submission"]
+      },
+      "evaluationMethod": "QCBS",
+      "minTechnicalScore": 70,
+      "technicalCriteria": [
+        {
+          "criterion": "Consultant's relevant experience (area development / master planning)",
+          "maxMarks": null,
+          "subCriteria": ["Similar planning assignments"]
+        },
+        {
+          "criterion": "Proposed key experts",
+          "maxMarks": null,
+          "subCriteria": ["CVs of planners and specialists"]
+        },
+        {
+          "criterion": "Methodology & approach for the Area Development Plan",
+          "maxMarks": null,
+          "subCriteria": ["Understanding of TOR", "Work plan", "Staffing plan"]
+        }
+      ],
+      "sourceType": "archived-tender",
+      "sourceDocument": "RFP for Selection of Consultant for Area Development Plan, Vizag Bay City (VMRDA)"
+    },
+    {
+      "id": "urban-007",
+      "title": "Selection of Transaction Advisor & Project Management Consultant for Underground Commercial Complex with Theme Park at Nagababa Khatal (PPP)",
+      "issuingAuthority": "Ranchi Municipal Corporation (RMC), Jharkhand",
+      "tenderRef": null,
+      "url": "https://ranchimunicipal.com/docs/rfp_nagababa.pdf",
+      "datePublished": null,
+      "estimatedValueINR": 1000000000,
+      "estimatedValueLabel": "~₹100 Cr (estimated project cost, PPP)",
+      "scopeSummary": "Transaction Advisory plus PMC to conceptualize the project, prepare a comprehensive DPR, structure and select a developer on PPP (finance-build-operate-maintain), provide financial/technical advisory, and supervise/monitor construction of an underground commercial complex with a theme park (~4 acre, ~₹100 Cr).",
+      "consultancyType": "Transaction Advisory",
+      "eligibility": {
+        "minAnnualTurnoverINR": 100000000,
+        "similarProjectsRequired": "Transaction Advisory for 2+ PPP projects (>₹20 Cr each) AND PMC for 2+ civil infrastructure projects (>₹20 Cr each) in India",
+        "keyPersonnel": ["Team Leader", "PPP/Financial Expert", "Civil/Structural Engineer", "Architect", "Legal Expert"],
+        "other": ["Min avg annual consultancy turnover ₹10 Cr (last 3 FY)", "Consortium up to 3 members allowed"]
+      },
+      "evaluationMethod": "QCBS 80:20",
+      "minTechnicalScore": null,
+      "technicalCriteria": [
+        {
+          "criterion": "Project Experience",
+          "maxMarks": 40,
+          "subCriteria": ["1A: Transaction Advisory for PPP urban infra projects (5 marks/assignment >₹20 Cr)", "1B: PMC for civil infra projects (5 marks/assignment >₹20 Cr)", "1C: TA+PMC of urban infra in Jharkhand (5 marks/assignment >₹10 Cr)"]
+        },
+        {
+          "criterion": "Key personnel and methodology",
+          "maxMarks": 60,
+          "subCriteria": ["CVs of experts", "Approach & methodology"],
+          "notes": "Composite score = 0.8*Technical + 0.2*Financial"
+        }
+      ],
+      "sourceType": "archived-tender",
+      "sourceDocument": "RFP for Transaction Advisor & PMC, Nagababa Khatal, Ranchi Municipal Corporation"
+    },
+    {
+      "id": "urban-008",
+      "title": "Appointment of Independent Engineer / PMC for Municipal Solid Waste Management Project at Berhampur Municipal Corporation (DBOT)",
+      "issuingAuthority": "Odisha Urban Infrastructure Development Fund (OUIDF) for Berhampur Municipal Corporation",
+      "tenderRef": "RFP Notice No. 05/OUIDF-178/2017 dated 25.11.2017",
+      "url": "http://www.ouidf.in/pdf/RFP_SWM_BeMC_Final_25th_Nov_2017.pdf",
+      "datePublished": "2017-11-25",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "Not disclosed (Bid security ₹1.5 L)",
+      "scopeSummary": "Independent Engineer / PMC / construction supervision consultant for an integrated Municipal Solid Waste Management project implemented on Design-Build-Operate-Transfer (DBOT) mode. KfW-assisted; consultant supervises the operator and certifies performance across the project period.",
+      "consultancyType": "Supervision",
+      "eligibility": {
+        "minAnnualTurnoverINR": 30000000,
+        "similarProjectsRequired": "One similar project with fee ≥ ₹25 lakh (or ongoing 1-year engagement) as IE / PMC / Authority's Engineer / Construction Supervision in last 10 years",
+        "keyPersonnel": ["Team Leader", "Solid Waste Management Expert", "Environmental Engineer", "Civil/Structural Engineer"],
+        "other": ["Joint avg annual turnover ≥ ₹3 Cr from consultancy (last 3 FY)", "Positive net worth", "Bid security ₹1.5 lakh"]
+      },
+      "evaluationMethod": "QCBS",
+      "minTechnicalScore": 75,
+      "technicalCriteria": [
+        {
+          "criterion": "Bidder's experience in similar assignments",
+          "maxMarks": null,
+          "subCriteria": ["SWM IE/PMC assignments"]
+        },
+        {
+          "criterion": "Qualification & experience of key personnel",
+          "maxMarks": null,
+          "subCriteria": ["CVs of SWM/environmental experts"]
+        },
+        {
+          "criterion": "Approach & methodology / work plan (with presentation)",
+          "maxMarks": 30,
+          "subCriteria": ["Documentation completeness (5)", "Approach & methodology (15)", "Work plan (5)", "Manning schedule (5)", "Comments on TOR (5)"]
+        }
+      ],
+      "sourceType": "archived-tender",
+      "sourceDocument": "RFP Notice No. 05/OUIDF-178/2017 (Berhampur SWM Independent Engineer)"
+    },
+    {
+      "id": "urban-009",
+      "title": "Selection of Consultant for State-Level Programme Management Unit (PMU) for Solid & Liquid Waste Management under SBM 2.0 (Urban)",
+      "issuingAuthority": "Department of Urban Development & Housing, Government of Arunachal Pradesh",
+      "tenderRef": null,
+      "url": "https://udarunachal.gov.in/docs/tenders/RFP_01_2022_23.pdf",
+      "datePublished": "2022-01-01",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "Not disclosed (EMD ₹5 L)",
+      "scopeSummary": "Consultant to run a State-Level Programme Management Unit supporting implementation of Solid & Liquid Waste Management under Swachh Bharat Mission 2.0 (Urban) across 47 ULBs — preparing plans, validating DPRs, procurement assistance, project development and implementation support, ODF/GFC star-rating hand-holding.",
+      "consultancyType": "PMC",
+      "eligibility": {
+        "minAnnualTurnoverINR": 500000000,
+        "similarProjectsRequired": "SWM / sanitation PMU or advisory experience; key personnel with SWM domain experience",
+        "keyPersonnel": ["Team Leader cum Programme Management Expert", "Solid Waste Management Expert", "Waste Water Expert", "MIS Expert", "IEC & Capacity Building Expert"],
+        "other": ["Min avg annual revenue ≥ ₹50 Cr from consultancy (last 3 FY)", "Positive net worth & profit last 3 FY", "EMD ₹5 lakh", "MSME exemptions apply"]
+      },
+      "evaluationMethod": "QCBS",
+      "minTechnicalScore": 60,
+      "technicalCriteria": [
+        {
+          "criterion": "Relevant experience of the firm (SWM)",
+          "maxMarks": 10,
+          "subCriteria": ["1 completed/ongoing SWM project (sole): 5", "More than one (JV/consortium): 10"]
+        },
+        {
+          "criterion": "Relevant experience of the team (key experts by years of SWM experience)",
+          "maxMarks": 60,
+          "subCriteria": ["Team Leader (8/12/15 by 7-10 / >10-12 / >12 yrs)", "SWM Expert", "Waste Water Expert", "MIS Expert", "IEC & CB Expert"]
+        },
+        {
+          "criterion": "Proposed approach & methodology / presentation",
+          "maxMarks": 30,
+          "subCriteria": ["Conceptual clarity", "Work plan & methodology", "Team presentation"]
+        }
+      ],
+      "sourceType": "archived-tender",
+      "sourceDocument": "RFP_01_2022_23, UD&H Arunachal Pradesh (SBM 2.0-U PMU)"
+    },
+    {
+      "id": "urban-010",
+      "title": "GIS-Based Master Plan Formulation for AMRUT City - Roorkee",
+      "issuingAuthority": "State Mission Directorate, Urban Development, Government of Uttarakhand",
+      "tenderRef": null,
+      "url": "https://www.scribd.com/document/910397200/Uttarakhand-gis-based-master-plan-rfp-amrut-2-0",
+      "datePublished": null,
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "Not disclosed (Bid security ₹1 L)",
+      "scopeSummary": "Consultancy firm to prepare a GIS-based Draft Master Plan for Roorkee under AMRUT (sub-scheme: GIS-based Master Plan Formulation), per the Uttarakhand Urban & Country Planning & Development Act 1973 — demand assessment, issue identification, projected requirements, development strategy and draft proposals on GIS base maps with sector-wise data analysis.",
+      "consultancyType": "Other",
+      "eligibility": {
+        "minAnnualTurnoverINR": null,
+        "similarProjectsRequired": "Experience preparing GIS-based master/development plans; plan formulation using GIS database",
+        "keyPersonnel": ["Team Leader / Urban Planner", "GIS Expert", "Transport Planner", "Socio-economic Expert"],
+        "other": ["RFP document fee ₹10,000", "Bid security ₹1 lakh"]
+      },
+      "evaluationMethod": "LCS",
+      "minTechnicalScore": 80,
+      "technicalCriteria": [
+        {
+          "criterion": "Specific experience of the consulting firm related to the assignment",
+          "maxMarks": 20,
+          "subCriteria": ["Similar assignments (5 × 2 marks)", "Experience & capabilities", "Plan formulation using GIS database"]
+        },
+        {
+          "criterion": "Adequacy of proposed work plan & methodology in response to TOR",
+          "maxMarks": 30,
+          "subCriteria": ["Understanding TOR (10)", "Methodology (10)", "Work plan (10)"]
+        },
+        {
+          "criterion": "Qualifications & competence of key professional staff",
+          "maxMarks": 50,
+          "subCriteria": ["Team Leader/Urban Planner (15)", "GIS Expert (15)", "Transport Planner (10)", "Socio-economic Expert (10)"]
+        }
+      ],
+      "sourceType": "archived-tender",
+      "sourceDocument": "Uttarakhand GIS-based Master Plan RFP (AMRUT), Roorkee - Least Cost Selection method"
+    },
+    {
+      "id": "urban-011",
+      "title": "Selection of Consultant for Vision & Master Plan, Detailed Layout Plan, Urban Design Guidelines, Integrated Infrastructure Plan & Preliminary Engineering Design for Sector 29, Gurugram",
+      "issuingAuthority": "Haryana Shahari Vikas Pradhikaran (HSVP)",
+      "tenderRef": null,
+      "url": "https://www.hsvphry.org.in/documents/home/news_updates/newsUpdate_202407031005_638555979199086778.pdf",
+      "datePublished": "2024-07-01",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "Not disclosed (turnover req ₹50 Cr)",
+      "scopeSummary": "Master-planner-cum-engineering firm to prepare a Vision & Master Plan, detailed layout plan, urban design guidelines, integrated infrastructure plan (roads, water, power, ICT, SWM) and preliminary engineering design for Sector 29, Gurugram — including drone topographic survey, GIS base map, stakeholder consultation and SWOC analysis.",
+      "consultancyType": "Design Review",
+      "eligibility": {
+        "minAnnualTurnoverINR": 500000000,
+        "similarProjectsRequired": "Master planning / urban design assignments; Team Leader with relevant completed projects",
+        "keyPersonnel": ["Team Leader (Urban Planner)", "Urban Designer", "GIS Expert", "Infrastructure/Civil Engineer"],
+        "other": ["Avg annual turnover ≥ ₹50 Cr per annum (each of last 3 FY)", "Presentation on approach & methodology required"]
+      },
+      "evaluationMethod": "QCBS",
+      "minTechnicalScore": 75,
+      "technicalCriteria": [
+        {
+          "criterion": "Average turnover of applicant",
+          "maxMarks": 10,
+          "subCriteria": ["₹50 Cr: 5", "₹51-100 Cr: 7", "higher slabs: up to 10"]
+        },
+        {
+          "criterion": "Key personnel (Team Leader & experts)",
+          "maxMarks": null,
+          "subCriteria": ["Team Leader: eligibility + 2 relevant projects (10)", "Other experts"]
+        },
+        {
+          "criterion": "Approach & methodology (with presentation)",
+          "maxMarks": null,
+          "subCriteria": ["Understanding", "Methodology", "Work plan"]
+        }
+      ],
+      "sourceType": "archived-tender",
+      "sourceDocument": "HSVP Sector 29 Gurugram Master Plan RFP (Revised 01.07.2024)"
+    },
+    {
+      "id": "urban-012",
+      "title": "Empanelment of Consultants / Architects for Technical Consultancy, Architectural Planning, DPR Preparation & Bid Process Management for Building & Infrastructure Works",
+      "issuingAuthority": "Ujjain Smart City Limited (USCL)",
+      "tenderRef": "NIT No. USCL/427 (Tender ID 2026_UAD_506948_1) dated 12.05.2026",
+      "url": "https://ujjainsmartcity.com/wp-content/uploads/2026/05/RFPEmpanelment2026.pdf",
+      "datePublished": "2026-05-12",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "Empanelment (Group A ≤₹10 Cr, Group B >₹10 Cr)",
+      "scopeSummary": "Empanelment of consultants/architects to provide technical consultancy, architectural planning, design & estimation, DPR preparation and bid process management for building and civic infrastructure works, ensuring designs meet national standards/codes. Empanelment split into Group A (projects ≤ ₹10 Cr) and Group B (> ₹10 Cr).",
+      "consultancyType": "Design Review",
+      "eligibility": {
+        "minAnnualTurnoverINR": 2500000,
+        "similarProjectsRequired": "In last 5 years, similar consultancy for Govt/Semi-Govt: 3 projects >₹2 Cr, or 2 projects >₹2.5 Cr, or 1 project >₹4 Cr",
+        "keyPersonnel": ["Architect / Team Leader", "Structural Engineer", "Planners", "MEP/Estimation Experts"],
+        "other": ["Min avg annual consultancy turnover ₹0.25 Cr (any 3 of last 5 FY)", "UDIN-certified statements", "Existing empaneled consultants under NIT USCL/342 need not re-apply"]
+      },
+      "evaluationMethod": "QCBS",
+      "minTechnicalScore": null,
+      "technicalCriteria": [
+        {
+          "criterion": "Technical capacity (similar completed building/infra consultancy projects, last 5 years)",
+          "maxMarks": null,
+          "subCriteria": ["Number and value of completed projects for Govt/Semi-Govt bodies"]
+        },
+        {
+          "criterion": "Financial capacity (avg annual consultancy turnover)",
+          "maxMarks": null,
+          "subCriteria": ["UDIN-certified audited turnover"]
+        }
+      ],
+      "sourceType": "live-tender",
+      "sourceDocument": "NIT No. USCL/427, Ujjain Smart City Limited (Empanelment RFP 2026)"
+    },
+    {
+      "id": "urban-013",
+      "title": "Selection of Agency for Establishment & Operation of State-Level & City-Level Technical Cells (SLTC/CLTC) under PMAY-U 2.0 (Housing for All)",
+      "issuingAuthority": "Rajasthan Urban Drinking Water, Sewerage & Infrastructure Corporation Ltd (RUDSICO), Govt. of Rajasthan",
+      "tenderRef": null,
+      "url": "https://www.scribd.com/document/1010371269/Tender-Document",
+      "datePublished": "2026-02-27",
+      "estimatedValueINR": 263176000,
+      "estimatedValueLabel": "₹26.32 Cr (Tender Value ₹2631.76 Lakh)",
+      "scopeSummary": "Agency to provide and manage manpower for a State-Level Technical Cell and City-Level Technical Cells supporting implementation of Pradhan Mantri Awas Yojana-Urban 2.0 in Rajasthan — programme management, coordination, MIS, capacity building and technical support to the state mission across ULBs.",
+      "consultancyType": "PMC",
+      "eligibility": {
+        "minAnnualTurnoverINR": 86900000,
+        "similarProjectsRequired": "≥5 assignments providing technical manpower of similar nature to Govt/PSU (15 marks); years in business ≥10 (15 marks)",
+        "keyPersonnel": ["Urban Planner/Town Planning Expert", "Engineering Expert (Civil/Infra)", "Capacity Building/Social Development Expert", "IEC Expert", "MIS/IT Expert", "Data Management Expert"],
+        "other": ["Avg turnover last 3 FY ≥ 30% of estimated value (~₹8.69 Cr)", "Bid security 2% of tender value", "UDIN-certified turnover"]
+      },
+      "evaluationMethod": "LCS",
+      "minTechnicalScore": 60,
+      "technicalCriteria": [
+        {
+          "criterion": "Overall financial strength (avg turnover last 3 FY)",
+          "maxMarks": 30,
+          "subCriteria": ["≥₹25 Cr: 30", ">₹15 - <₹25 Cr: 25", "≥₹8.69 - <₹15 Cr: 20"]
+        },
+        {
+          "criterion": "Previous work experience (years in business + similar manpower assignments)",
+          "maxMarks": 30,
+          "subCriteria": ["Years in business (≥10: 15)", "Similar assignments to Govt/PSU (≥10: 15)"]
+        },
+        {
+          "criterion": "Proposed methodology, work plan, risk assessment",
+          "maxMarks": 10,
+          "subCriteria": ["Methodology (5)", "Work plan / timeline (5)"]
+        },
+        {
+          "criterion": "Key professional staff qualification & competency (7 SLTC + 5 CLTC positions)",
+          "maxMarks": 30,
+          "subCriteria": ["SLTC experts (21)", "CLTC experts (9)"],
+          "notes": "Per-expert marks split ~40% qualification / 60% experience"
+        }
+      ],
+      "sourceType": "live-tender",
+      "sourceDocument": "RUDSICO RFP for SLTC/CLTC under PMAY-U 2.0, Rajasthan (Least Cost Selection method)"
+    }
+  ],
+  "evaluationFramework": {
+    "summary": "Across urban and smart-city consultancy procurements, Indian authorities almost universally use Quality and Cost Based Selection (QCBS), with technical:financial weighting of 80:20 the clear default for planning, PMC and design assignments and 70:30 appearing on more IT/system-integration-flavoured smart-city work. A minority of assignments — typically standardized master-plan formulation (e.g. AMRUT GIS master plans) or manpower/technical-cell contracts (e.g. PMAY-U SLTC/CLTC) — use Least Cost Selection (LCS/L1) after a technical qualification gate. Every process is two-envelope: a pass/fail pre-qualification / eligibility screen (legal status, turnover, similar experience, non-blacklisting), then a scored technical evaluation out of 100. Financial envelopes are opened only for firms clearing the minimum technical score, which sits at 70 in most PMC/ICCC tenders, 75 in more competitive smart-city and DPR/independent-engineer selections, up to 80 for GIS master plans, and as low as 50-60 for solid-waste / IEC / manpower assignments.",
+    "dominantMethod": "QCBS 80:20",
+    "typicalMinTechnicalScore": 75,
+    "criteria": [
+      {
+        "id": "firm-experience",
+        "label": "Firm's Relevant Urban/Smart-City Experience",
+        "typicalWeightPct": 35,
+        "description": "Number, value and relevance of similar completed/ongoing assignments (PMC, DPR, master planning, transaction advisory, supervision) for government/ULB clients, usually within the last 5-10 years. Most tenders award fixed marks per qualifying assignment above a value threshold (commonly ₹20 Cr project cost or ₹100 lakh consultancy fee), with bonus weight for same-sector or same-state experience.",
+        "scoringGuidance": [
+          { "level": "Excellent (90-100%)", "meaning": "5+ similar urban assignments of comparable/greater value, including same sub-sector and government clients" },
+          { "level": "Good (70-89%)", "meaning": "3-4 similar assignments meeting the value threshold" },
+          { "level": "Fair (50-69%)", "meaning": "1-2 similar assignments; partial sub-sector match" },
+          { "level": "Poor (<50%)", "meaning": "No directly comparable assignment above the value threshold" }
+        ],
+        "inputFields": [
+          {
+            "key": "similarUrbanAssignments",
+            "label": "Number of similar urban/smart-city assignments completed (last 7 years)",
+            "type": "number",
+            "options": [],
+            "scoring": "Most RFPs give ~5 marks per qualifying assignment; 3+ typically needed for a strong score, 5+ for full marks."
+          },
+          {
+            "key": "largestAssignmentValueINR",
+            "label": "Value of largest comparable assignment (project cost or consultancy fee, INR)",
+            "type": "number",
+            "options": [],
+            "scoring": "Assignment must exceed the RFP threshold (often ₹20 Cr project cost or ₹1 Cr consultancy fee) to be counted."
+          },
+          {
+            "key": "sameSubSectorExperience",
+            "label": "Do you have experience in the exact sub-sector (e.g. ICCC, MSW, PMAY, master planning)?",
+            "type": "boolean",
+            "options": [],
+            "scoring": "Same sub-sector / same-state experience attracts bonus marks in most tenders."
+          }
+        ]
+      },
+      {
+        "id": "financial-strength",
+        "label": "Financial Strength / Average Annual Turnover",
+        "typicalWeightPct": 15,
+        "description": "Average annual turnover (usually from consultancy/professional fees) over the last 3 financial years. Used both as a pass/fail eligibility gate (thresholds range from ₹0.25 Cr for small design empanelments to ₹250-500 Cr for large smart-city PMCs, or a % of estimated value such as 30-50%) and, in many tenders, as scored marks on a turnover slab.",
+        "scoringGuidance": [
+          { "level": "Excellent (90-100%)", "meaning": "Turnover well above the top slab defined in the RFP" },
+          { "level": "Good (70-89%)", "meaning": "Turnover comfortably above the minimum, in a mid slab" },
+          { "level": "Fair (50-69%)", "meaning": "Turnover just meets the minimum eligibility threshold" },
+          { "level": "Poor (<50%)", "meaning": "Below minimum turnover - proposal disqualified at eligibility" }
+        ],
+        "inputFields": [
+          {
+            "key": "avgAnnualTurnoverINR",
+            "label": "Average annual turnover, last 3 financial years (INR)",
+            "type": "number",
+            "options": [],
+            "scoring": "Compared to the RFP minimum (fixed amount or % of estimated value). Higher slabs earn 5-30 marks where turnover is scored."
+          },
+          {
+            "key": "turnoverIsConsultancyOnly",
+            "label": "Is the turnover from consultancy / professional fees (not total revenue)?",
+            "type": "boolean",
+            "options": [],
+            "scoring": "Many urban RFPs require consultancy-specific turnover, CA/UDIN-certified."
+          }
+        ]
+      },
+      {
+        "id": "methodology",
+        "label": "Approach, Methodology, Work Plan & Presentation",
+        "typicalWeightPct": 20,
+        "description": "Quality of the technical approach, understanding of the TOR, work plan, staffing/manning schedule, comments on TOR, and (very commonly) a live presentation by the proposed Team Leader. Weight ranges from 10 marks (classic MoHUA PMC model) to 30 marks (SWM/IEC and master-plan tenders, often including a scored presentation).",
+        "scoringGuidance": [
+          { "level": "Excellent (90-100%)", "meaning": "Clear, TOR-responsive methodology; realistic implementable work plan; balanced staffing; strong presentation" },
+          { "level": "Good (70-89%)", "meaning": "Sound methodology with minor gaps; workable plan" },
+          { "level": "Fair (50-69%)", "meaning": "Generic methodology partially responsive to TOR" },
+          { "level": "Poor (<50%)", "meaning": "Vague or non-responsive approach; weak work plan" }
+        ],
+        "inputFields": [
+          {
+            "key": "methodologyQuality",
+            "label": "Self-assessed strength of your methodology & work plan vs the TOR",
+            "type": "select",
+            "options": ["Fully tailored & TOR-responsive", "Mostly tailored", "Partially tailored", "Generic"],
+            "scoring": "Maps to the excellent/good/fair/poor bands; 'fully tailored' targets full methodology marks."
+          },
+          {
+            "key": "teamLeaderPresentation",
+            "label": "Will your proposed Team Leader personally deliver the technical presentation?",
+            "type": "boolean",
+            "options": [],
+            "scoring": "Team-Leader-led presentations are expected/scored in most urban PMC and planning tenders."
+          }
+        ]
+      },
+      {
+        "id": "key-personnel",
+        "label": "Key Personnel (Team Leader & Experts)",
+        "typicalWeightPct": 40,
+        "description": "Qualifications and competence of proposed key experts, scored per position on education, relevant experience (years) and adequacy for the role. This is usually the single largest block (35-55 marks) in urban PMC/planning tenders. Team Leader CV commonly must independently score a minimum (e.g. 75%); CVs failing minimum qualification may score zero.",
+        "scoringGuidance": [
+          { "level": "Excellent (90-100%)", "meaning": "All required experts proposed, each exceeding minimum experience; Team Leader well above threshold" },
+          { "level": "Good (70-89%)", "meaning": "Full team; most experts exceed minimum experience" },
+          { "level": "Fair (50-69%)", "meaning": "Team present but several experts only just meet minimums" },
+          { "level": "Poor (<50%)", "meaning": "Missing key positions or CVs below minimum qualification (risk of proposal failure)" }
+        ],
+        "inputFields": [
+          {
+            "key": "teamLeaderExperienceYears",
+            "label": "Team Leader's total relevant experience (years)",
+            "type": "number",
+            "options": [],
+            "scoring": "Experience bands drive marks (e.g. >12 yrs = top band). Team Leader CV often must score ≥75% or the whole proposal fails."
+          },
+          {
+            "key": "keyExpertsProposed",
+            "label": "Number of required key experts you can propose meeting the TOR minimums",
+            "type": "number",
+            "options": [],
+            "scoring": "Each named position (e.g. Urban Planner, GIS Expert, PPP/Financial Expert, SWM Expert) carries fixed marks; missing positions lose marks."
+          },
+          {
+            "key": "expertsPostgraduateShare",
+            "label": "Share of key experts with a postgraduate qualification",
+            "type": "select",
+            "options": ["All", "Most", "Some", "Few/None"],
+            "scoring": "Per-expert scoring commonly splits ~40% qualification / 60% experience; postgraduate degrees earn the qualification marks."
+          }
+        ]
+      }
+    ],
+    "keyPolicies": [
+      {
+        "name": "Manual for Procurement of Consultancy & Other Services (Updated June 2022), MoF, Dept. of Expenditure",
+        "url": "https://cdnbbsr.s3waas.gov.in/s395192c98732387165bf8e396c0f2dad2/uploads/2022/08/2022080626.pdf",
+        "relevance": "Governs consultancy procurement under GFR 2017. Defines selection methods - QCBS (Sec 3.9), Least Cost Selection (Sec 3.8), Single Source (3.10) and Fixed Budget - and the two-envelope, minimum-technical-score process that every urban RFP follows."
+      },
+      {
+        "name": "Model Tender Document for Procurement of Consultancy Services, MoF (CPPP)",
+        "url": "https://eprocure.gov.in/cppp/sites/default/files/standard_biddingdocs/Procurement_Consultancy_Services.pdf",
+        "relevance": "Standard REoI/RFP template (EOI shortlisting then RFP) with QCBS/LCS/FBS/SSS selection options and standard qualification and evaluation forms mirrored by most ULB and SPV tenders."
+      },
+      {
+        "name": "Smart City Mission Guidelines, MoUD/MoHUA",
+        "url": "https://mahadma.maharashtra.gov.in/wp-content/uploads/2025/07/SmartCityGuidelines.pdf",
+        "relevance": "Establishes the SPV-led delivery model, empanelment of consulting firms by MoUD, template PMC RFPs in the Mission Toolkit, and the SCP evaluation criteria that shape smart-city PMC scope and consultant selection."
+      }
+    ]
+  }
+}

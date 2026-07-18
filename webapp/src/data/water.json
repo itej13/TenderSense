@@ -1,0 +1,855 @@
+{
+  "sector": "water",
+  "sectorLabel": "Water & Sanitation",
+  "generatedAt": "2026-07-18",
+  "sources": [
+    {
+      "name": "Central Public Procurement Portal (CPPP) - Standard RFP for Consultancy Services",
+      "url": "https://eprocure.gov.in/cppp/sites/default/files/standard_biddingdocs/Procurement_Consultancy_Services.pdf",
+      "type": "policy-document"
+    },
+    {
+      "name": "Manual for Procurement of Consultancy & Other Services, Ministry of Finance (Updated June 2022)",
+      "url": "https://cdnbbsr.s3waas.gov.in/s395192c98732387165bf8e396c0f2dad2/uploads/2022/08/2022080626.pdf",
+      "type": "policy-document"
+    },
+    {
+      "name": "General Financial Rules (GFR) - Rules 192 (QCBS) & 193 (LCS)",
+      "url": "https://www.gfr.co.in/p/gfr-rule-book-of-consulting-services.html",
+      "type": "policy-document"
+    },
+    {
+      "name": "AMRUT 2.0 Operational Guidelines, Ministry of Housing & Urban Affairs (Oct 2021)",
+      "url": "https://amrut.mohua.gov.in/uploads/AMRUT_2.0_Operational_Guidelines.pdf",
+      "type": "policy-document"
+    },
+    {
+      "name": "Jal Jeevan Mission - Operational Guidelines & Manuals (Dept. of Drinking Water & Sanitation, Ministry of Jal Shakti)",
+      "url": "https://jaljeevanmission.gov.in/guidelines",
+      "type": "policy-document"
+    },
+    {
+      "name": "Delhi Jal Board - RFP for General Consultancy (Water Master Plan / NRW Reduction)",
+      "url": "https://www.gtai.de/resource/blob/1988298/7139e33b69616e9813a4d06204ab71c8/AUS202604011988272%20(2).pdf",
+      "type": "tender-portal"
+    },
+    {
+      "name": "LSGD / Suchitwa Mission Kerala - AMRUT 2.0 PDMC RFP",
+      "url": "https://lsgd.kerala.gov.in/orders_and_circulars/amrut-2-0-request-for-proposal-rfp-for-selection-of-pdmc-terms-of-reference-sanctioned-orders-issued/",
+      "type": "authority-website"
+    },
+    {
+      "name": "Gujarat Water Supply & Sewerage Board (GWSSB) - RFP (via TenderKart)",
+      "url": "https://tenderkart.in/tender/11076ced-504a-407d-8a86-c3cca390e9f8",
+      "type": "tender-portal"
+    },
+    {
+      "name": "National Mission for Clean Ganga (NMCG) - PMC RFP (via SAMS-STC)",
+      "url": "https://www.samsstc.com/rfp-tender/rfp-tender-description/rfp-for-selection-of-project-management-consultant-institutional-support-national-mission-for-clean-ganga/719",
+      "type": "tender-portal"
+    },
+    {
+      "name": "Madhya Pradesh Jal Nigam Maryadit (MPJNM) - PMC RFP NIT-34 (NDB financed)",
+      "url": "https://www.ndb.int/wp-content/uploads/2017/12/NIT34.pdf",
+      "type": "tender-portal"
+    },
+    {
+      "name": "Pune Metropolitan Region Development Authority (PMRDA) - PMC RFP (Pawana River)",
+      "url": "https://www.pmrda.gov.in/wp-content/uploads/2025/05/Tender-notice-09.pdf",
+      "type": "authority-website"
+    },
+    {
+      "name": "Goa State Urban Development Agency (GSUDA) - AMRUT 2.0 PDMC RFP",
+      "url": "https://www.gsuda.org/tenders_page.php?id=72",
+      "type": "authority-website"
+    },
+    {
+      "name": "State Urban Development Agency (SUDA), West Bengal - AMRUT RFP",
+      "url": "https://sudawb.org/uploads/tender/AMRUT01.docx.pdf",
+      "type": "tender-portal"
+    },
+    {
+      "name": "Bangalore Water Supply & Sewerage Board (BWSSB) - Cauvery VI Stage DPR tender (The Hindu report)",
+      "url": "https://www.thehindu.com/news/national/karnataka/bwssb-invites-bids-for-cauvery-vi-stage-dpr-to-supply-water-to-towns-around-bengaluru/article67824341.ece",
+      "type": "tender-portal"
+    },
+    {
+      "name": "Public Health Engineering Department, Morena (MP) - JJM DPR tender (via TenderShark)",
+      "url": "https://www.tendershark.com/details/madhya-pradesh-tender/public-health-engineering-office/dedcffff-665b-4c99-a657-a8c1cb4133de",
+      "type": "tender-portal"
+    }
+  ],
+  "tenders": [
+    {
+      "id": "water-001",
+      "title": "General Consultancy for Water Master Plan, DPR, Bid Process Management & Supervision for Non-Revenue Water (NRW) Reduction in Delhi (Six Zones)",
+      "issuingAuthority": "Delhi Jal Board (DJB)",
+      "tenderRef": null,
+      "url": "https://www.gtai.de/resource/blob/1988298/7139e33b69616e9813a4d06204ab71c8/AUS202604011988272%20(2).pdf",
+      "datePublished": "2026-03-23",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "Not disclosed in RFP body (large multi-year assignment)",
+      "scopeSummary": "Appointment of a General Consultant to prepare a Water Master Plan for Delhi, prepare DPRs, provide bid process management and construction supervision for Non-Revenue Water (NRW) reduction across six DJB zones. Scope covers NRW assessment/study, DMA design, 24x7 water supply master planning, tender document preparation, bid evaluation and construction supervision.",
+      "consultancyType": "PMC",
+      "eligibility": {
+        "minAnnualTurnoverINR": 750000000,
+        "similarProjectsRequired": "Eligible assignments (each serving a beneficiary population of at least 1 million, ~80% complete in last 10 years for a government/water utility client) demonstrating experience across NRW assessment/study, urban water supply distribution development/rehabilitation, transaction advisory/bid process management, and 24x7 water supply master planning.",
+        "keyPersonnel": [
+          "Team Leader cum Project Management Expert (20 yrs total, 15 yrs water sector, 7 yrs as TL)",
+          "Deputy Team Leader cum Urban Water Supply Expert (15 yrs)",
+          "Contract/Claim Management Expert",
+          "Instrumentation & SCADA Expert",
+          "NRW / Network Rehabilitation Expert (incl. International)",
+          "Water Utility Operations Expert (International)",
+          "Hydraulic Network Modeller",
+          "Sr. Construction Supervision Engineers (6 nos.)",
+          "Legal Expert",
+          "Lead Water Master Planner"
+        ],
+        "other": [
+          "Bidder may bid solo or as a consortium of up to 3 members; Lead Member must meet at least two technical eligibility criteria and 50% of financial eligibility.",
+          "Turnover certificate must carry a UDIN."
+        ]
+      },
+      "evaluationMethod": "QCBS 80:20",
+      "minTechnicalScore": 70,
+      "technicalCriteria": [
+        {
+          "criterion": "General consulting experience with government sector (10+ years)",
+          "maxMarks": 5,
+          "subCriteria": ["10 yrs = 3 marks", "15+ yrs = 5 marks", "pro-rata in between"],
+          "notes": null
+        },
+        {
+          "criterion": "Experience as OE/DSC/PMC in urban water supply distribution network development/rehabilitation (value >= Rs 50 Cr)",
+          "maxMarks": 5,
+          "subCriteria": ["1 project = 3", "2 = 4", "3+ = 5"],
+          "notes": null
+        },
+        {
+          "criterion": "Experience on urban water supply distribution project with capital cost > Rs 500 Cr",
+          "maxMarks": 5,
+          "subCriteria": ["1 project = 3", "2 = 4", "3+ = 5"],
+          "notes": null
+        },
+        {
+          "criterion": "NRW assessment/study & reduction implementation project (>= 1,00,000 consumer connections)",
+          "maxMarks": 5,
+          "subCriteria": ["1 project = 3", "2 = 4", "3+ = 5"],
+          "notes": null
+        },
+        {
+          "criterion": "Transaction Advisory / Bid Process Management in urban infra/water (capital cost > Rs 500 Cr)",
+          "maxMarks": 5,
+          "subCriteria": ["1 project = 3", "2 = 4", "3+ = 5"],
+          "notes": null
+        },
+        {
+          "criterion": "24x7 Water Supply Master Plan for city of population >= 1 million (25-year horizon)",
+          "maxMarks": 5,
+          "subCriteria": ["1 project = 3", "2 = 4", "3+ = 5"],
+          "notes": null
+        },
+        {
+          "criterion": "Average annual turnover from consulting services (last 3 FYs)",
+          "maxMarks": 5,
+          "subCriteria": ["Rs 75 Cr = 3", "Rs 100 Cr & above = 5", "pro-rata in between"],
+          "notes": null
+        },
+        {
+          "criterion": "Approach & Methodology (with presentation)",
+          "maxMarks": 20,
+          "subCriteria": ["Technical understanding & approach = 10", "Work plan & timeframe = 6", "Resources & personnel planning = 4"],
+          "notes": null
+        },
+        {
+          "criterion": "Key experts' qualification & competence (per Annexure E)",
+          "maxMarks": 45,
+          "subCriteria": ["Team Leader = 9", "Deputy Team Leader = 6", "Sr. Construction Supervision Engineers (6) = 6", "other key experts = balance"],
+          "notes": "Largest weighting; CVs scored on qualification, general and specific experience."
+        }
+      ],
+      "sourceType": "live-tender",
+      "sourceDocument": "DJB RFP - General Consultancy for Water Master Plan/DPR/BPM/Supervision for NRW Reduction (Six Zones)"
+    },
+    {
+      "id": "water-002",
+      "title": "Selection of Project Development & Management Consultant (PDMC) for AMRUT 2.0 (Water Supply / Used Water Management)",
+      "issuingAuthority": "Local Self Government Department (LSGD) / Suchitwa Mission, Government of Kerala",
+      "tenderRef": null,
+      "url": "https://lsgd.kerala.gov.in/orders_and_circulars/amrut-2-0-request-for-proposal-rfp-for-selection-of-pdmc-terms-of-reference-sanctioned-orders-issued/",
+      "datePublished": null,
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "Mission-period PDMC assignment (state-wide)",
+      "scopeSummary": "State-wide Project Development & Management Consultancy for AMRUT 2.0 covering water supply and used-water (wastewater) management: project planning and design support, DPR/tender document review, procurement and construction supervision support, MIS, and community/IEC mobilisation over the mission period.",
+      "consultancyType": "PMC",
+      "eligibility": {
+        "minAnnualTurnoverINR": 250000000,
+        "similarProjectsRequired": "At least 3 completed or 80%-completed urban water/wastewater PDMC/PMU/TSU assignments in last 7 years, each with consultancy fee > Rs 5 Cr.",
+        "keyPersonnel": [
+          "Team Leader",
+          "Water Sector Expert",
+          "Used Water (Wastewater) Expert",
+          "Procurement cum Contract Management Expert",
+          "Social Mobilization cum IEC Expert",
+          "MIS cum Data Analyst"
+        ],
+        "other": [
+          "Firm registered at least 10 years prior to advertisement; positive net worth.",
+          "At least 100 qualified personnel on payroll.",
+          "Encouraged to partner a reputed NGO/academic institution for community/IEC work."
+        ]
+      },
+      "evaluationMethod": "QCBS 70:30 (Combined Quality cum Cost Based System, CQCCBS)",
+      "minTechnicalScore": 60,
+      "technicalCriteria": [
+        {
+          "criterion": "Number of years in existence of the firm",
+          "maxMarks": 5,
+          "subCriteria": ["10-25 yrs = 3", ">25 yrs = 5"],
+          "notes": null
+        },
+        {
+          "criterion": "Average annual turnover (last 3 FYs)",
+          "maxMarks": 10,
+          "subCriteria": ["Rs 25-50 Cr = 3", "Rs 50-75 Cr = 7", ">Rs 75 Cr = 10"],
+          "notes": null
+        },
+        {
+          "criterion": "Experience of large-scale Program/Project Management Units (PMU/PDMC/TSU, fee >= Rs 5 Cr)",
+          "maxMarks": 10,
+          "subCriteria": ["1 assignment = 5", "+2.5 per additional, cap 10"],
+          "notes": null
+        },
+        {
+          "criterion": "Experience of water / liquid-waste management assignments (fee >= Rs 1 Cr)",
+          "maxMarks": 15,
+          "subCriteria": ["1 assignment = 5", "+2.5 per additional, cap 15"],
+          "notes": null
+        },
+        {
+          "criterion": "Key professional staff qualification & competence",
+          "maxMarks": 25,
+          "subCriteria": ["Team Leader = 5", "Water Sector Expert = 4", "Used Water Expert = 4", "Procurement/Contract Expert = 4", "Social Mobilization/IEC Expert = 4", "MIS/Data Analyst = 4"],
+          "notes": "Each CV scored on education qualification + years of experience."
+        },
+        {
+          "criterion": "Proposed methodology & work plan",
+          "maxMarks": 25,
+          "subCriteria": [],
+          "notes": null
+        },
+        {
+          "criterion": "Partnering with reputed NGO / academic institution (water & sanitation, IEC experience)",
+          "maxMarks": 10,
+          "subCriteria": ["3-5 yrs = 3", ">5 yrs = 5 (per parameter)"],
+          "notes": null
+        }
+      ],
+      "sourceType": "model-rfp",
+      "sourceDocument": "Kerala AMRUT 2.0 PDMC RFP with sanctioned Terms of Reference (LSGD/Suchitwa Mission)"
+    },
+    {
+      "id": "water-003",
+      "title": "Empanelment of Independent Review & Quality Inspection Agency for Water Supply Projects (Gujarat)",
+      "issuingAuthority": "Gujarat Water Supply & Sewerage Board (GWSSB)",
+      "tenderRef": null,
+      "url": "https://tenderkart.in/tender/11076ced-504a-407d-8a86-c3cca390e9f8",
+      "datePublished": "2026-02-01",
+      "estimatedValueINR": 68000000,
+      "estimatedValueLabel": "\u20b96.8 Cr",
+      "scopeSummary": "Appointment of a consultant as Independent Review and Quality Inspection Agency for water supply projects implemented by GWSSB on EPC mode. Scope covers independent third-party review, quality control inspection and verification of urban/rural water supply and sewerage works (incl. WTP/STP).",
+      "consultancyType": "Other",
+      "eligibility": {
+        "minAnnualTurnoverINR": 1000000000,
+        "similarProjectsRequired": "At least one assignment as PMC/TPIA/CSC/IVA/QC for water supply (incl. WTP) or sewerage (incl. STP) projects at State/UT level in last 5 years; and at least one completed similar project of project cost >= Rs 1000 Cr.",
+        "keyPersonnel": [
+          "Team Leader cum Water Supply Expert",
+          "Construction Manager",
+          "Quality Control Engineer",
+          "Contract / Procurement Expert",
+          "Quantity Engineer",
+          "Site Engineer - Civil",
+          "Site Engineer - Electrical",
+          "Site Engineer - Mechanical"
+        ],
+        "other": [
+          "Registered legal entity in India for at least 5 years with valid PAN/GST/PF/ESI.",
+          "At least 200 qualified personnel on payroll or empanelled."
+        ]
+      },
+      "evaluationMethod": "QCBS",
+      "minTechnicalScore": 70,
+      "technicalCriteria": [
+        {
+          "criterion": "Firm - average annual turnover (last 3 FYs)",
+          "maxMarks": 10,
+          "subCriteria": ["Rs 100-200 Cr = 5", "Rs 200-300 Cr = 7.5", ">Rs 300 Cr = 10"],
+          "notes": null
+        },
+        {
+          "criterion": "Similar urban/rural water supply assignments at State/UT level (last 5 yrs)",
+          "maxMarks": 20,
+          "subCriteria": ["1 project = 10", "2 = 15", "3+ = 20"],
+          "notes": null
+        },
+        {
+          "criterion": "Completed similar water-supply project of project cost >= Rs 1000 Cr",
+          "maxMarks": 15,
+          "subCriteria": ["1 project = 10", "2 = 15"],
+          "notes": null
+        },
+        {
+          "criterion": "Firm strength - qualified personnel on payroll/empanelled",
+          "maxMarks": 10,
+          "subCriteria": ["200-500 = 2", "500-1000 = 5", ">1000 = 10"],
+          "notes": null
+        },
+        {
+          "criterion": "Key personnel (9 professionals - Team Leader and specialists)",
+          "maxMarks": null,
+          "subCriteria": ["Scored on qualification, experience and regional experience per position"],
+          "notes": "Combined with technical approach & methodology to make up the balance of 100 marks."
+        },
+        {
+          "criterion": "Proposed technical approach & methodology",
+          "maxMarks": null,
+          "subCriteria": [],
+          "notes": null
+        }
+      ],
+      "sourceType": "live-tender",
+      "sourceDocument": "GWSSB RFP - Empanelment of Independent Review & Quality Inspection Agency for Water Supply Projects (3rd attempt)"
+    },
+    {
+      "id": "water-004",
+      "title": "Selection of Project Management Consultant (Institutional Support) for National Mission for Clean Ganga",
+      "issuingAuthority": "National Mission for Clean Ganga (NMCG), Ministry of Jal Shakti",
+      "tenderRef": null,
+      "url": "https://www.samsstc.com/rfp-tender/rfp-tender-description/rfp-for-selection-of-project-management-consultant-institutional-support-national-mission-for-clean-ganga/719",
+      "datePublished": null,
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "Institutional-support PMC (multi-year)",
+      "scopeSummary": "Project Management Consultancy providing institutional support to NMCG for programme/project management, capacity building of implementing agencies, and decision support for Ganga rejuvenation (sewerage/river-cleaning infrastructure programme).",
+      "consultancyType": "PMC",
+      "eligibility": {
+        "minAnnualTurnoverINR": 340000000,
+        "similarProjectsRequired": "At least 7 government-sector consultancy assignments (completed or 80% paid) in last 7 years; and at least 2 similar PMC/PMU/programme management assignments in infrastructure for government in India, each with consultancy fee >= Rs 2 Cr.",
+        "keyPersonnel": [],
+        "other": [
+          "Minimum average annual turnover Rs 34 Cr (last 3 FYs), of which at least Rs 17 Cr from programme/project management consultancy services.",
+          "At least 7 years of experience in consultancy services."
+        ]
+      },
+      "evaluationMethod": "QCBS",
+      "minTechnicalScore": null,
+      "technicalCriteria": [
+        {
+          "criterion": "Firm's consultancy experience (years and government-sector assignments)",
+          "maxMarks": null,
+          "subCriteria": [],
+          "notes": "Detailed marks matrix in full RFP; eligibility thresholds captured under eligibility."
+        },
+        {
+          "criterion": "Similar programme/project management assignments",
+          "maxMarks": null,
+          "subCriteria": [],
+          "notes": null
+        },
+        {
+          "criterion": "Key personnel and methodology",
+          "maxMarks": null,
+          "subCriteria": [],
+          "notes": null
+        }
+      ],
+      "sourceType": "live-tender",
+      "sourceDocument": "NMCG RFP - Selection of PMC (Institutional Support)"
+    },
+    {
+      "id": "water-005",
+      "title": "Project Management Consultancy for 9 Multi-Village Rural Water Supply Schemes",
+      "issuingAuthority": "Madhya Pradesh Jal Nigam Maryadit (MPJNM)",
+      "tenderRef": "NIT-34",
+      "url": "https://www.ndb.int/wp-content/uploads/2017/12/NIT34.pdf",
+      "datePublished": "2017-12-21",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "PMC for 9 MVRWSS (NDB-financed)",
+      "scopeSummary": "Project Management Consultancy to augment MPJNM's project management capacity for 9 Multi-Village Rural Water Supply Schemes (intake wells, WTP, raw/clear water mains, OHTs, distribution, house service connections). Scope covers design review, construction supervision, quality assurance and project monitoring.",
+      "consultancyType": "PMC",
+      "eligibility": {
+        "minAnnualTurnoverINR": 350000000,
+        "similarProjectsRequired": "Experience as PMC/SQC/DSC for at least one urban/rural water supply scheme costing > Rs 500 Cr, OR three schemes costing > Rs 200 Cr each, since 1 April 2007.",
+        "keyPersonnel": [
+          "Team Leader cum National Water Supply Expert (B.E. Civil 25 yrs or PG 20 yrs)",
+          "Deputy Team Leader cum Water Supply Engineer"
+        ],
+        "other": [
+          "Restricted to firms incorporated in NDB member countries (Brazil, Russia, India, China, South Africa)."
+        ]
+      },
+      "evaluationMethod": "LCS (Least Cost Based Selection) after technical qualification",
+      "minTechnicalScore": 80,
+      "technicalCriteria": [
+        {
+          "criterion": "Average annual turnover (last 3 FYs)",
+          "maxMarks": 50,
+          "subCriteria": ["<35 Cr = disqualified", "35-50 Cr = 37.5", "50-75 Cr = 42.75", ">75 Cr = 50"],
+          "notes": "Marks expressed out of a 1000-point technical scale."
+        },
+        {
+          "criterion": "Firm experience (PMC/SQC/DSC on large water supply schemes)",
+          "maxMarks": null,
+          "subCriteria": [],
+          "notes": "Out of 1000-point scale."
+        },
+        {
+          "criterion": "Team Leader cum Water Supply Expert",
+          "maxMarks": 150,
+          "subCriteria": [],
+          "notes": "Out of 1000-point scale."
+        },
+        {
+          "criterion": "Deputy Team Leader cum Water Supply Engineer",
+          "maxMarks": 150,
+          "subCriteria": [],
+          "notes": "Out of 1000-point scale."
+        }
+      ],
+      "sourceType": "archived-tender",
+      "sourceDocument": "MPJNM RFP NIT-34 (Least Cost Based Selection), NDB-financed"
+    },
+    {
+      "id": "water-006",
+      "title": "Preparation of Detailed Project Reports for Piped Water Supply Scheme under Jal Jeevan Mission (Ambah Gramin, Sainthra Badai)",
+      "issuingAuthority": "Public Health Engineering Department (PHED), Morena, Madhya Pradesh",
+      "tenderRef": "NIT16EEPHE26-27MORENA13.4.2026",
+      "url": "https://www.tendershark.com/details/madhya-pradesh-tender/public-health-engineering-office/dedcffff-665b-4c99-a657-a8c1cb4133de",
+      "datePublished": "2026-04-13",
+      "estimatedValueINR": 12174000,
+      "estimatedValueLabel": "\u20b91.22 Cr",
+      "scopeSummary": "Balance work of preparing Detailed Project Reports for a piped water supply scheme under the Jal Jeevan Mission in Ambah Gramin / Sainthra Badai block, Morena. A 120-day DPR-preparation assignment procured as a works-category tender (two-cover technical + BOQ).",
+      "consultancyType": "DPR",
+      "eligibility": {
+        "minAnnualTurnoverINR": null,
+        "similarProjectsRequired": "Per NIT document; EMD Rs 1,21,740 and tender fee Rs 13,936.",
+        "keyPersonnel": [],
+        "other": [
+          "Two-cover system: (i) Fee/PreQual/Technical (NIT document), (ii) Finance (BOQ rate).",
+          "Procured under 'Works' category (Civil - Water Works)."
+        ]
+      },
+      "evaluationMethod": "Item-rate / BOQ (works-category DPR tender)",
+      "minTechnicalScore": null,
+      "technicalCriteria": [],
+      "sourceType": "live-tender",
+      "sourceDocument": "PHED Morena NIT for JJM piped water supply DPR preparation"
+    },
+    {
+      "id": "water-007",
+      "title": "Appointment of Project Development & Management Consultant (PDMC) for AMRUT 2.0 in Goa",
+      "issuingAuthority": "Goa State Urban Development Agency (GSUDA)",
+      "tenderRef": null,
+      "url": "https://www.gsuda.org/tenders_page.php?id=72",
+      "datePublished": null,
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "State-wide PDMC (mission period)",
+      "scopeSummary": "Appointment of a Project Development & Management Consultant to implement AMRUT 2.0 across Goa till the mission period, with expertise in water supply, wastewater/sewerage and Swachh Bharat works. Scope covers project development, DPR/tender support, and project management.",
+      "consultancyType": "PMC",
+      "eligibility": {
+        "minAnnualTurnoverINR": null,
+        "similarProjectsRequired": "Prior experience in national water/wastewater/AMRUT missions or consultancy in water supply/sewerage works (as per RFP).",
+        "keyPersonnel": [],
+        "other": [
+          "Bidder must have professional expertise, infrastructure facilities and prior experience in water/wastewater sector."
+        ]
+      },
+      "evaluationMethod": "QCBS (AMRUT 2.0 PDMC selection)",
+      "minTechnicalScore": null,
+      "technicalCriteria": [],
+      "sourceType": "live-tender",
+      "sourceDocument": "GSUDA RFP - PDMC for AMRUT 2.0 in Goa"
+    },
+    {
+      "id": "water-008",
+      "title": "Consultancy / Knowledge Partner for Urban Water Supply under AMRUT (West Bengal)",
+      "issuingAuthority": "State Urban Development Agency (SUDA), Government of West Bengal",
+      "tenderRef": null,
+      "url": "https://sudawb.org/uploads/tender/AMRUT01.docx.pdf",
+      "datePublished": null,
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "State-wide urban water consultancy",
+      "scopeSummary": "Selection of a consultancy/knowledge-partner agency to support urban water supply planning and delivery across West Bengal ULBs under AMRUT, including strategy, PPP/RFP structuring, water quality, and legal advisory support.",
+      "consultancyType": "PMC",
+      "eligibility": {
+        "minAnnualTurnoverINR": 200000000,
+        "similarProjectsRequired": "At least two similar completed projects (as per RFP title) within the last three calendar years from date of floating.",
+        "keyPersonnel": [
+          "Team Leader / Strategy Expert (Civil Engineer)",
+          "Deputy Team Leader (Structural / Water Resource / Environmental / Hydraulics)",
+          "PPP Specialist",
+          "RFP Specialist",
+          "Water Quality Analyst",
+          "Legal Advisor"
+        ],
+        "other": [
+          "Single entity or JV (lead company > 51% share).",
+          "Turnover scored on a sliding scale (higher marks up to average turnover of >= Rs 60 Cr)."
+        ]
+      },
+      "evaluationMethod": "QCBS 70:30 (Cumulative Quality cum Cost Based Selection, CQCBS)",
+      "minTechnicalScore": 70,
+      "technicalCriteria": [
+        {
+          "criterion": "Firm average turnover (last 3 yrs)",
+          "maxMarks": 10,
+          "subCriteria": ["higher bands (up to >= Rs 60 Cr) score higher, cap 10 marks"],
+          "notes": null
+        },
+        {
+          "criterion": "Team Leader / Strategy Expert",
+          "maxMarks": 10,
+          "subCriteria": ["Experience up to 5 marks (>22 yrs = 5)", "No. of projects up to 5 marks (>5 projects = 5)"],
+          "notes": null
+        },
+        {
+          "criterion": "Deputy Team Leader & other key experts",
+          "maxMarks": 6,
+          "subCriteria": ["Experience + number of projects per expert"],
+          "notes": "Each remaining key expert scored 4-6 marks on experience and project count."
+        }
+      ],
+      "sourceType": "live-tender",
+      "sourceDocument": "SUDA West Bengal AMRUT consultancy RFP"
+    },
+    {
+      "id": "water-009",
+      "title": "Appointment of Project Management Consultant for Pawana River Pollution Abatement Project",
+      "issuingAuthority": "Pune Metropolitan Region Development Authority (PMRDA)",
+      "tenderRef": null,
+      "url": "https://www.pmrda.gov.in/wp-content/uploads/2025/05/Tender-notice-09.pdf",
+      "datePublished": "2025-05-01",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "Multi-year PMC (incl. 15-yr O&M oversight)",
+      "scopeSummary": "Appointment of a Project Management Consultant for the Pawana River Pollution Abatement Project: review of sanctioned DPR and surveys, preparation of tender documents and bid process management, functioning as PMC and technical auditor, and supervision/monitoring of O&M for up to 15 years. Covers civil, mechanical, electrical, automation and SCADA works for sewerage and water supply.",
+      "consultancyType": "PMC",
+      "eligibility": {
+        "minAnnualTurnoverINR": null,
+        "similarProjectsRequired": "As per RFP; firm must possess licensed design software (Water Gems/Bentley, ESRI, Autodesk, Sewer-CAD/Sewer-Gem, AutoCAD, BIM Revit, GIS).",
+        "keyPersonnel": [],
+        "other": [
+          "Applicant must obtain minimum 60 marks in technical score under QCBS to be eligible for financial evaluation."
+        ]
+      },
+      "evaluationMethod": "QCBS",
+      "minTechnicalScore": 60,
+      "technicalCriteria": [
+        {
+          "criterion": "Technical qualification, firm experience, personnel and methodology",
+          "maxMarks": 100,
+          "subCriteria": [],
+          "notes": "Minimum 60 marks required to qualify for financial opening."
+        }
+      ],
+      "sourceType": "live-tender",
+      "sourceDocument": "PMRDA Tender Notice-09 - PMC for Pawana River Pollution Abatement Project"
+    },
+    {
+      "id": "water-010",
+      "title": "Consultancy for Detailed Project Report - Cauvery VI Stage Water Supply",
+      "issuingAuthority": "Bangalore Water Supply & Sewerage Board (BWSSB)",
+      "tenderRef": null,
+      "url": "https://www.thehindu.com/news/national/karnataka/bwssb-invites-bids-for-cauvery-vi-stage-dpr-to-supply-water-to-towns-around-bengaluru/article67824341.ece",
+      "datePublished": "2024-02-06",
+      "estimatedValueINR": 9500000,
+      "estimatedValueLabel": "\u20b995 Lakh",
+      "scopeSummary": "Appointment of a consultant to prepare the Detailed Project Report for Cauvery VI stage, supplying Cauvery water to towns and pockets around Bengaluru. Scope includes study, Environment Impact Assessment, pipeline alignment finalisation and cost estimation.",
+      "consultancyType": "DPR",
+      "eligibility": {
+        "minAnnualTurnoverINR": null,
+        "similarProjectsRequired": "Per BWSSB tender document (audited turnover certificates and similar DPR/feasibility experience typically required).",
+        "keyPersonnel": [],
+        "other": [
+          "DPR preparation cost set at Rs 95 lakh; bid submission window ~2 weeks."
+        ]
+      },
+      "evaluationMethod": "QCBS",
+      "minTechnicalScore": null,
+      "technicalCriteria": [],
+      "sourceType": "archived-tender",
+      "sourceDocument": "The Hindu report on BWSSB Cauvery VI Stage DPR consultancy tender"
+    },
+    {
+      "id": "water-011",
+      "title": "Selection of Project Engineer (Independent Engineer) for STPs & Associated Infrastructure under Hybrid Annuity PPP",
+      "issuingAuthority": "National Mission for Clean Ganga (NMCG) / UP Jal Nigam",
+      "tenderRef": "Pc-11011/3/2020-NMCG",
+      "url": "https://docslib.org/doc/1800583/project-engineer-for-the-development-of-sewage-treatment",
+      "datePublished": "2020-07-23",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "Independent Engineer (15-yr O&M) assignment",
+      "scopeSummary": "Selection of a Project Engineer (Independent Engineer) for the development of Sewage Treatment Plants and associated infrastructure and O&M of all assets for 15 years in Moradabad, Budhana and Muzaffarnagar, Uttar Pradesh, under a Hybrid Annuity based PPP mode. Scope covers design/construction review, monitoring and independent certification.",
+      "consultancyType": "Supervision",
+      "eligibility": {
+        "minAnnualTurnoverINR": 50000000,
+        "similarProjectsRequired": "Completed at least 2-3 Eligible Assignments (DPR/PMC/Owner's Engineer/Independent Engineer for sewerage schemes with 25 MLD STP/ETP/CETP) in last 10 years.",
+        "keyPersonnel": [
+          "Team Leader / Project Engineer",
+          "O&M Engineer",
+          "Senior Structural Engineer"
+        ],
+        "other": [
+          "Minimum revenue of Rs 5 Cr (or US$2.5 million) per annum from professional fees in each of the last 3 FYs.",
+          "Hybrid Annuity (HAM) PPP framework; PE payments linked to construction milestones."
+        ]
+      },
+      "evaluationMethod": "QCBS",
+      "minTechnicalScore": null,
+      "technicalCriteria": [
+        {
+          "criterion": "Financial capacity (professional-fee revenue)",
+          "maxMarks": null,
+          "subCriteria": [],
+          "notes": "Rs 5 Cr/annum professional fees threshold; detailed scoring in RFP Section 3."
+        },
+        {
+          "criterion": "Technical capacity (eligible sewerage/STP assignments)",
+          "maxMarks": null,
+          "subCriteria": [],
+          "notes": null
+        },
+        {
+          "criterion": "Key personnel and methodology",
+          "maxMarks": null,
+          "subCriteria": [],
+          "notes": null
+        }
+      ],
+      "sourceType": "archived-tender",
+      "sourceDocument": "NMCG RFP Pc-11011/3/2020-NMCG - Selection of Project Engineer (HAM PPP), STPs in UP"
+    }
+  ],
+  "evaluationFramework": {
+    "summary": "Consultant selection in the Indian water & sanitation sector is dominated by Quality and Cost Based Selection (QCBS), applied under the General Financial Rules (Rule 192) and the Ministry of Finance 'Manual for Procurement of Consultancy & Other Services, 2022'. Because water/sewerage design, DPR and PMC assignments are quality-sensitive, technical weight is set high - most commonly 70:30 or 80:20 (GFR caps the non-financial weight at 80%). A two-envelope process is used: proposals must first clear mandatory eligibility (legal status, minimum average annual turnover over the last three financial years, similar-project experience and, for large PMC/PDMC assignments, a minimum number of qualified personnel on payroll), then be scored on a 100-point (occasionally 1000-point) technical scale. Only bids meeting the minimum technical score - typically 60% for AMRUT/JJM PDMC assignments and 70-80% for larger utility assignments - have their financial bids opened.\n\nThe technical score is consistently built from four families of criteria: (1) the firm's relevant sector experience (number and value of similar water/sewerage DPR/PMC/supervision assignments, usually in the last 5-10 years); (2) financial and organisational strength (average annual turnover, years in existence, number of qualified personnel); (3) the CVs of key personnel by role (Team Leader, Deputy Team Leader and sector specialists, scored on qualification and years of experience); and (4) the proposed approach, methodology and work plan. Across the sampled tenders, key personnel and methodology together typically account for 45-70% of the technical marks, with the Team Leader being the single most heavily weighted CV. Firm experience is usually 20-45%, and pure turnover marks are small (5-10 marks) even though the turnover eligibility threshold acts as a hard gate.\n\nFor a consultancy firm, the practical implication is that clearing eligibility (turnover and at least one/two qualifying similar assignments) is necessary but not sufficient; competitive scores come from the depth of directly comparable water-sector references and from fielding well-qualified, experienced named experts, plus a genuinely project-specific methodology. Firms should map each of their credentials to these four criteria families and quantify them (counts of similar DPRs/PMCs, values, populations served, and CV years) to estimate where they land against the typical scoring bands.",
+    "dominantMethod": "QCBS (commonly 70:30 for AMRUT/JJM PDMC & DPR work; 80:20 for large utility consultancy)",
+    "typicalMinTechnicalScore": 70,
+    "criteria": [
+      {
+        "id": "firm-experience",
+        "label": "Firm's Relevant Water-Sector Experience",
+        "typicalWeightPct": 35,
+        "description": "Number, value and relevance of similar water supply / sewerage consultancy assignments (DPR, PMC, supervision, third-party inspection, transaction advisory) completed for government/utility clients, usually within the last 5-10 years. Authorities look for directly comparable assignments (by scope, project cost and beneficiary population) and often set escalating marks for more assignments and higher project values.",
+        "scoringGuidance": [
+          { "level": "Excellent (90-100%)", "meaning": "3+ similar water/sewerage assignments of comparable or larger value (e.g. project cost > Rs 500-1000 Cr or population > 1 million) in the last 5-7 years, spanning multiple required experience areas." },
+          { "level": "Good (70-89%)", "meaning": "2 similar assignments meeting the value/scale thresholds, covering most required experience areas." },
+          { "level": "Fair (50-69%)", "meaning": "Exactly 1 qualifying similar assignment; meets the minimum eligibility but limited breadth." },
+          { "level": "Poor (<50%)", "meaning": "No fully qualifying assignment or only partially comparable/older references - risks failing eligibility." }
+        ],
+        "inputFields": [
+          {
+            "key": "similarWaterDPRsCount",
+            "label": "Number of similar water supply/sewerage DPR or PMC assignments completed (last 7 years)",
+            "type": "number",
+            "options": [],
+            "scoring": "0 = 0 marks / likely ineligible; 1 = fair (~3 of 5); 2 = good (~4 of 5); 3+ = excellent (full marks). Mirrors the DJB/GWSSB step scales."
+          },
+          {
+            "key": "largestProjectValueINR",
+            "label": "Capital cost of the largest similar water/sewerage project your firm advised on (INR)",
+            "type": "number",
+            "options": [],
+            "scoring": "Higher bands score more; several RFPs reward projects > Rs 200 Cr, > Rs 500 Cr and > Rs 1000 Cr with progressively higher marks."
+          },
+          {
+            "key": "beneficiaryPopulationServed",
+            "label": "Largest beneficiary population served by a qualifying assignment",
+            "type": "number",
+            "options": [],
+            "scoring": "Assignments serving >= 1 million population qualify as 'eligible assignments' in large-utility RFPs (e.g. DJB) and score highest."
+          },
+          {
+            "key": "experienceAreasCovered",
+            "label": "Which experience areas can you evidence?",
+            "type": "select",
+            "options": ["DPR preparation", "PMC / PDMC", "Construction supervision / DSC", "Third-party inspection / IVA / QC", "NRW reduction study", "24x7 master planning", "Transaction advisory / BPM"],
+            "scoring": "Covering more of the RFP's required experience areas raises marks; some RFPs require at least one eligible assignment in each specified area."
+          }
+        ]
+      },
+      {
+        "id": "financial-strength",
+        "label": "Financial Strength (Turnover)",
+        "typicalWeightPct": 8,
+        "description": "Average annual turnover from consultancy/professional services over the last three financial years. This is primarily a hard eligibility gate (typical thresholds range from Rs 20-25 Cr for AMRUT/JJM PDMC to Rs 75-100 Cr for large utility/inspection assignments), and additionally carries a small number of scored marks on a sliding scale.",
+        "scoringGuidance": [
+          { "level": "Excellent (90-100%)", "meaning": "Turnover well above the top band (e.g. > Rs 100 Cr where threshold is Rs 75 Cr; > Rs 300 Cr where threshold is Rs 100 Cr)." },
+          { "level": "Good (70-89%)", "meaning": "Turnover comfortably above the minimum threshold, in the middle scoring band." },
+          { "level": "Fair (50-69%)", "meaning": "Turnover just meets the minimum eligibility threshold." },
+          { "level": "Poor (<50%)", "meaning": "Turnover below the RFP minimum - proposal is disqualified." }
+        ],
+        "inputFields": [
+          {
+            "key": "avgAnnualTurnoverINR",
+            "label": "Average annual turnover from consultancy services (last 3 FYs, INR)",
+            "type": "number",
+            "options": [],
+            "scoring": "Must exceed the tender's minimum threshold to be eligible; marks scale up in bands (e.g. Kerala AMRUT: 25-50 Cr = 3, 50-75 = 7, >75 = 10)."
+          },
+          {
+            "key": "consultancyTurnoverShareable",
+            "label": "Is turnover certified by a CA/statutory auditor with UDIN?",
+            "type": "boolean",
+            "options": [],
+            "scoring": "Non-negotiable documentary requirement; missing UDIN-certified turnover certificate leads to rejection."
+          }
+        ]
+      },
+      {
+        "id": "firm-strength",
+        "label": "Firm Strength & Standing",
+        "typicalWeightPct": 12,
+        "description": "Organisational capacity beyond turnover: number of years in existence, number of qualified technical personnel on payroll/empanelled, and overall track record of large programme management units. Large PDMC/inspection RFPs set personnel-strength as both an eligibility gate (e.g. 100-200 qualified staff) and a scored criterion.",
+        "scoringGuidance": [
+          { "level": "Excellent (90-100%)", "meaning": ">1000 qualified personnel and/or >25 years in existence with multiple large PMU/PDMC assignments." },
+          { "level": "Good (70-89%)", "meaning": "500-1000 personnel and a solid multi-year track record of programme-management assignments." },
+          { "level": "Fair (50-69%)", "meaning": "Meets the minimum personnel threshold (e.g. 100-200 staff) and minimum years in existence." },
+          { "level": "Poor (<50%)", "meaning": "Below minimum personnel or years-in-existence requirements." }
+        ],
+        "inputFields": [
+          {
+            "key": "qualifiedPersonnelCount",
+            "label": "Number of qualified technical personnel on payroll / empanelled",
+            "type": "number",
+            "options": [],
+            "scoring": "Thresholds commonly 100 (Kerala PDMC) or 200 (GWSSB); scored in bands (GWSSB: 200-500 = 2, 500-1000 = 5, >1000 = 10)."
+          },
+          {
+            "key": "yearsInExistence",
+            "label": "Years the firm has been in existence (from incorporation)",
+            "type": "number",
+            "options": [],
+            "scoring": "Often a 10-year minimum for PDMC; scored e.g. 10-25 yrs = 3 marks, >25 yrs = 5 marks."
+          },
+          {
+            "key": "largePMUAssignments",
+            "label": "Number of large PMU/PDMC/TSU assignments (fee >= Rs 5 Cr) delivered",
+            "type": "number",
+            "options": [],
+            "scoring": "1 assignment = base marks; additional assignments add incremental marks up to a cap."
+          }
+        ]
+      },
+      {
+        "id": "key-personnel",
+        "label": "Key Personnel (CVs by Role)",
+        "typicalWeightPct": 30,
+        "description": "Qualification and competence of named key experts, scored per role from their CVs (educational qualification, total years of experience, and role-specific/regional experience). The Team Leader is the single most heavily weighted CV; specialist roles (water supply, wastewater/used-water, NRW, contracts/procurement, SCADA, construction supervision, etc.) carry the balance.",
+        "scoringGuidance": [
+          { "level": "Excellent (90-100%)", "meaning": "All key roles filled with experts exceeding minimum qualifications, with 20+ years (Team Leader) and strong role-specific water-sector references." },
+          { "level": "Good (70-89%)", "meaning": "All roles filled meeting minimums, with the Team Leader and deputies above the required experience floor." },
+          { "level": "Fair (50-69%)", "meaning": "Key roles filled at the minimum thresholds; limited specialist depth or borderline experience years." },
+          { "level": "Poor (<50%)", "meaning": "Missing key roles or CVs below minimum qualification/experience (Team Leader/Deputy shortfalls can make a bid non-responsive)." }
+        ],
+        "inputFields": [
+          {
+            "key": "teamLeaderExperienceYears",
+            "label": "Team Leader's total years of relevant experience",
+            "type": "number",
+            "options": [],
+            "scoring": "Large-utility RFPs require ~20 years total (15 in water sector, 7 as TL); more experience and more comparable TL assignments score higher."
+          },
+          {
+            "key": "teamLeaderQualification",
+            "label": "Team Leader's highest relevant qualification",
+            "type": "select",
+            "options": ["Bachelor (Civil/Env/Public Health)", "Master (Civil/Water Supply/Env/Public Health) or MBA", "Doctorate"],
+            "scoring": "CVs are scored on qualification + experience; a relevant PG degree typically earns full qualification marks."
+          },
+          {
+            "key": "keyExpertsProvidedCount",
+            "label": "Number of required key-expert roles you can staff with qualifying CVs",
+            "type": "number",
+            "options": [],
+            "scoring": "Marks are allocated per role (e.g. DJB spreads 45 marks across ~15 experts; Kerala 25 marks across 6 experts). Filling every role at/above minimums maximises marks."
+          },
+          {
+            "key": "specialistsWithWaterSectorExperience",
+            "label": "Do specialist experts (water supply / wastewater / NRW / SCADA) have direct water-sector references?",
+            "type": "boolean",
+            "options": [],
+            "scoring": "Role-specific and regional experience attract additional marks in several RFPs (e.g. GWSSB)."
+          }
+        ]
+      },
+      {
+        "id": "methodology",
+        "label": "Approach, Methodology & Work Plan",
+        "typicalWeightPct": 20,
+        "description": "Quality and project-specificity of the technical proposal: understanding of the Terms of Reference, technical approach and methodology, operational work plan/timeframe, resource and personnel deployment plan, and (for larger assignments) a presentation to the evaluation committee.",
+        "scoringGuidance": [
+          { "level": "Excellent (90-100%)", "meaning": "Deep, project-specific understanding of scope with innovative, well-justified methodology, realistic work plan and clear resource deployment; strong presentation." },
+          { "level": "Good (70-89%)", "meaning": "Sound methodology tailored to the assignment with a coherent work plan and staffing plan." },
+          { "level": "Fair (50-69%)", "meaning": "Generic but acceptable methodology with a basic work plan." },
+          { "level": "Poor (<50%)", "meaning": "Boilerplate approach, weak or missing work plan / resource planning." }
+        ],
+        "inputFields": [
+          {
+            "key": "methodologyProjectSpecific",
+            "label": "How tailored is your methodology to this specific assignment?",
+            "type": "select",
+            "options": ["Generic template", "Partly tailored", "Fully project-specific with site analysis"],
+            "scoring": "Evaluators reward demonstrated understanding of the specific city/scheme; fully project-specific approaches score in the top band."
+          },
+          {
+            "key": "workPlanProvided",
+            "label": "Do you have a detailed activity-wise work plan and timeframe?",
+            "type": "boolean",
+            "options": [],
+            "scoring": "A clear operational work plan and timeframe typically carries dedicated marks (e.g. DJB: 6 of 20)."
+          },
+          {
+            "key": "resourceDeploymentPlan",
+            "label": "Do you have a resource & personnel deployment plan matched to the scope?",
+            "type": "boolean",
+            "options": [],
+            "scoring": "Resource/personnel planning carries dedicated marks (e.g. DJB: 4 of 20)."
+          },
+          {
+            "key": "canPresentToCommittee",
+            "label": "Can your key team present the approach to the evaluation committee?",
+            "type": "boolean",
+            "options": [],
+            "scoring": "Several large RFPs (e.g. DJB) require a presentation as part of methodology scoring."
+          }
+        ]
+      }
+    ],
+    "keyPolicies": [
+      {
+        "name": "Manual for Procurement of Consultancy & Other Services, Ministry of Finance (Updated June 2022)",
+        "url": "https://cdnbbsr.s3waas.gov.in/s395192c98732387165bf8e396c0f2dad2/uploads/2022/08/2022080626.pdf",
+        "relevance": "Defines the systems of consultant selection (LCS, QCBS, QBS, FBS, SSS), the two-stage evaluation (responsiveness, quality, cost), the Consultancy Evaluation Committee, and the QCBS combined-score formula used across central and state water tenders."
+      },
+      {
+        "name": "General Financial Rules (GFR) - Rule 192 (QCBS) & Rule 193 (LCS)",
+        "url": "https://www.gfr.co.in/p/gfr-rule-book-of-consulting-services.html",
+        "relevance": "Establishes QCBS as the default for quality-sensitive consultancy, requires the RFP to specify the minimum qualifying technical score and technical:financial weights (e.g. 70:30, 60:40), and caps the non-financial (technical) weight at 80% - explaining why 80:20 is the highest ratio seen."
+      },
+      {
+        "name": "AMRUT 2.0 Operational Guidelines, Ministry of Housing & Urban Affairs (Oct 2021)",
+        "url": "https://amrut.mohua.gov.in/uploads/AMRUT_2.0_Operational_Guidelines.pdf",
+        "relevance": "Frames the Project Development & Management Consultant (PDMC) role for urban water supply, sewerage/septage and water-body rejuvenation, and the City Water Balance/Action Plan process that PDMC and DPR consultancies support."
+      },
+      {
+        "name": "Jal Jeevan Mission - Operational Guidelines & Manuals (Dept. of Drinking Water & Sanitation)",
+        "url": "https://jaljeevanmission.gov.in/guidelines",
+        "relevance": "Governs rural piped water supply schemes for which state PHEDs/Jal Nigams procure DPR-preparation and PMC/third-party inspection consultants; sets the programme context and quality expectations for JJM-funded water tenders."
+      },
+      {
+        "name": "CPPP Standard RFP for Procurement of Consultancy Services (eProcure)",
+        "url": "https://eprocure.gov.in/cppp/sites/default/files/standard_biddingdocs/Procurement_Consultancy_Services.pdf",
+        "relevance": "The Central Public Procurement Portal's model consultancy RFP/REoI, defining eligibility declarations, qualification criteria, key-expert evaluation at RFP stage, and selection method selection (QCBS/LCS/FBS/SSS) that state water agencies adapt."
+      }
+    ]
+  }
+}

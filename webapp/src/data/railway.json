@@ -1,0 +1,501 @@
+{
+  "sector": "railway",
+  "sectorLabel": "Railways & Metro",
+  "generatedAt": "2026-07-18",
+  "sources": [
+    {
+      "name": "Delhi Metro Rail Corporation (DMRC) — Tenders / EOI repository",
+      "url": "https://www.delhimetrorail.com",
+      "type": "authority-website"
+    },
+    {
+      "name": "Uttar Pradesh Metro Rail Corporation (UPMRC)",
+      "url": "https://www.upmetrorail.com",
+      "type": "authority-website"
+    },
+    {
+      "name": "National High Speed Rail Corporation Ltd (NHSRCL)",
+      "url": "https://nhsrcl.in",
+      "type": "authority-website"
+    },
+    {
+      "name": "Chennai Metro Rail Limited (CMRL) — Tenders",
+      "url": "https://chennaimetrorail.org",
+      "type": "authority-website"
+    },
+    {
+      "name": "Rail Land Development Authority (RLDA)",
+      "url": "https://rlda.indianrailways.gov.in",
+      "type": "authority-website"
+    },
+    {
+      "name": "Indian Port Rail & Ropeway Corporation Ltd (IPRCL) — Tenders",
+      "url": "https://www.iprcl.in",
+      "type": "authority-website"
+    },
+    {
+      "name": "Indian Railways E-Procurement System (IREPS) / Central Public Procurement Portal",
+      "url": "https://www.ireps.gov.in",
+      "type": "tender-portal"
+    },
+    {
+      "name": "Manual for Procurement of Consultancy & Other Services (MoF, Dept. of Expenditure, June 2022)",
+      "url": "https://doe.gov.in/files/manuals_documents/Manual_for_Procurement_of_Consultancy_&_Other_Services_Updated%20June,%202022_1.pdf",
+      "type": "policy-document"
+    }
+  ],
+  "tenders": [
+    {
+      "id": "railway-001",
+      "title": "Short Listing of Consultants (General / Project Consultant) for Implementation of Delhi MRTS Project Phase-IV — Contract DCS-1B",
+      "issuingAuthority": "Delhi Metro Rail Corporation (DMRC)",
+      "tenderRef": "EOI/DMRC/SL/DCS-1B(R)",
+      "url": "https://backend.delhimetrorail.com/documents/2569/EOI.pdf",
+      "datePublished": null,
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "Consultancy fee to be quoted at RFP stage (EOI/shortlisting stage)",
+      "scopeSummary": "Expression of Interest to shortlist National/International consultants to act as General/Project Consultant for implementation of Delhi Metro Phase-IV. The consultant's role is largely advisory across project planning, programming and monitoring, civil engineering, design & structure, construction quality assurance, signalling, telecom, AFC, track, ventilation/AC, BMS, rolling stock and SHE. Shortlisted firms are subsequently issued the RFP for Contract DCS-1B.",
+      "consultancyType": "PMC",
+      "eligibility": {
+        "minAnnualTurnoverINR": 714700000,
+        "similarProjectsRequired": "At least one General/Project consultancy work of value >= INR 85.76 Cr on an elevated/underground rail-based Urban MRTS in last 7 years; if no underground component, at least one underground MRTS GC work of >= INR 42.88 Cr. Each JV member must have one similar work >= INR 42.88 Cr.",
+        "keyPersonnel": ["Team Leader (heads the entire consulting team)", "Expatriate and local experts across civil, systems, track, rolling stock, SHE"],
+        "other": ["Average annual turnover of last 5 financial years > INR 71.47 Cr (consultancy)", "Positive net worth in last audited FY", "Liquidity / bid capacity criteria", "Shortlisting under Guidelines for Employment of Consultants under Japanese ODA Loans, April 2012"]
+      },
+      "evaluationMethod": "QCBS 80:20",
+      "minTechnicalScore": null,
+      "technicalCriteria": [
+        { "criterion": "Relevant GC/PC experience on elevated/underground rail MRTS", "maxMarks": null, "subCriteria": ["Value and number of similar MRTS consultancy works in last 7 years"], "notes": "Eligibility gate at EOI; scored in the RFP technical proposal" },
+        { "criterion": "Financial standing (turnover, net worth, liquidity, bid capacity)", "maxMarks": null, "subCriteria": ["Avg annual turnover > INR 71.47 Cr", "Positive net worth"], "notes": null },
+        { "criterion": "Key personnel and approach (RFP stage)", "maxMarks": null, "subCriteria": [], "notes": "Detailed technical scoring applied to shortlisted firms at RFP stage under QCBS 80:20" }
+      ],
+      "sourceType": "live-tender",
+      "sourceDocument": "DMRC EOI for Short Listing of Consultants — Contract DCS-1B, Delhi MRTS Phase-IV"
+    },
+    {
+      "id": "railway-002",
+      "title": "General Consultancy Services for Lucknow MRTS Project — Phase 1B (LKGC (02)-01)",
+      "issuingAuthority": "Uttar Pradesh Metro Rail Corporation (UPMRC)",
+      "tenderRef": "LKGC (02)-01 (Tender Id 2026_UPMRC_280230_1)",
+      "url": "https://metrorailnews.in/bids-invited-for-general-consultancy-work-for-lucknow-metro-phase-1b/",
+      "datePublished": "2026-06-09",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "Consultancy fee to be quoted; EMD Rs 5.25 Cr",
+      "scopeSummary": "General Consultancy for the Lucknow Metro Phase 1B (East-West Corridor). Scope includes independent quality monitoring, safety supervision, interface reviews, project implementation planning and reporting, including preparation of a Quality and Safety Monitoring Plan (QSMP) covering inspections, audits and verification of contractors' quality-assurance and safety compliance. Completion period 50 months from Notice To Proceed.",
+      "consultancyType": "PMC",
+      "eligibility": {
+        "minAnnualTurnoverINR": null,
+        "similarProjectsRequired": "General/Project consultancy experience on rail-based Urban Mass Rapid Transit systems (per RFP data sheet)",
+        "keyPersonnel": ["Team Leader", "Quality & Safety experts", "Civil / systems interface experts"],
+        "other": ["EMD Rs 5.25 Cr", "Pre-bid meeting 19 Jun 2026; bid submission end 09 Jul 2026", "Bid via CPP / UPMRC e-procurement"]
+      },
+      "evaluationMethod": "QCBS",
+      "minTechnicalScore": null,
+      "technicalCriteria": [
+        { "criterion": "Firm's relevant metro/MRTS general-consultancy experience", "maxMarks": null, "subCriteria": [], "notes": null },
+        { "criterion": "Key personnel qualifications & experience", "maxMarks": null, "subCriteria": [], "notes": null },
+        { "criterion": "Approach, methodology & QSMP", "maxMarks": null, "subCriteria": [], "notes": null }
+      ],
+      "sourceType": "live-tender",
+      "sourceDocument": "UPMRC NIT LKGC (02)-01 — General Consultancy for Lucknow Metro Phase 1B (2026)"
+    },
+    {
+      "id": "railway-003",
+      "title": "Project Management Consultancy (PMC) Services for Construction of Civil Works Packages of the Mumbai–Ahmedabad High Speed Rail (MAHSR) Corridor",
+      "issuingAuthority": "National High Speed Rail Corporation Ltd (NHSRCL)",
+      "tenderRef": "NHSRCL/CO/CA/MA-SVGC/2020/34",
+      "url": "https://urbantransportnews.com/news/tata-consulting-led-jv-wins-rs-1111-crore-pmc-contract-of-mumbai-ahmedabad-hsr",
+      "datePublished": "2020-11-11",
+      "estimatedValueINR": 11110000000,
+      "estimatedValueLabel": "₹1,111 Cr (lowest/awarded bid); 96-month contract",
+      "scopeSummary": "Project Management Consultancy for the construction of civil works packages of the 508.17 km Mumbai–Ahmedabad High Speed Rail corridor, over a 96-month tenure. The PMC works alongside the Japanese-led General Consultant to manage construction execution. Selection was by QCBS; the winning JV (Tata Consulting Engineers–Consulting Engineers Group–Aarvee Associates–PADECO) quoted ₹1,111 Cr.",
+      "consultancyType": "PMC",
+      "eligibility": {
+        "minAnnualTurnoverINR": null,
+        "similarProjectsRequired": "Experience in project management / construction supervision of high-speed rail or comparable large rail/infrastructure projects (per RFP)",
+        "keyPersonnel": ["Team Leader", "Civil/track/bridge/tunnel experts", "Contract & QA/QC experts"],
+        "other": ["International Competitive Bidding; JICA-assisted", "Consortium/JV permitted"]
+      },
+      "evaluationMethod": "QCBS 80:20",
+      "minTechnicalScore": null,
+      "technicalCriteria": [
+        { "criterion": "Firm's relevant HSR / large rail infrastructure PMC experience", "maxMarks": null, "subCriteria": [], "notes": "Qualified bidders' final technical scores were 99.25 (TCE JV) and 97.25 (Nippon Koei–OCG–RITES JV) out of 100" },
+        { "criterion": "Key personnel qualifications & competence", "maxMarks": null, "subCriteria": [], "notes": null },
+        { "criterion": "Approach & methodology", "maxMarks": null, "subCriteria": [], "notes": null }
+      ],
+      "sourceType": "archived-tender",
+      "sourceDocument": "NHSRCL RFP for PMC — MAHSR civil works (Notice NHSRCL/CO/CA/MA-SVGC/2020/34)"
+    },
+    {
+      "id": "railway-004",
+      "title": "Appointment of General Consultant for Ghat Section of Taranga Hill–Ambaji–Aburoad New Railway Line Project (including Tunnels), North Western Railway",
+      "issuingAuthority": "Indian Port Rail & Ropeway Corporation Ltd (IPRCL) for North Western Railway (Construction HQ)",
+      "tenderRef": null,
+      "url": "https://www.iprcl.in/uploads/reports/1745229683_Appointment_of_General_Consultant_for_Ghat_Section_of_Taranga_Hill_Ambaji_Aburoad_project_Tunnels_at_North_Western_Railway.pdf",
+      "datePublished": "2025-04-01",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "Consultancy fee to be quoted",
+      "scopeSummary": "General Consultancy for construction of the ghat (hilly) section of the Taranga Hill–Ambaji–Aburoad new railway line, including tunnels, tall bridges, deep cuttings and slope stabilisation, on behalf of North Western Railway. The GC reviews designs, supervises construction and monitors physical/financial progress. Selection is single-stage two-packet under QCBS. This RFP carries a detailed marks-based technical scoring table used in the framework.",
+      "consultancyType": "PMC",
+      "eligibility": {
+        "minAnnualTurnoverINR": null,
+        "similarProjectsRequired": "Eligible Assignments (railway/tunnel/infrastructure consultancy) completed in last 5 financial years; each qualifying assignment credited 10 marks up to 200",
+        "keyPersonnel": ["Team Leader (on payroll of bidder)", "Senior Tunnel Design Expert", "Senior Bridge Design Expert", "Tunnel Geologist", "Sector Expert (Finance)", "Civil Draftsman"],
+        "other": ["Team Leader must be on bidder's payroll >=15 days before Bid Due Date", "Same CV proposed by two bidders = zero marks for both", "Up to 25% of Key Personnel may fail eligibility (scored zero) without disqualifying the bid", "Skill tests / technical presentation for key personnel"]
+      },
+      "evaluationMethod": "QCBS",
+      "minTechnicalScore": 70,
+      "technicalCriteria": [
+        { "criterion": "Relevant experience of the Bidder", "maxMarks": 200, "subCriteria": ["10 marks per completed Eligible Assignment in last 5 FY (max 200)"], "notes": "Raw marks folded into the 70-point technical scale; min qualifying technical score 49/70 (70%)" },
+        { "criterion": "Average annual revenue from professional/consultancy fees (last 3 FY)", "maxMarks": 130, "subCriteria": ["1 mark per crore of average annual professional fees (max 130)"], "notes": null },
+        { "criterion": "Team Leader relevant experience", "maxMarks": 50, "subCriteria": ["5 marks per Eligible Assignment as Team Leader (max 50)"], "notes": null },
+        { "criterion": "Senior Tunnel/Bridge Design Expert experience", "maxMarks": 40, "subCriteria": ["4 marks per Eligible Assignment (max 40)"], "notes": null },
+        { "criterion": "Tunnel Geologist experience", "maxMarks": 40, "subCriteria": ["4 marks per Eligible Assignment (max 40)"], "notes": null },
+        { "criterion": "Sector Expert (Finance) experience", "maxMarks": 20, "subCriteria": ["4 marks per assignment / per year for retired Railway/PSU staff (max 20)"], "notes": null },
+        { "criterion": "Proposed methodology & work plan + technical presentation and skill tests", "maxMarks": 180, "subCriteria": ["15-min presentation with Team Leader + team", "Skill tests / Q&A / written tests of key personnel"], "notes": "Methodology & work plan carries 60 marks weight; skill-test performance affects key-personnel marks" }
+      ],
+      "sourceType": "live-tender",
+      "sourceDocument": "IPRCL RFP — General Consultant, Taranga Hill–Ambaji–Aburoad ghat section incl. tunnels, NWR (2025)"
+    },
+    {
+      "id": "railway-005",
+      "title": "Selection of Project Management Company (PMC) for PMC Services and Detailed Design Consultant (DDC) for Chennai Metro Rail Phase 1 Network Capacity Enhancement Project",
+      "issuingAuthority": "Chennai Metro Rail Limited (CMRL)",
+      "tenderRef": null,
+      "url": "https://chennaimetrorail.org/wp-content/uploads/2025/05/NIT.pdf",
+      "datePublished": "2025-05-01",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "Consultancy fee to be quoted",
+      "scopeSummary": "Combined engagement of a Project Management Company for PMC services and a Detailed Design Consultant for the Chennai Metro Rail Phase 1 Network Capacity Enhancement Project. Scope covers project management consultancy plus detailed design of civil, systems and station works (Section 5A Detailed Design Consultant scope). National Competitive Bidding under a single-stage two-envelope (technical & financial) QCBS system.",
+      "consultancyType": "PMC",
+      "eligibility": {
+        "minAnnualTurnoverINR": null,
+        "similarProjectsRequired": "Experience in PMC / detailed design of metro or comparable urban rail systems (per qualification criteria in tender)",
+        "keyPersonnel": ["Team Leader", "Design leads (civil/structural, systems)", "Station/architecture experts"],
+        "other": ["Single-stage two-envelope (technical & financial)", "MSE/Udyam preferences applicable", "Bid via CPP Portal"]
+      },
+      "evaluationMethod": "QCBS",
+      "minTechnicalScore": null,
+      "technicalCriteria": [
+        { "criterion": "Firm's relevant metro PMC/DDC experience", "maxMarks": null, "subCriteria": [], "notes": null },
+        { "criterion": "Key personnel qualifications & experience", "maxMarks": null, "subCriteria": [], "notes": null },
+        { "criterion": "Approach, methodology & work plan", "maxMarks": null, "subCriteria": [], "notes": null }
+      ],
+      "sourceType": "live-tender",
+      "sourceDocument": "CMRL NIT — PMC & DDC for Chennai Metro Phase 1 Network Capacity Enhancement (2025)"
+    },
+    {
+      "id": "railway-006",
+      "title": "Detailed Design Consultant for Property Development above Entry/Exit of Underground Metro Stations in Corridor-3, CMRL Phase-2",
+      "issuingAuthority": "Chennai Metro Rail Limited (CMRL)",
+      "tenderRef": "CMRL/CP/TDR-56-CS-DDC/2025",
+      "url": "https://chennaimetrorail.org/wp-content/uploads/2025/10/NIT-TDR-56.pdf",
+      "datePublished": "2025-10-01",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "Consultancy fee to be quoted",
+      "scopeSummary": "Detailed Design Consultant for property development above the entry/exit structures of underground metro stations at Madhavaram High Road, Sembiyum, Ayanavaram, Otteri, Perambur Barracks, Purasaiwalkam and Thirumayilai in Corridor-3 of CMRL Phase-2. Contract duration 730 days; single-stage two-envelope QCBS.",
+      "consultancyType": "Other",
+      "eligibility": {
+        "minAnnualTurnoverINR": null,
+        "similarProjectsRequired": "Detailed design experience for metro/transit property development or comparable RCC/steel-framed built structures (per qualification criteria)",
+        "keyPersonnel": ["Team Leader / Design Manager", "Structural / architectural design experts", "Building-services (HVAC, electrical, fire) experts"],
+        "other": ["Single-stage two-envelope (technical & financial) under QCBS", "Bid via CPP Portal"]
+      },
+      "evaluationMethod": "QCBS",
+      "minTechnicalScore": null,
+      "technicalCriteria": [
+        { "criterion": "Firm's relevant detailed-design experience", "maxMarks": null, "subCriteria": [], "notes": "DDC (detailed design), not design review" },
+        { "criterion": "Key personnel qualifications & experience", "maxMarks": null, "subCriteria": [], "notes": null },
+        { "criterion": "Approach & methodology", "maxMarks": null, "subCriteria": [], "notes": null }
+      ],
+      "sourceType": "live-tender",
+      "sourceDocument": "CMRL NIT CMRL/CP/TDR-56-CS-DDC/2025 — DDC for property development over UG station entry/exits, Corridor-3"
+    },
+    {
+      "id": "railway-007",
+      "title": "Project Management Consultancy Services for Redevelopment of Chhatrapati Shivaji Maharaj Terminus (CSMT) Station and Associated Infrastructure",
+      "issuingAuthority": "Rail Land Development Authority (RLDA)",
+      "tenderRef": "RLDA/RFP/CT-04 of 2023",
+      "url": "https://railanalysis.in/rail-news/rlda-invites-tender-for-project-management-consultancy-services-for-redevelopment-of-chhatrapati-shivaji-maharaj-terminus-station/",
+      "datePublished": "2023-01-01",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "Consultancy fee to be quoted; EMD INR 25 Lakh",
+      "scopeSummary": "Appointment of an agency to provide Project Management Consultancy for the redevelopment of CSMT station and construction of associated infrastructure. Period of services 30 months. Bidders demonstrate organisational technical capacity via similar passenger-terminal / large real-estate consultancy assignments.",
+      "consultancyType": "PMC",
+      "eligibility": {
+        "minAnnualTurnoverINR": null,
+        "similarProjectsRequired": "In last 7 years (ending 31.12.2022): three similar works with technical consulting fee >= INR 10 Cr each, OR two >= INR 20 Cr each, OR one >= INR 30 Cr. 'Similar' = passenger terminals (railway/metro/RRTS/HSR/monorail stations, airport/bus terminals) or large RCC/steel commercial-institutional real estate.",
+        "keyPersonnel": ["Team Leader / Project Manager", "Structural, architectural, MEP, contract experts"],
+        "other": ["EMD INR 25 Lakh", "Minimum one ongoing technical consultancy assignment >= INR 50 Cr secured in last 5 years", "Lead JV member must meet the two-project (or one large-project) experience test"]
+      },
+      "evaluationMethod": "QCBS",
+      "minTechnicalScore": null,
+      "technicalCriteria": [
+        { "criterion": "Organisational technical capacity (similar terminal/real-estate consultancy)", "maxMarks": null, "subCriteria": ["Value & number of eligible assignments in last 7 years"], "notes": null },
+        { "criterion": "Ongoing large consultancy assignment (>= INR 50 Cr)", "maxMarks": null, "subCriteria": [], "notes": "Capacity gate" },
+        { "criterion": "Key personnel and approach", "maxMarks": null, "subCriteria": [], "notes": null }
+      ],
+      "sourceType": "archived-tender",
+      "sourceDocument": "RLDA RFP CT-04 of 2023 — PMC for CSMT station redevelopment"
+    },
+    {
+      "id": "railway-008",
+      "title": "Project Management Consultancy Services for Redevelopment of Ahmedabad Railway Station and Associated Infrastructure",
+      "issuingAuthority": "Rail Land Development Authority (RLDA)",
+      "tenderRef": null,
+      "url": "https://railanalysis.in/rail-news/rlda-invites-tender-for-appointment-of-agency-for-providing-pmc-services-for-redevelopment-project-of-ahmedabad-railway-station/",
+      "datePublished": "2023-01-01",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "Consultancy fee to be quoted",
+      "scopeSummary": "Appointment of an agency to provide Project Management Consultancy for the redevelopment of Ahmedabad Railway Station and associated infrastructure. Eligibility mirrors RLDA's standard station-redevelopment PMC template with higher fee thresholds than CSMT.",
+      "consultancyType": "PMC",
+      "eligibility": {
+        "minAnnualTurnoverINR": null,
+        "similarProjectsRequired": "In last 7 years (ending 31.12.2022): three similar works with technical consulting fee >= INR 15 Cr each, OR two >= INR 25 Cr each, OR one >= INR 30 Cr. 'Similar' = passenger terminals (railway/metro/RRTS/HSR/monorail, airport/bus) or large RCC/steel commercial-institutional real estate.",
+        "keyPersonnel": ["Team Leader / Project Manager", "Structural, architectural, MEP, contract experts"],
+        "other": ["Minimum one ongoing technical consultancy assignment >= INR 50 Cr secured in last 5 years", "Lead member must meet two-project (or one large-project) experience test"]
+      },
+      "evaluationMethod": "QCBS",
+      "minTechnicalScore": null,
+      "technicalCriteria": [
+        { "criterion": "Organisational technical capacity (similar terminal/real-estate consultancy)", "maxMarks": null, "subCriteria": [], "notes": null },
+        { "criterion": "Ongoing large consultancy assignment (>= INR 50 Cr)", "maxMarks": null, "subCriteria": [], "notes": null },
+        { "criterion": "Key personnel and approach", "maxMarks": null, "subCriteria": [], "notes": null }
+      ],
+      "sourceType": "archived-tender",
+      "sourceDocument": "RLDA RFP — PMC for Ahmedabad station redevelopment (2023)"
+    },
+    {
+      "id": "railway-009",
+      "title": "Consultancy for Techno-Economic Feasibility Study, Master Planning, Urban Design, Engineering & DPR for Integrated Redevelopment of Delhi Sarai Rohilla Railway Station",
+      "issuingAuthority": "Rail Land Development Authority (RLDA)",
+      "tenderRef": "RLDA/RFP/CT-51 of 2022",
+      "url": "https://railanalysis.in/rail-news/rlda-invites-tender-for-dpr-preparation-for-redevelopment-of-delhi-sarai-rohilla-railway-station/",
+      "datePublished": "2022-01-01",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "Consultancy fee to be quoted",
+      "scopeSummary": "Consultancy for techno-economic feasibility study, detailed master planning, urban design, engineering and preparation of the DPR for integrated redevelopment of Delhi Sarai Rohilla station (Northern Railway). Limited tender inviting only RLDA-empanelled architectural firms (Category A, station categories NSG-01/02 and important stations). Selection is QCBS among empanelled firms via single-stage two-packet; there is no separate eligibility test (empanelment substitutes for it).",
+      "consultancyType": "DPR",
+      "eligibility": {
+        "minAnnualTurnoverINR": null,
+        "similarProjectsRequired": "Restricted to firms empanelled under RLDA Category A (architectural consultancy for NSG-01/02 & important stations); empanelment already establishes prior experience",
+        "keyPersonnel": ["Master planner / urban designer", "Architect (Council of Architecture registered)", "Structural, transport-planning, MEP experts"],
+        "other": ["Limited (empanelled) tender", "Single-stage two-packet", "Master plan must support modular/phased construction; feasibility & preliminary design feed the downstream developer RFP"]
+      },
+      "evaluationMethod": "QCBS",
+      "minTechnicalScore": null,
+      "technicalCriteria": [
+        { "criterion": "Quality of master plan / feasibility approach (only evaluation criteria; no eligibility)", "maxMarks": null, "subCriteria": ["Master plan & technical feasibility report", "Preliminary design"], "notes": "Tenders from empanelled consultants specify evaluation criteria only" },
+        { "criterion": "Key personnel", "maxMarks": null, "subCriteria": [], "notes": null }
+      ],
+      "sourceType": "archived-tender",
+      "sourceDocument": "RLDA RFP CT-51 of 2022 — Feasibility/master plan/DPR for Delhi Sarai Rohilla station redevelopment"
+    },
+    {
+      "id": "railway-010",
+      "title": "Final Location Survey (FLS), Geological/Traffic/Techno-Economic Studies, Alignment Design & DPR for Reasi–Poonch New BG Railway Line, J&K",
+      "issuingAuthority": "Ministry of Railways — Northern Railway (CAO/USBRL, Jammu)",
+      "tenderRef": "75W126WA-FLS-Reasi-Poonch",
+      "url": "https://www.tendershark.com/details/jammu-and-kashmir-tender/ministry-of-railways/fa7c6576-23ef-4ef3-81b2-60b2b35dc5b4",
+      "datePublished": "2026-04-24",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "Survey/DPR consultancy fee to be quoted; EMD INR 14,03,800",
+      "scopeSummary": "Final Location Survey with associated geological studies, traffic survey, techno-economic studies, design of railway alignment and preparation of the Detailed Project Report for the Reasi–Poonch new broad-gauge railway line in Jammu & Kashmir. Tendered through IREPS/CPPP by Northern Railway (USBRL). A representative example of the railway FLS/DPR survey-consultancy category.",
+      "consultancyType": "DPR",
+      "eligibility": {
+        "minAnnualTurnoverINR": null,
+        "similarProjectsRequired": "Experience in railway FLS / alignment design / DPR preparation as per Railway Board latest survey guidelines (per tender document)",
+        "keyPersonnel": ["Survey / alignment engineer", "Bridge & GAD engineer", "Geotechnical / geological expert", "Traffic & techno-economic expert"],
+        "other": ["EMD INR 14,03,800", "Bid via IREPS / CPPP", "Deliverables: DPR, L-section, ESP, GAD of bridges, land plans, hydrological & traffic surveys, geotechnical investigation, estimate"]
+      },
+      "evaluationMethod": "QCBS",
+      "minTechnicalScore": null,
+      "technicalCriteria": [
+        { "criterion": "Firm's railway survey/FLS/DPR experience", "maxMarks": null, "subCriteria": [], "notes": "Detailed scoring per the tender document; MoR survey consultancies commonly use two-packet QCBS" },
+        { "criterion": "Key personnel (survey, bridge, geotech, traffic)", "maxMarks": null, "subCriteria": [], "notes": null },
+        { "criterion": "Methodology & work plan", "maxMarks": null, "subCriteria": [], "notes": null }
+      ],
+      "sourceType": "live-tender",
+      "sourceDocument": "MoR/Northern Railway (USBRL) tender 75W126WA-FLS-Reasi-Poonch — FLS + DPR, Reasi–Poonch new line"
+    },
+    {
+      "id": "railway-011",
+      "title": "Final Location Survey (FLS) incl. DPR for New BG Railway Lines — Gazol–Itahar, Itahar–Raiganj, Itahar–Buniadpur & Raiganj–Dalkhola, N.F. Railway",
+      "issuingAuthority": "Ministry of Railways — N.F. Railway (Construction), HQ Maligaon, Guwahati",
+      "tenderRef": "CE-CON-NL-FLS-2026-01",
+      "url": "https://www.tendershark.com/details/assam-tender/ministry-of-railways/c33ee674-60c7-4621-a4ae-448bec2dade4",
+      "datePublished": "2026-04-25",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "Survey/DPR consultancy fee to be quoted; EMD INR 8,10,500",
+      "scopeSummary": "Final Location Survey for four new broad-gauge line sections — Gazol–Itahar (~27.2 km), Itahar–Raiganj (~21.825 km), Itahar–Buniadpur (~39 km) and Raiganj–Dalkhola (~43.43 km) — including submission of the DPR, L-section, ESP, GAD of all bridges, land plans, hydrological survey, traffic survey, geotechnical investigation and revised estimate as per latest Railway Board guidelines. Tendered by N.F. Railway (Construction) via IREPS.",
+      "consultancyType": "DPR",
+      "eligibility": {
+        "minAnnualTurnoverINR": null,
+        "similarProjectsRequired": "Railway FLS / DPR / alignment survey experience per Railway Board guidelines (per tender document)",
+        "keyPersonnel": ["Survey / alignment engineer", "Bridge & GAD engineer", "Geotechnical expert", "Traffic survey expert"],
+        "other": ["EMD INR 8,10,500", "Bid via IREPS / CPPP", "Multiple contiguous sections in a single package"]
+      },
+      "evaluationMethod": "QCBS",
+      "minTechnicalScore": null,
+      "technicalCriteria": [
+        { "criterion": "Firm's railway FLS/DPR experience", "maxMarks": null, "subCriteria": [], "notes": null },
+        { "criterion": "Key personnel", "maxMarks": null, "subCriteria": [], "notes": null },
+        { "criterion": "Methodology & work plan", "maxMarks": null, "subCriteria": [], "notes": null }
+      ],
+      "sourceType": "live-tender",
+      "sourceDocument": "MoR/N.F. Railway tender CE-CON-NL-FLS-2026-01 — FLS + DPR for four new BG line sections"
+    },
+    {
+      "id": "railway-012",
+      "title": "Selection of Consultants (DPR Consultant, General Engineering Consultant & Detailed Design Consultant) for Surat Metro Rail Project",
+      "issuingAuthority": "Gujarat Metro Rail Corporation (GMRC) — Surat Metro",
+      "tenderRef": null,
+      "url": "https://www.scribd.com/document/403744150/Surat-Metro-Project-Selection-of-Consultants",
+      "datePublished": null,
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "Consultancy fee to be quoted",
+      "scopeSummary": "Consultant-selection strategy and criteria for the Surat Metro Rail Project covering the DPR Consultant (prepares DPR & preliminary designs), General Engineering Consultant (construction supervision) and Detailed Design Consultant (detailed civil/structural/architectural, building services and E&M design of viaduct and elevated/underground stations). Selection under QCBS with a minimum technical score of 70. Illustrates typical metro DDC/GEC eligibility and evaluation structure.",
+      "consultancyType": "Other",
+      "eligibility": {
+        "minAnnualTurnoverINR": 200000000,
+        "similarProjectsRequired": "For DDC: detailed design of viaduct and elevated/underground stations for Metro/HSR/Light Rail/Railways valued at >= 80% of total tender cost; Team Leader with >=15 years and >=2 projects of similar nature; each expert >=15 years and >=3 similar projects",
+        "keyPersonnel": ["Team Leader / Project Leader (>=15 yrs, 2 similar projects)", "Project Architect (available at site office)", "Structural engineers (M.E. Structural)", "Building-services & E&M experts"],
+        "other": ["Average annual turnover from mass-transport consultancy (last 3 FY, from 2013-14) >= INR 20 Cr", "Minimum technical score 70 to qualify", "Financial score: lowest bid = 100 marks (inverse proportional)"]
+      },
+      "evaluationMethod": "QCBS",
+      "minTechnicalScore": 70,
+      "technicalCriteria": [
+        { "criterion": "Firm's experience in similar mass-transit projects (last 7 years)", "maxMarks": null, "subCriteria": [], "notes": null },
+        { "criterion": "Qualifications & experience of key staff", "maxMarks": null, "subCriteria": ["Team Leader >=15 yrs, 2 similar", "Experts >=15 yrs, 3 similar"], "notes": null },
+        { "criterion": "Approach, methodology & work plan", "maxMarks": null, "subCriteria": [], "notes": null }
+      ],
+      "sourceType": "model-rfp",
+      "sourceDocument": "Surat Metro (GMRC) — Selection of Consultants (DPR/GEC/DDC) strategy & criteria document"
+    },
+    {
+      "id": "railway-013",
+      "title": "Manual for Procurement of Consultancy & Other Services (MoF, Department of Expenditure, updated June 2022)",
+      "issuingAuthority": "Ministry of Finance, Department of Expenditure (Government of India)",
+      "tenderRef": null,
+      "url": "https://doe.gov.in/files/manuals_documents/Manual_for_Procurement_of_Consultancy_&_Other_Services_Updated%20June,%202022_1.pdf",
+      "datePublished": "2022-06-01",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "Not applicable (policy document)",
+      "scopeSummary": "The umbrella Government of India manual (under GFR 2017, Rule 192) that defines the consultant-selection systems all railway/metro authorities implement: QCBS, Least Cost Selection (LCS), Quality-Based Selection (QBS/FBS), Fixed Budget and Single Source. It sets the rule that the weightage of technical (non-financial) parameters must not exceed 80%, and requires the RFP to specify the minimum qualifying technical score and the technical:financial weightage.",
+      "consultancyType": "Other",
+      "eligibility": {
+        "minAnnualTurnoverINR": null,
+        "similarProjectsRequired": "Defined per assignment in each RFP",
+        "keyPersonnel": ["Defined per assignment ToR"],
+        "other": ["QCBS technical weight capped at 80% (Rule 192, GFR 2017)", "RFP must state minimum qualifying technical score and quality:cost weightage", "Applicable across central PSUs incl. RVNL/RITES/DFCCIL/NHSRCL and metro corporations"]
+      },
+      "evaluationMethod": "QCBS 80:20",
+      "minTechnicalScore": null,
+      "technicalCriteria": [
+        { "criterion": "Specific experience relevant to the assignment", "maxMarks": null, "subCriteria": [], "notes": "Weight set per assignment" },
+        { "criterion": "Adequacy of methodology & work plan", "maxMarks": null, "subCriteria": [], "notes": null },
+        { "criterion": "Qualifications & competence of key experts", "maxMarks": null, "subCriteria": [], "notes": "Usually the largest weight" }
+      ],
+      "sourceType": "policy-document",
+      "sourceDocument": "Manual for Procurement of Consultancy & Other Services, MoF (June 2022)"
+    }
+  ],
+  "evaluationFramework": {
+    "summary": "Consultant selection across the Indian railway and metro sector is dominated by Quality & Cost Based Selection (QCBS), applied under GFR 2017 Rule 192 and the MoF Manual for Procurement of Consultancy & Other Services (2022). Metro corporations (DMRC, UPMRC, CMRL, BMRCL, MahaMetro, GMRC) and JICA-assisted projects (DMRC Phase-IV DCS-1B, NHSRCL MAHSR) almost always use an 80:20 technical:financial split, while railway zonal/PSU general-consultancy RFPs (e.g. IPRCL/NWR) sometimes use a 70:30 structure (technical scored out of 70). Large metro GC/PMC contracts frequently begin with an Expression of Interest / shortlisting stage that imposes hard eligibility gates (a single similar MRTS consultancy work worth tens of crore, average annual turnover in the tens of crore, positive net worth) before the QCBS-scored RFP is issued to shortlisted firms.\n\nThe minimum qualifying technical score is typically 70 out of 100 (metro DDC/GEC/PMC and GMRC Surat), or 70% (49/70 in the IPRCL railway GC RFP); NHSRCL's MAHSR PMC saw qualified bidders score 97-99 out of 100, showing how competitive the top of the market is. Technical marks are dominated by two blocks: the firm's relevant experience (number and value of similar rail/metro/station consultancy assignments in the last 5-7 years) and the qualifications of key personnel (Team Leader plus discipline experts), with average annual consultancy revenue/turnover scored as a supporting sub-criterion (e.g. 1 mark per crore up to a cap in the IPRCL RFP) and approach/methodology plus a technical presentation/skill test carrying a smaller but decisive weight.\n\nEligibility thresholds are strongly value-based and vary by asset type: metro GC (DMRC Phase-IV) needs a similar work of ~₹85.76 Cr and turnover > ₹71.47 Cr; station-redevelopment PMC (RLDA CSMT/Ahmedabad) needs 1-3 similar consultancy works of ₹10-30 Cr plus an ongoing assignment > ₹50 Cr; metro DDC/GEC (Surat) needs ₹20 Cr average annual consultancy turnover and design experience worth ~80% of the tender cost. Common cross-cutting rules include: the same CV cannot be proposed by two bidders (zero marks to both), the Team Leader must be on the bidder's payroll, Council of Architecture registration is mandatory for station-redevelopment architectural work, and JV/consortium credit is apportioned by participation share.",
+    "dominantMethod": "QCBS 80:20",
+    "typicalMinTechnicalScore": 70,
+    "criteria": [
+      {
+        "id": "firm-experience",
+        "label": "Firm's Relevant Rail/Metro Consultancy Experience",
+        "typicalWeightPct": 35,
+        "description": "Track record of similar consultancy assignments matched to the tender type: general/project consultancy on rail-based MRTS (metro GC), PMC on HSR/large rail works, detailed design of viaducts and stations (DDC), FLS/DPR of new railway lines, or station-redevelopment/master-planning. Credited by number and value of qualifying assignments completed in the last 5-7 years (e.g. IPRCL: 10 marks per Eligible Assignment up to 200) and apportioned by JV participation share.",
+        "scoringGuidance": [
+          { "level": "Excellent (90-100%)", "meaning": "Multiple (3+) high-value similar assignments, including a flagship work above the tender's single-work value gate (e.g. > ₹85 Cr metro GC / > ₹30 Cr station PMC), with directly comparable scope" },
+          { "level": "Good (70-89%)", "meaning": "2 qualifying similar assignments comfortably above the value floor; solid recent metro/rail track record" },
+          { "level": "Fair (50-69%)", "meaning": "Meets the minimum floor: one similar assignment at the largest single-work threshold, or three at the smaller threshold" },
+          { "level": "Poor (<50%)", "meaning": "Below the eligibility value/number floor, or experience mainly as a minor JV partner / sub-consultant (not counted)" }
+        ],
+        "inputFields": [
+          { "key": "similarRailMetroAssignmentsCount", "label": "Number of similar rail/metro consultancy assignments completed in last 7 years (matching this tender type: GC/PMC/DDC/DPR-FLS/station)", "type": "number", "options": [], "scoring": "1 = Fair (floor); 2 = Good; 3+ = Excellent (IPRCL credits 10 marks each up to 200)" },
+          { "key": "largestSimilarAssignmentValueINR", "label": "Value of your single largest qualifying similar assignment (₹)", "type": "number", "options": [], "scoring": "Compared against the tender's single-work gate: metro GC ~₹85.76 Cr; station PMC ₹30 Cr; underground MRTS GC ₹42.88 Cr; DDC ~80% of tender cost" },
+          { "key": "assignmentAssetType", "label": "Closest asset type of your cited experience", "type": "select", "options": ["Metro / rail-based MRTS (elevated)", "Metro / MRTS (underground)", "High Speed Rail / RRTS", "New railway line FLS/DPR", "Station redevelopment / passenger terminal", "Other infrastructure"], "scoring": "Underground/HSR/tunnel experience scores higher for matching tenders; unrelated infrastructure is discounted" },
+          { "key": "firmRoleWeight", "label": "Typical role of the firm in cited assignments", "type": "select", "options": ["Sole firm (100%)", "Lead JV partner", "Other JV partner (by share)", "Sub-consultant (usually not counted)"], "scoring": "Credit apportioned by JV participation share; sub-consultancy generally excluded" }
+        ]
+      },
+      {
+        "id": "financial-turnover",
+        "label": "Average Annual Turnover / Consultancy Revenue",
+        "typicalWeightPct": 12,
+        "description": "Average annual turnover (or professional/consultancy fee revenue), certified by a Chartered Accountant, over the last 3-5 financial years. Acts as an eligibility gate (e.g. DMRC Phase-IV > ₹71.47 Cr; Surat metro ₹20 Cr) and, in railway GC RFPs, as a directly scored sub-criterion (IPRCL: 1 mark per crore of average annual professional fees up to 130). Positive net worth and liquidity/bid-capacity are usually also required.",
+        "scoringGuidance": [
+          { "level": "Excellent (90-100%)", "meaning": "Average annual consultancy turnover comfortably exceeds the tender gate (e.g. > ₹70-130 Cr for large metro GC/GC-scored RFPs)" },
+          { "level": "Good (70-89%)", "meaning": "Turnover well above the floor (e.g. ₹30-70 Cr) with positive net worth" },
+          { "level": "Fair (50-69%)", "meaning": "Turnover just clears the tender gate (e.g. ₹20 Cr metro DDC/GEC)" },
+          { "level": "Poor (<50%)", "meaning": "Turnover below the specified minimum, negative net worth, or insufficient bid capacity (ineligible)" }
+        ],
+        "inputFields": [
+          { "key": "avgAnnualTurnoverINR", "label": "Average annual turnover from consultancy business (last 3-5 years, ₹)", "type": "number", "options": [], "scoring": "Must clear the tender gate (₹20 Cr Surat DDC/GEC up to ₹71.47 Cr DMRC Phase-IV GC); scored 1 mark/crore up to a cap in railway GC RFPs" },
+          { "key": "positiveNetWorth", "label": "Is your net worth positive as per the last audited financial year?", "type": "boolean", "options": [], "scoring": "Positive net worth is a mandatory financial-standing gate" }
+        ]
+      },
+      {
+        "id": "key-personnel",
+        "label": "Qualifications & Competence of Key Personnel",
+        "typicalWeightPct": 35,
+        "description": "The other dominant block. Each key expert (Team Leader plus discipline experts — for railway/metro: tunnel/bridge design, geology, track, systems, station architecture, finance) is scored on qualification, total and similar-capacity experience, and minimum days of deployment. The Team Leader must be on the bidder's payroll; the same CV proposed by two bidders scores zero for both; some RFPs require a technical presentation and skill test of key personnel.",
+        "scoringGuidance": [
+          { "level": "Excellent (90-100%)", "meaning": "All key experts exceed the essential qualification with extensive similar-capacity experience on comparable metro/rail projects; Team Leader well above 15 years and multiple similar assignments" },
+          { "level": "Good (70-89%)", "meaning": "Full team meets requirements; Team Leader has 15+ years and 2+ similar assignments; most experts strong on similar experience" },
+          { "level": "Fair (50-69%)", "meaning": "Team meets minimum qualifications; some experts light on directly-similar experience" },
+          { "level": "Poor (<50%)", "meaning": "One or more key positions under-qualified or unfilled; > 25% of key personnel failing eligibility risks disqualification" }
+        ],
+        "inputFields": [
+          { "key": "teamLeaderExperienceYears", "label": "Team Leader — total professional experience (years)", "type": "number", "options": [], "scoring": "Typically >=15 years required; more years and seniority score higher" },
+          { "key": "teamLeaderSimilarAssignments", "label": "Team Leader — number of similar assignments in a lead/senior role", "type": "number", "options": [], "scoring": "IPRCL: 5 marks per eligible assignment as TL (up to 50); Surat requires 2 similar projects" },
+          { "key": "teamLeaderOnPayroll", "label": "Is the proposed Team Leader on your firm's payroll (before bid due date)?", "type": "boolean", "options": [], "scoring": "Mandatory in railway GC RFPs; if No, marks/eligibility affected" },
+          { "key": "keyExpertsFilledCount", "label": "Number of required key-expert positions you can fill with qualified, exclusive CVs", "type": "number", "options": [], "scoring": "Metro GC/PMC needs a broad multidisciplinary team; > 25% of positions failing eligibility can disqualify the bid" },
+          { "key": "duplicateCvRisk", "label": "Is any proposed CV also being submitted by another bidder for this tender?", "type": "boolean", "options": [], "scoring": "If Yes, that CV scores zero for all bidders proposing it" }
+        ]
+      },
+      {
+        "id": "approach-methodology",
+        "label": "Approach, Methodology, Work Plan & Presentation",
+        "typicalWeightPct": 15,
+        "description": "Quality of the technical approach, methodology and work plan, plus (in several railway/metro RFPs) a technical presentation and skill test of the Team Leader and key personnel. Includes project understanding, staffing/organisation, and for metro GC a Quality & Safety Monitoring Plan (QSMP).",
+        "scoringGuidance": [
+          { "level": "Excellent (90-100%)", "meaning": "Sharp project appreciation, robust and realistic methodology, clear work plan/organisation, strong presentation and skill-test performance" },
+          { "level": "Good (70-89%)", "meaning": "Sound methodology and work plan with minor gaps; competent presentation" },
+          { "level": "Fair (50-69%)", "meaning": "Generic methodology largely restating the ToR" },
+          { "level": "Poor (<50%)", "meaning": "Weak/boilerplate approach; poor understanding or presentation" }
+        ],
+        "inputFields": [
+          { "key": "methodologyQuality", "label": "Self-assessed quality of your approach & methodology (incl. QSMP for metro GC)", "type": "select", "options": ["Excellent", "Good", "Fair", "Poor"], "scoring": "Maps to scoring guidance; e.g. 60 marks weight for methodology in the IPRCL GC RFP" },
+          { "key": "presentationReady", "label": "Can your Team Leader and key experts attend a technical presentation / skill test?", "type": "boolean", "options": [], "scoring": "Several railway/metro RFPs require a presentation + Q&A / written skill test that directly affects marks" }
+        ]
+      },
+      {
+        "id": "compliance-eligibility",
+        "label": "Statutory & Eligibility Compliance",
+        "typicalWeightPct": 3,
+        "description": "Pass/fail compliance gates specific to railway/metro consultancy: Council of Architecture registration (station-redevelopment architectural work), RLDA empanelment for limited station tenders, EMD/tender-fee payment, bid capacity, JV/consortium structuring rules, and no debarment/vigilance history for proposed personnel.",
+        "scoringGuidance": [
+          { "level": "Excellent (90-100%)", "meaning": "All statutory registrations valid, EMD paid, bid capacity met, clean personnel records, JV structured per rules" },
+          { "level": "Good (70-89%)", "meaning": "Compliant with minor documentation to update before submission" },
+          { "level": "Fair (50-69%)", "meaning": "Some registrations/empanelment pending (must be fixed before submission)" },
+          { "level": "Poor (<50%)", "meaning": "Missing mandatory registration/empanelment, unpaid EMD, or personnel with adverse vigilance/CBI records (bid rejected)" }
+        ],
+        "inputFields": [
+          { "key": "coaRegistered", "label": "For station-redevelopment/architectural work: is the firm/architect registered with the Council of Architecture?", "type": "boolean", "options": [], "scoring": "Mandatory for RLDA architectural consultancy; non-registration = non-responsive" },
+          { "key": "rldaEmpanelled", "label": "For limited RLDA station tenders: is the firm empanelled in the required category?", "type": "boolean", "options": [], "scoring": "Limited tenders are open only to empanelled firms" },
+          { "key": "personnelCleanRecord", "label": "Are all proposed key personnel free of major-penalty vigilance/CBI/police records?", "type": "boolean", "options": [], "scoring": "Adverse records disqualify the CV / affect eligibility" }
+        ]
+      }
+    ],
+    "keyPolicies": [
+      { "name": "General Financial Rules 2017, Rule 192 — Quality and Cost Based Selection (QCBS)", "url": "https://constitutionofindia.in/rule-192-of-the-general-financial-rules-2017-quality-and-cost-based-selection-qcbs/", "relevance": "Statutory basis for QCBS; caps technical (non-financial) weight at 80% and requires the RFP to specify the minimum qualifying technical score and quality:cost weightage." },
+      { "name": "Manual for Procurement of Consultancy & Other Services (MoF, Dept. of Expenditure, June 2022)", "url": "https://doe.gov.in/files/manuals_documents/Manual_for_Procurement_of_Consultancy_&_Other_Services_Updated%20June,%202022_1.pdf", "relevance": "Umbrella policy defining consultant-selection systems (QCBS, LCS, QBS/FBS, Fixed Budget, SSS) implemented by railway/metro authorities." },
+      { "name": "Guidelines for the Employment of Consultants under Japanese ODA Loans (April 2012)", "url": "https://www.jica.go.jp/english/our_work/types_of_assistance/oda_loans/oda_op_info/guide/index.html", "relevance": "Governs shortlisting and QCBS 80:20 selection for JICA-assisted metro/HSR consultancy (DMRC Phase-IV DCS-1B, NHSRCL MAHSR)." }
+    ]
+  }
+}

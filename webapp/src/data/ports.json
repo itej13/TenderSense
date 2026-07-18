@@ -1,0 +1,702 @@
+{
+  "sector": "ports",
+  "sectorLabel": "Ports & Waterways",
+  "generatedAt": "2026-07-18",
+  "sources": [
+    {
+      "name": "Manual for Procurement of Consultancy & Other Services, Ministry of Finance (Updated June 2022)",
+      "url": "https://cdnbbsr.s3waas.gov.in/s395192c98732387165bf8e396c0f2dad2/uploads/2022/08/2022080626.pdf",
+      "type": "policy-document"
+    },
+    {
+      "name": "General Financial Rules (GFR) 2017 - Rule 192 (QCBS) & Rule 193 (LCS)",
+      "url": "https://www.gfr.co.in/p/gfr-rule-book-of-consulting-services.html",
+      "type": "policy-document"
+    },
+    {
+      "name": "IICA - QCBS (Quality Cost Based System) Illustration (Indian Institute of Corporate Affairs)",
+      "url": "https://iica.nic.in/images/QCBS-Illustration.pdf",
+      "type": "policy-document"
+    },
+    {
+      "name": "Sagarmala - National Perspective Plan & Techno-Economic Feasibility Reports (Ministry of Ports, Shipping & Waterways)",
+      "url": "https://sagarmala.gov.in/about-sagarmala/national-perspective-plans",
+      "type": "policy-document"
+    },
+    {
+      "name": "Sagarmala / Ministry of Shipping - RFP for TEFR of Multimodal Terminal / Dry Port in hinterland of Chennai Port",
+      "url": "http://sagarmala.gov.in/tender/request-proposal-rfp-selection-consultant-preparation-techno-economic-feasibility-report",
+      "type": "authority-website"
+    },
+    {
+      "name": "V.O. Chidambaranar Port Authority (VOCPA) - RFP: Consultancy for Basic Engineering & Depth Feasibility Study, Shipbuilding Cluster, Tuticorin",
+      "url": "https://www.vocport.gov.in/api/files/tenders/tender-1773475515457-390695211.pdf",
+      "type": "authority-website"
+    },
+    {
+      "name": "World Bank - Procurement Plan, Capacity Augmentation of National Waterway-1 (Jal Marg Vikas Project), IWAI / Ministry of Shipping",
+      "url": "https://ewsdata.rightsindevelopment.org/files/documents/75/WB-P148775_P71MlX8.pdf",
+      "type": "tender-portal"
+    },
+    {
+      "name": "Visakhapatnam Port Authority (VPA) - EoI for Project Monitoring Unit (PMU), Dugarajapatnam Major Port cum Shipbuilding cum Ship Repair Cluster",
+      "url": "https://vpt.shipping.gov.in/admin_assets/uploads/1767348893_latest_EoI020125.pdf",
+      "type": "authority-website"
+    },
+    {
+      "name": "Visakhapatnam Port Authority (VPA) - Civil Engineering Tenders (DPR for Dugarajapatnam cluster; marina feasibility EoI)",
+      "url": "https://vpt.shipping.gov.in/Template/navigateTemplate/gnt/Q2l2aWwgRW5naW5lZXJpbmcgVGVuZGVycw==",
+      "type": "authority-website"
+    },
+    {
+      "name": "Paradip Port Authority / Ministry of Shipping - Transaction Advisory Services for PPP Projects (via TenderShark)",
+      "url": "https://www.tendershark.com/details/odisha-tender/ministry-of-shipping/3dd68711-a3c9-4a93-b041-629200fb8ac4",
+      "type": "tender-portal"
+    },
+    {
+      "name": "Ministry of Shipping / Paradip Port PIO - TEFR & DPR for New Port near Bahuda Muhan, Ganjam, Odisha (via TenderShark)",
+      "url": "https://www.tendershark.com/details/odisha-tender/ministry-of-shipping/129b86ff-5566-48de-a46f-10c58e7c6d8a",
+      "type": "tender-portal"
+    },
+    {
+      "name": "Chennai Port Authority - Transaction Advisor for New Outer Harbour (DBFOT) (The Hindu report; RFP T/MP3/25/2025/E)",
+      "url": "https://www.thehindu.com/news/cities/chennai/chennai-port-to-revive-massive-outer-harbour-project-at-8000-crore/article70229393.ece",
+      "type": "tender-portal"
+    },
+    {
+      "name": "Cochin Port Authority - Consultancy for EIA studies & Environmental/CRZ clearances for capital dredging at ICTT (via TenderShark)",
+      "url": "https://www.tendershark.com/details/kerala-tender/cochin-port-trust/3052d86e-64eb-4e8e-82b2-642582d3167d",
+      "type": "tender-portal"
+    },
+    {
+      "name": "Syama Prasad Mookerjee Port (Kolkata) - Consultant for Techno-Economic Feasibility Study, SEZ at Haldia Dock Complex (via TenderShark)",
+      "url": "https://www.tendershark.com/details/west-bengal-tender/syama-prasad-mookerjee-port/048a6f6e-b146-4829-a1ee-bcdd6bf98550",
+      "type": "tender-portal"
+    },
+    {
+      "name": "Indian Ports Association (IPA) - Strategy Consulting for National Perspective Plan & Feasibility for East Coast mega port (via TenderShark)",
+      "url": "https://www.tendershark.com/details/delhi-tender/indian-ports-association/e89954ba-221a-4692-9659-1bb46c4443e5",
+      "type": "tender-portal"
+    },
+    {
+      "name": "Sagarmala Development Company Ltd (SDCL/SMFCL) - Strategy PMU for National Shipbuilding Mission (via TenderShark)",
+      "url": "https://www.tendershark.com/details/delhi-tender/sagarmala-development-company-limited/b52b4e86-e7b0-4339-8b2c-b85b7b713a01",
+      "type": "tender-portal"
+    },
+    {
+      "name": "Mormugao Port Authority - Consultant for Preliminary Feasibility Report, Betul Port (The Goan report; ref CE/20/2026)",
+      "url": "https://www.thegoan.net/goa-news/shelved-betul-port-project-gears-up-for-a-comeback/139370.html",
+      "type": "tender-portal"
+    }
+  ],
+  "tenders": [
+    {
+      "id": "ports-001",
+      "title": "Consultancy Services for Preparation of Basic Engineering and Depth Feasibility Study for Shipbuilding Cluster in Tuticorin, Tamil Nadu",
+      "issuingAuthority": "V.O. Chidambaranar Port Authority (VOCPA), MoPSW",
+      "tenderRef": null,
+      "url": "https://www.vocport.gov.in/api/files/tenders/tender-1773475515457-390695211.pdf",
+      "datePublished": "2026-03-16",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "Not disclosed in RFP body (feasibility for ~2,500-acre National Mega Shipbuilding Cluster)",
+      "scopeSummary": "Selection of a consultant to prepare a Basic Engineering and Depth Feasibility Report with a conceptual plan for a National Mega Shipbuilding Cluster near VOC Port, Tuticorin (~2,500 acres), being developed by VOCPA with SIPCOT via an SPV. Scope covers land/waterfront assessment, dredging assessment, dock technology (floating/fixed dry dock), ship-repair facility, capital and operational cost estimates and depth feasibility analysis, aligned to Maritime India Vision 2030 / Amrit Kaal Vision 2047.",
+      "consultancyType": "Feasibility",
+      "eligibility": {
+        "minAnnualTurnoverINR": 50000000,
+        "similarProjectsRequired": "At least one completed port project (Basic Engineering & Depth Feasibility / DPR / Detailed Engineering) for a shipbuilding-yard project of estimated capital cost >= Rs 1000 Cr in a single project, OR two port projects (Feasibility/DPR/Detailed Engineering) each of estimated capital cost >= Rs 700 Cr, in the last 7 years. An 'Eligible Assignment' means a port-facilities development project of capital cost >= Rs 500 Cr.",
+        "keyPersonnel": [
+          "Port Sector Expert cum Team Leader (Civil grad/PG; led feasibility/DPR/Detailed Engineering in min. 3 port-sector eligible assignments, preferably greenfield)",
+          "Technical Expert (Civil) - marine/marine structures (7 yrs; >= 3 eligible assignments)",
+          "Technical Expert (Mechanical) - port equipment (7 yrs; >= 3 eligible assignments)",
+          "Environmental Expert (7 yrs; >= 3 eligible assignments)",
+          "Traffic Expert",
+          "Legal Expert (7 yrs; >= 3 eligible assignments)"
+        ],
+        "other": [
+          "Positive net worth in FY 2024-25; valid registration and tax registrations; not blacklisted.",
+          "JV/Consortium max 4 members; Lead Member must meet >= 50% of turnover & experience criteria (>= 1 port DPR/Detailed Engineering project of capital cost >= Rs 700 Cr).",
+          "Each Key Personnel must score >= 60%; proposal rejected if Team Leader < 60% or any two other Key Personnel < 60%.",
+          "No Key Personnel above 75 years of age."
+        ]
+      },
+      "evaluationMethod": "QCBS",
+      "minTechnicalScore": 60,
+      "technicalCriteria": [
+        {
+          "criterion": "Relevant experience of applicant (Eligible Assignments)",
+          "maxMarks": 30,
+          "subCriteria": ["70% of marks for one Eligible Assignment", "15% for each additional assignment", "subject to cap of 30 marks"],
+          "notes": "Eligible Assignment = port-facilities project of capital cost >= Rs 500 Cr."
+        },
+        {
+          "criterion": "Proposed methodology and work plan",
+          "maxMarks": 20,
+          "subCriteria": ["Understanding of TOR = 20%", "Methodology = 50%", "Work plan = 30%"],
+          "notes": null
+        },
+        {
+          "criterion": "Relevant experience of the Key Personnel",
+          "maxMarks": 40,
+          "subCriteria": ["Team Leader = 15", "Technical Expert (Civil) = 5-8", "Technical Expert (Mechanical) = 4-5", "Environmental Expert = 4", "Traffic Expert = 4", "Legal Expert = 4"],
+          "notes": "Each CV scored on overall experience (bands, e.g. TL >25 yrs = 100%, up to 15 yrs = 80%) and years with current employer (2-5 yrs = 100%, 1-2 yrs = 50%)."
+        },
+        {
+          "criterion": "Presentation",
+          "maxMarks": 10,
+          "subCriteria": [],
+          "notes": null
+        }
+      ],
+      "sourceType": "live-tender",
+      "sourceDocument": "VOCPA RFP - Consultancy for Basic Engineering & Depth Feasibility Study, Shipbuilding Cluster, Tuticorin (application window 16.03.2026-15.04.2026)"
+    },
+    {
+      "id": "ports-002",
+      "title": "Transaction Advisory Services for PPP Projects at Paradip Port",
+      "issuingAuthority": "Paradip Port Authority (PPA) / Ministry of Shipping",
+      "tenderRef": "ENG/PIO/1854/TA/2026/524 (Tender ID 2026_MoS_905034_1)",
+      "url": "https://www.tendershark.com/details/odisha-tender/ministry-of-shipping/3dd68711-a3c9-4a93-b041-629200fb8ac4",
+      "datePublished": "2026-04-09",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "Refer document (EMD Rs 1,00,000; tender fee Rs 10,000)",
+      "scopeSummary": "Appointment of a transaction advisor to provide legal, technical and financial advisory for structuring and awarding PPP projects at Paradip Port (berth/terminal development on BOT/DBFOT and captive modes). Scope typically covers feasibility/business case, PPP structuring, RFQ/RFP drafting, bid process management and concession agreement finalisation. Contract duration 365 days; two-cover (technical + BOQ) submission.",
+      "consultancyType": "Transaction Advisory",
+      "eligibility": {
+        "minAnnualTurnoverINR": null,
+        "similarProjectsRequired": "Per RFP (transaction advisory / PPP structuring experience in ports/infrastructure; DEA/IPA transaction-advisor style panels commonly referenced).",
+        "keyPersonnel": [],
+        "other": [
+          "Two-cover system: (i) Fee/PreQual/Technical, (ii) Finance (BOQ).",
+          "EMD Rs 1,00,000; tender fee Rs 10,000; bid validity 180 days."
+        ]
+      },
+      "evaluationMethod": "QCBS",
+      "minTechnicalScore": null,
+      "technicalCriteria": [],
+      "sourceType": "live-tender",
+      "sourceDocument": "PPA/MoS e-Tender Call Notice - Transaction Advisory Services for PPP Projects at Paradip Port"
+    },
+    {
+      "id": "ports-003",
+      "title": "Selection of Transaction Advisor for Development of New Outer Harbour at Chennai Port on DBFOT Basis",
+      "issuingAuthority": "Chennai Port Authority (ChPA)",
+      "tenderRef": "T/MP3/25/2025/E (Tender ID 2025_ChPT_863013_1)",
+      "url": "https://www.thehindu.com/news/cities/chennai/chennai-port-to-revive-massive-outer-harbour-project-at-8000-crore/article70229393.ece",
+      "datePublished": "2025-06-24",
+      "estimatedValueINR": 5000000,
+      "estimatedValueLabel": "\u20b950 Lakh (consultancy value)",
+      "scopeSummary": "Selection of a transaction advisor to carry out the feasibility study and structure the ~Rs 8,000-10,000 Cr New Outer Harbour project at Chennai Port on a DBFOT/Hybrid-Annuity PPP basis (breakwater, reclamation, berths, container yard, connectivity, dredging, navigational aids). Scope covers feasibility, financial model, PPP structuring and bid process management for concessionaire selection. Assignment period ~532 days; RITES Ltd was subsequently appointed.",
+      "consultancyType": "Transaction Advisory",
+      "eligibility": {
+        "minAnnualTurnoverINR": null,
+        "similarProjectsRequired": "Per RFP (transaction advisory / feasibility for large PPP port or infrastructure projects).",
+        "keyPersonnel": [],
+        "other": [
+          "Limited tender (empanelled advisors); two-cover; bid validity 120 days.",
+          "Independent External Monitors appointed for the procurement."
+        ]
+      },
+      "evaluationMethod": "QCBS",
+      "minTechnicalScore": null,
+      "technicalCriteria": [],
+      "sourceType": "live-tender",
+      "sourceDocument": "ChPA RFP T/MP3/25/2025/E - Transaction Advisor for New Outer Harbour (DBFOT); reported by The Hindu"
+    },
+    {
+      "id": "ports-004",
+      "title": "Preparation of Techno-Economic Feasibility Report (TEFR) and Detailed Project Report (DPR) for New Port near Bahuda Muhan, Ganjam District, Odisha",
+      "issuingAuthority": "Ministry of Shipping / Paradip Port (PIO)",
+      "tenderRef": "PIO/1744/BAHUDA PORT/2025/296 (Tender ID 2025_MoS_879601_1)",
+      "url": "https://www.tendershark.com/details/odisha-tender/ministry-of-shipping/129b86ff-5566-48de-a46f-10c58e7c6d8a",
+      "datePublished": "2025-09-29",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "Refer document (EMD Rs 5,00,000; tender fee Rs 10,000)",
+      "scopeSummary": "Appointment of a consultant to prepare a Techno-Economic Feasibility Report (TEFR) followed by a Detailed Project Report (DPR) for a new (greenfield) port near Bahuda Muhan, Ganjam District, Odisha. Scope covers traffic/market study, marine and geotechnical surveys, port layout and marine works, dredging, connectivity, financial viability and DPR. Two-cover (technical + financial) submission; bid validity 180 days.",
+      "consultancyType": "DPR",
+      "eligibility": {
+        "minAnnualTurnoverINR": null,
+        "similarProjectsRequired": "Per RFP (prior port/maritime TEFR/DPR experience; work completion certificates required).",
+        "keyPersonnel": [],
+        "other": [
+          "Procured in 'Works' category (Civil & Architectural / Consultancy services).",
+          "EMD Rs 5,00,000; tender fee Rs 10,000."
+        ]
+      },
+      "evaluationMethod": "QCBS",
+      "minTechnicalScore": null,
+      "technicalCriteria": [],
+      "sourceType": "live-tender",
+      "sourceDocument": "MoS/PPA e-TCN - TEFR & DPR for New Port near Bahuda Muhan, Ganjam, Odisha"
+    },
+    {
+      "id": "ports-005",
+      "title": "Appointment of Consultant for Preparation of Preliminary Feasibility Report for Betul Port",
+      "issuingAuthority": "Mormugao Port Authority (MPA), Goa",
+      "tenderRef": "CE/20/2026 (Tender ID 2026_mptgo_901687_1)",
+      "url": "https://www.thegoan.net/goa-news/shelved-betul-port-project-gears-up-for-a-comeback/139370.html",
+      "datePublished": "2026-03-09",
+      "estimatedValueINR": 5000000,
+      "estimatedValueLabel": "\u20b950 Lakh",
+      "scopeSummary": "Appointment of a consultancy firm with marine infrastructure expertise to prepare a Preliminary Feasibility Report for a satellite port at Betul (mouth of river Sal), Goa. Seven activities over a 3-month window: project initiation/site visits & data collection, market study, physical surveys (topography, bathymetry, sub-bottom profiling), layout/reclamation & connectivity assessment, Social Impact Assessment, block cost estimation, and the Preliminary Project Report. Lump-sum services contract; bid validity 120 days.",
+      "consultancyType": "Feasibility",
+      "eligibility": {
+        "minAnnualTurnoverINR": null,
+        "similarProjectsRequired": "Reputed consultancy firms with marine infrastructure expertise; audited P&L / turnover certificate and relevant work orders with completion certificates required per RFP.",
+        "keyPersonnel": [],
+        "other": [
+          "Two-cover (technical + BOQ); lump-sum contract; 3-month completion.",
+          "Budgetary/feasibility stage; a separate competitive tender to follow for implementation."
+        ]
+      },
+      "evaluationMethod": "QCBS",
+      "minTechnicalScore": null,
+      "technicalCriteria": [],
+      "sourceType": "live-tender",
+      "sourceDocument": "MPA tender CE/20/2026 - Preliminary Feasibility Report for Betul Port (reported by The Goan)"
+    },
+    {
+      "id": "ports-006",
+      "title": "Consultancy Services for EIA Studies and Environmental & CRZ Clearances for Capital Dredging (Deepening of Channels to 16.0 m Draft) at ICTT",
+      "issuingAuthority": "Cochin Port Authority (CoPA)",
+      "tenderRef": "T15/2090/2026-C (Tender ID 2026_COPT_831147_1)",
+      "url": "https://www.tendershark.com/details/kerala-tender/cochin-port-trust/3052d86e-64eb-4e8e-82b2-642582d3167d",
+      "datePublished": "2026-03-03",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "Refer document (EMD Rs 50,000; tender fee Rs 885)",
+      "scopeSummary": "Appointment of a consultant to carry out Environmental Impact Assessment (EIA) studies and obtain Environmental and Coastal Regulation Zone (CRZ) clearances for capital dredging to deepen the channels for vessels up to 16.0 m draft at the International Container Transhipment Terminal (ICTT), Cochin. Scope covers baseline environmental/marine studies, EIA/EMP, public consultation support, and preparation/processing of statutory clearance applications (MoEFCC/SEIAA/CZMA). Lump-sum, 180-day contract.",
+      "consultancyType": "Other",
+      "eligibility": {
+        "minAnnualTurnoverINR": null,
+        "similarProjectsRequired": "Per RFP (accredited EIA consultant, typically NABET/QCI-accredited; prior EIA/CRZ clearance experience for ports/dredging/coastal projects).",
+        "keyPersonnel": [],
+        "other": [
+          "Limited tender; two-cover (technical .pdf + price .xls).",
+          "EMD Rs 50,000; tender fee Rs 885; bid validity 180 days."
+        ]
+      },
+      "evaluationMethod": "QCBS",
+      "minTechnicalScore": null,
+      "technicalCriteria": [],
+      "sourceType": "live-tender",
+      "sourceDocument": "CoPA tender T15/2090/2026-C - EIA/CRZ consultancy for capital dredging at ICTT"
+    },
+    {
+      "id": "ports-007",
+      "title": "Engagement of Consultant for Techno-Economic Feasibility Study for Development of a Special Economic Zone on Reclaimed Land at Haldia Dock Complex",
+      "issuingAuthority": "Syama Prasad Mookerjee Port, Kolkata (SMP - Haldia Dock Complex)",
+      "tenderRef": "SDM-PE/RFP/9/2025-26 (Tender ID 2025_KoPT_863106_1)",
+      "url": "https://www.tendershark.com/details/west-bengal-tender/syama-prasad-mookerjee-port/048a6f6e-b146-4829-a1ee-bcdd6bf98550",
+      "datePublished": "2025-06-09",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "Refer document (EMD Rs 25,000; tender fee Rs 1,770)",
+      "scopeSummary": "Engagement of a consultant (from shortlisted firms) to conduct a Techno-Economic Feasibility Study for developing a Special Economic Zone (SEZ) on land reclaimed from HFCL at the Haldia Dock Complex of Syama Prasad Mookerjee Port, Kolkata. Scope covers land use/market assessment, SEZ planning, techno-economic and financial viability, and implementation/PPP options. Limited tender; two-cover; lump-sum; bid validity 180 days.",
+      "consultancyType": "Feasibility",
+      "eligibility": {
+        "minAnnualTurnoverINR": null,
+        "similarProjectsRequired": "Per RFP; limited tender restricted to pre-shortlisted firms with relevant feasibility/SEZ/industrial-land planning experience.",
+        "keyPersonnel": [],
+        "other": [
+          "Limited tender (shortlisted firms); EMD Rs 25,000 (exemption allowed); tender fee Rs 1,770.",
+          "Two covers: Techno-commercial proposal and Financial proposal."
+        ]
+      },
+      "evaluationMethod": "QCBS",
+      "minTechnicalScore": null,
+      "technicalCriteria": [],
+      "sourceType": "live-tender",
+      "sourceDocument": "SMP Kolkata (HDC) RFP SDM-PE/RFP/9/2025-26 - TEFR for SEZ on reclaimed land at Haldia Dock Complex"
+    },
+    {
+      "id": "ports-008",
+      "title": "Strategy Consulting Services to Formulate National Perspective Plan and Assess Feasibility for Developing One Mega Port on the East Coast for Handling Containers",
+      "issuingAuthority": "Indian Ports Association (IPA), MoPSW",
+      "tenderRef": "IPA/PP/NPP/2026 (Tender ID 2026_IPA_905881_1)",
+      "url": "https://www.tendershark.com/details/delhi-tender/indian-ports-association/e89954ba-221a-4692-9659-1bb46c4443e5",
+      "datePublished": "2026-04-20",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "Refer document (EMD Rs 2,00,000; tender fee Rs 10,000)",
+      "scopeSummary": "Selection of a strategy consulting firm to formulate a National Perspective Plan and assess the feasibility of developing one mega (transhipment/gateway) container port on India's East Coast. Scope covers container-trade and hinterland demand analysis, benchmarking against global hubs, site/location assessment, techno-economic feasibility, and a strategic roadmap for capacity augmentation. Open tender; two-cover; bid validity 120 days.",
+      "consultancyType": "Feasibility",
+      "eligibility": {
+        "minAnnualTurnoverINR": null,
+        "similarProjectsRequired": "Per RFP (national/sector strategy and port/maritime feasibility experience; reputed strategy/transaction-advisory firms).",
+        "keyPersonnel": [],
+        "other": [
+          "Open tender; two-cover (Fee/PreQual/Technical + Finance).",
+          "EMD Rs 2,00,000 (BG/ST exemption allowed); tender fee Rs 10,000."
+        ]
+      },
+      "evaluationMethod": "QCBS",
+      "minTechnicalScore": null,
+      "technicalCriteria": [],
+      "sourceType": "live-tender",
+      "sourceDocument": "IPA RFP IPA/PP/NPP/2026 - Strategy Consulting for National Perspective Plan & East Coast mega port feasibility"
+    },
+    {
+      "id": "ports-009",
+      "title": "Appointment of Project Monitoring Unit (PMU) for Dugarajapatnam Major Port cum Shipbuilding cum Ship Repair Cluster (EoI)",
+      "issuingAuthority": "Visakhapatnam Port Authority (VPA), MoPSW",
+      "tenderRef": null,
+      "url": "https://vpt.shipping.gov.in/admin_assets/uploads/1767348893_latest_EoI020125.pdf",
+      "datePublished": "2026-01-02",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "PMU engagement (full-time deployment at VPA)",
+      "scopeSummary": "Expression of Interest with budgetary offer from Tier-I consultancy firms empanelled with NICSI for appointment of a Project Monitoring Unit (PMU) providing project coordination, monitoring and advisory support for development of a Major Port cum Shipbuilding cum Ship Repair Cluster at Dugarajapatnam, Andhra Pradesh. The PMU deploys a minimum of three key personnel full-time at VPA for day-to-day coordination, DPR/bid-process and statutory-approval support.",
+      "consultancyType": "PMC",
+      "eligibility": {
+        "minAnnualTurnoverINR": null,
+        "similarProjectsRequired": "Experience in PMU / Transaction Advisory / Project Management for large infrastructure projects; experience in ports, maritime, shipbuilding, ship repair or industrial clusters preferred.",
+        "keyPersonnel": [
+          "Team Lead cum Infrastructure & Coordination Expert (B.E./B.Tech Civil or B.Plan/M.Plan/MBA; 7 yrs overall, >= 4 yrs in port/maritime industrial projects, >= 3 yrs government consulting/advisory)",
+          "Two additional key personnel (2-3 yrs in logistics/port/maritime industrial projects; major ports / state maritime boards / govt maritime agency experience preferred)"
+        ],
+        "other": [
+          "Consultant must be a Tier-I firm empanelled with NICSI.",
+          "Minimum 3 key personnel deployed full-time at VPA office throughout the contract."
+        ]
+      },
+      "evaluationMethod": "EoI + budgetary offer (leading to QCBS RFP)",
+      "minTechnicalScore": null,
+      "technicalCriteria": [],
+      "sourceType": "live-tender",
+      "sourceDocument": "VPA EoI - PMU for Dugarajapatnam Major Port cum Shipbuilding cum Ship Repair Cluster"
+    },
+    {
+      "id": "ports-010",
+      "title": "Appointment of a Technical Consultancy Firm for Preparation of Detailed Project Report (DPR) for Development of Dugarajapatnam Port-cum-Ship Building-cum-Ship Repair Cluster, Andhra Pradesh",
+      "issuingAuthority": "Visakhapatnam Port Authority (VPA) / Andhra Pradesh Maritime Board (APMB)",
+      "tenderRef": "01/SE(S)/APMB/2026-27",
+      "url": "https://vpt.shipping.gov.in/Template/navigateTemplate/gnt/Q2l2aWwgRW5naW5lZXJpbmcgVGVuZGVycw==",
+      "datePublished": "2026-05-22",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "DPR consultancy (greenfield port + shipbuilding/repair cluster)",
+      "scopeSummary": "Appointment of a technical consultancy firm to prepare a Detailed Project Report for the development of the Dugarajapatnam Port-cum-Ship Building-cum-Ship Repair Cluster in Andhra Pradesh. Scope covers traffic/market studies, marine and geotechnical surveys, port and cluster master planning, marine works and dredging design, environmental studies, financial viability and DPR. Civil Engineering tender (two-cover).",
+      "consultancyType": "DPR",
+      "eligibility": {
+        "minAnnualTurnoverINR": null,
+        "similarProjectsRequired": "Per RFP (port/maritime DPR and detailed-engineering experience for greenfield port / shipbuilding projects).",
+        "keyPersonnel": [],
+        "other": [
+          "Follows the Dugarajapatnam PMU EoI; DPR consultancy floated May 2026 (closing 10.06.2026)."
+        ]
+      },
+      "evaluationMethod": "QCBS",
+      "minTechnicalScore": null,
+      "technicalCriteria": [],
+      "sourceType": "live-tender",
+      "sourceDocument": "VPA/APMB Civil Engineering tender No. 01/SE(S)/APMB/2026-27 - DPR for Dugarajapatnam Port cum Shipbuilding cum Ship Repair Cluster"
+    },
+    {
+      "id": "ports-011",
+      "title": "Detailed Feasibility Study for Capacity Augmentation of National Waterway-1 and Detailed Engineering for its Ancillary Works",
+      "issuingAuthority": "Inland Waterways Authority of India (IWAI), Ministry of Shipping (Jal Marg Vikas Project)",
+      "tenderRef": "CANW-1/IWAI/JMV/1",
+      "url": "https://ewsdata.rightsindevelopment.org/files/documents/75/WB-P148775_P71MlX8.pdf",
+      "datePublished": "2015-04-22",
+      "estimatedValueINR": 454340000,
+      "estimatedValueLabel": "Est. ~\u20b945.4 Cr; awarded \u20b918.81 Cr + GBP 0.74 million",
+      "scopeSummary": "World Bank-financed consultancy for a Detailed Feasibility Study for capacity augmentation of National Waterway-1 (Ganga, Haldia-Varanasi/Allahabad) and detailed engineering for its ancillary works, including strategic planning, techno-economic feasibility, navigation infrastructure and terminal/lock design inputs. Selected under QCBS; contract awarded at Rs 188.1 Million + GBP 0.74 Million (excluding taxes).",
+      "consultancyType": "Feasibility",
+      "eligibility": {
+        "minAnnualTurnoverINR": null,
+        "similarProjectsRequired": "Per World Bank REoI/RFP (inland waterway / marine feasibility & detailed engineering experience; international shortlist as contract exceeded US$0.8 million).",
+        "keyPersonnel": [],
+        "other": [
+          "World Bank Guidelines (Selection & Employment of Consultants); QCBS with international shortlist; prior review.",
+          "One of a suite of IWAI/JMVP consultancies (ESIA/RAP, IWT sector strategy, ferry services, asset management, TSSC)."
+        ]
+      },
+      "evaluationMethod": "QCBS (World Bank Guidelines)",
+      "minTechnicalScore": null,
+      "technicalCriteria": [],
+      "sourceType": "archived-tender",
+      "sourceDocument": "World Bank Procurement Plan - Jal Marg Vikas Project (Capacity Augmentation of NW-1), Ref CANW-1/IWAI/JMV/1"
+    },
+    {
+      "id": "ports-012",
+      "title": "Consultancy for Environmental & Social Impact Assessment (ESIA), Environmental Management Plan (EMP) and Resettlement Action Plan (RAP) for Capacity Augmentation of National Waterway-1",
+      "issuingAuthority": "Inland Waterways Authority of India (IWAI), Ministry of Shipping (Jal Marg Vikas Project)",
+      "tenderRef": "CANW-1/JMV/IWAI/2",
+      "url": "https://ewsdata.rightsindevelopment.org/files/documents/75/WB-P148775_P71MlX8.pdf",
+      "datePublished": "2015-01-30",
+      "estimatedValueINR": 57570000,
+      "estimatedValueLabel": "Est. ~\u20b95.76 Cr; awarded \u20b92.86 Cr",
+      "scopeSummary": "World Bank-financed consultancy for ESIA, Environmental Management Plan and Resettlement Action Plan for the capacity-augmentation works on National Waterway-1 (Jal Marg Vikas). Scope covers environmental and social baseline studies, impact assessment, EMP and RAP for terminals, dredging and navigation works. Selected under QCBS; contract awarded at Rs 28.61 Million (excluding taxes).",
+      "consultancyType": "Other",
+      "eligibility": {
+        "minAnnualTurnoverINR": null,
+        "similarProjectsRequired": "Per World Bank REoI/RFP (environmental & social assessment experience for large infrastructure / waterway projects).",
+        "keyPersonnel": [],
+        "other": [
+          "World Bank Guidelines; QCBS; prior review.",
+          "Companion assignment to the NW-1 Detailed Feasibility Study (CANW-1/IWAI/JMV/1)."
+        ]
+      },
+      "evaluationMethod": "QCBS (World Bank Guidelines)",
+      "minTechnicalScore": null,
+      "technicalCriteria": [],
+      "sourceType": "archived-tender",
+      "sourceDocument": "World Bank Procurement Plan - Jal Marg Vikas Project, Ref CANW-1/JMV/IWAI/2 (ESIA/EMP/RAP)"
+    },
+    {
+      "id": "ports-013",
+      "title": "Selection of Consultant for Preparation of Techno-Economic Feasibility Report for Setting up of Multimodal Terminal / Dry Port in the Hinterland of Chennai Port",
+      "issuingAuthority": "Sagarmala / Ministry of Shipping (MoPSW)",
+      "tenderRef": null,
+      "url": "http://sagarmala.gov.in/tender/request-proposal-rfp-selection-consultant-preparation-techno-economic-feasibility-report",
+      "datePublished": "2017-09-19",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "TEFR consultancy (Sagarmala hinterland connectivity)",
+      "scopeSummary": "RFP under the Sagarmala programme for selection of a consultant to prepare a Techno-Economic Feasibility Report for setting up a Multimodal Terminal / Dry Port in the hinterland of Chennai Port. Scope covers cargo/traffic demand assessment, site evaluation, multimodal connectivity, techno-economic and financial feasibility, and implementation/PPP options for port-led hinterland logistics infrastructure.",
+      "consultancyType": "Feasibility",
+      "eligibility": {
+        "minAnnualTurnoverINR": null,
+        "similarProjectsRequired": "Per RFP (feasibility/DPR experience in ports, logistics, multimodal terminals / dry ports).",
+        "keyPersonnel": [],
+        "other": [
+          "Issued under the Sagarmala programme (port-led development / hinterland connectivity)."
+        ]
+      },
+      "evaluationMethod": "QCBS",
+      "minTechnicalScore": null,
+      "technicalCriteria": [],
+      "sourceType": "archived-tender",
+      "sourceDocument": "Sagarmala/MoS RFP - TEFR for Multimodal Terminal / Dry Port in the hinterland of Chennai Port (2017)"
+    },
+    {
+      "id": "ports-014",
+      "title": "Hiring of Strategy Project Management Unit (PMU) as part of the National Shipbuilding Mission (NSbM) Secretariat",
+      "issuingAuthority": "Sagarmala Development Company Ltd (SDCL) / Sagarmala Finance Corporation Ltd (SMFCL)",
+      "tenderRef": "SMFCL/PMU-NSBM/RFP/2026/67 (Tender ID 2026_SDCL_837839_1)",
+      "url": "https://www.tendershark.com/details/delhi-tender/sagarmala-development-company-limited/b52b4e86-e7b0-4339-8b2c-b85b7b713a01",
+      "datePublished": "2026-05-13",
+      "estimatedValueINR": 38900000,
+      "estimatedValueLabel": "\u20b93.89 Cr",
+      "scopeSummary": "Selection of a Strategy Project Management Unit (PMU) to support the National Shipbuilding Mission (NSbM) Secretariat under SDCL/SMFCL. Scope covers strategy and programme management support, policy/scheme design, stakeholder coordination and monitoring for the shipbuilding/ship-repair ecosystem. Lump-sum consultancy of Rs 3.89 Cr over 365 days; two-cover submission.",
+      "consultancyType": "PMC",
+      "eligibility": {
+        "minAnnualTurnoverINR": null,
+        "similarProjectsRequired": "Per RFP (strategy / PMU / programme-management experience, preferably in maritime, shipbuilding or infrastructure sectors).",
+        "keyPersonnel": [],
+        "other": [
+          "Open tender; two-cover (Fee/PreQual/Technical + Price Bid).",
+          "EMD Rs 5,00,000 (exemption allowed); tender fee Rs 59,000; bid validity 120 days."
+        ]
+      },
+      "evaluationMethod": "QCBS",
+      "minTechnicalScore": null,
+      "technicalCriteria": [],
+      "sourceType": "live-tender",
+      "sourceDocument": "SDCL/SMFCL RFP SMFCL/PMU-NSBM/RFP/2026/67 - Strategy PMU for National Shipbuilding Mission"
+    }
+  ],
+  "evaluationFramework": {
+    "summary": "Consultant selection in India's ports, shipping and inland-waterways sector is governed by the General Financial Rules 2017 (Rule 192) and the Ministry of Finance 'Manual for Procurement of Consultancy & Other Services, 2022', and is overwhelmingly conducted through Quality and Cost Based Selection (QCBS). Because port/maritime feasibility, DPR, detailed-engineering, EIA/CRZ and transaction-advisory assignments are highly quality-sensitive, authorities weight technical merit heavily - most commonly 70:30 or 80:20 (GFR caps the non-financial weight at 80%). World Bank / multilateral-financed inland-waterway consultancies (e.g. IWAI's Jal Marg Vikas Project) follow the equivalent QCBS process under Bank guidelines. A two-envelope process is standard: proposals first clear mandatory eligibility (legal status, positive net worth, minimum average annual turnover over the last three financial years, similar-project experience, and - for major-port and PPP work - empanelment such as IPA / NICSI Tier-I / DEA transaction-advisor panels), then are scored on a 100-point technical scale, with only those meeting the minimum qualifying technical score (commonly 60% for many port RFPs, and 70-75% for larger or externally-financed assignments) having their financial bids opened.\n\nThe technical score is consistently built from four families of criteria, well illustrated by the VOCPA Tuticorin RFP (experience 30, methodology & work plan 20, key personnel 40, presentation 10, out of 100): (1) the firm's relevant port/maritime experience, measured by the number and capital value of comparable 'Eligible Assignments' - typically port-facilities projects of capital cost above a threshold such as Rs 500-1000 Cr, in the last 7-10 years; (2) the CVs of named key personnel by role (Team Leader / Port Planner, Marine/Marine-Structures Engineer, Mechanical/Port-Equipment Expert, Dredging/Hydrographic Expert, Environmental & CRZ Expert, Traffic/Commercial Expert, Financial/Transaction Advisor and Legal Expert), each scored on qualification and role-specific years of experience; (3) the proposed approach, methodology and work plan (understanding of the TOR, methodology and activity-wise work plan); and (4) a technical presentation to the evaluation committee. Key personnel are usually the single largest block (35-45% of technical marks), with the Team Leader most heavily weighted and often subject to a knock-out rule (the whole proposal fails if the Team Leader, or two or more other key experts, score below 60%). Firm experience typically carries 25-35%, while pure turnover marks are small even though the turnover threshold acts as a hard eligibility gate.\n\nFor a consultancy firm, the practical implication is that clearing eligibility (turnover, net worth, required empanelment and at least one/two qualifying port 'Eligible Assignments') is necessary but not sufficient; competitive scores come from the depth of directly comparable port/maritime references (especially high-value greenfield port, terminal, shipbuilding-cluster, dredging and waterway assignments), from fielding well-qualified, experienced named experts across all required disciplines, and from a genuinely project-specific methodology backed by a strong presentation. Firms should quantify their credentials against these four families - counts and values of similar assignments, and CV years by role - to estimate where they fall within the typical scoring bands.",
+    "dominantMethod": "QCBS (commonly 80:20 for major-port advisory/feasibility; 70:30 also widely used; min technical score typically 60-75%)",
+    "typicalMinTechnicalScore": 60,
+    "criteria": [
+      {
+        "id": "firm-experience",
+        "label": "Firm's Relevant Port / Maritime Experience",
+        "typicalWeightPct": 30,
+        "description": "Number, capital value and relevance of comparable port/maritime consultancy 'Eligible Assignments' (feasibility/TEFR, DPR, detailed engineering, master planning, PMC, transaction advisory, EIA/CRZ, dredging/hydrographic supervision) completed for government/port clients, usually within the last 7-10 years. Authorities set an 'Eligible Assignment' threshold by project capital cost (e.g. >= Rs 500 Cr, with higher thresholds such as Rs 700-1000 Cr for the largest greenfield port / shipbuilding assignments) and award escalating marks for additional and higher-value assignments.",
+        "scoringGuidance": [
+          { "level": "Excellent (90-100%)", "meaning": "3+ directly comparable port assignments above the RFP's value threshold (e.g. greenfield port / terminal / shipbuilding-cluster projects >= Rs 500-1000 Cr) in the last 7 years, spanning the required scope (feasibility/DPR/detailed engineering)." },
+          { "level": "Good (70-89%)", "meaning": "2 qualifying Eligible Assignments meeting the value/scope thresholds." },
+          { "level": "Fair (50-69%)", "meaning": "Exactly 1 qualifying Eligible Assignment - meets minimum eligibility but limited breadth (~70% of the experience marks in the VOCPA model)." },
+          { "level": "Poor (<50%)", "meaning": "No fully qualifying assignment, or only smaller/older/partly-comparable references - risks failing eligibility." }
+        ],
+        "inputFields": [
+          {
+            "key": "portFeasibilityDPRCount",
+            "label": "Number of comparable port/maritime feasibility, DPR or detailed-engineering assignments completed (last 7-10 years)",
+            "type": "number",
+            "options": [],
+            "scoring": "0 = likely ineligible; 1 = fair (~70% of experience marks per VOCPA); 2 = good; 3+ = excellent (full marks). Each additional Eligible Assignment adds ~15% up to the cap."
+          },
+          {
+            "key": "largestPortProjectValueINR",
+            "label": "Capital cost of the largest port/maritime project your firm advised on (INR)",
+            "type": "number",
+            "options": [],
+            "scoring": "Assignments above the RFP's Eligible-Assignment threshold count; common thresholds are Rs 500 Cr (general), Rs 700 Cr and Rs 1000 Cr (large greenfield / shipbuilding). Higher values qualify for more/larger RFPs."
+          },
+          {
+            "key": "eligibleAssignmentsCount",
+            "label": "Number of assignments above the tender's Eligible-Assignment value threshold",
+            "type": "number",
+            "options": [],
+            "scoring": "Directly maps to the experience marks (e.g. VOCPA: 70% for 1, +15% each additional, capped at 30 marks)."
+          },
+          {
+            "key": "experienceAreasCovered",
+            "label": "Which port/maritime experience areas can you evidence?",
+            "type": "select",
+            "options": ["Feasibility / TEFR", "DPR", "Detailed engineering (marine structures)", "Master planning", "PMC / PMU", "Transaction advisory / PPP structuring", "EIA / CRZ clearance", "Dredging / hydrographic survey supervision", "Inland waterway feasibility"],
+            "scoring": "Covering more of the RFP's required areas raises marks; several RFPs require the qualifying assignment to match the specific scope (e.g. shipbuilding-yard feasibility, greenfield port DPR, EIA/CRZ for dredging)."
+          }
+        ]
+      },
+      {
+        "id": "financial-strength",
+        "label": "Financial Strength & Standing (Turnover / Net Worth / Empanelment)",
+        "typicalWeightPct": 10,
+        "description": "Average annual turnover from consultancy/professional services over the last three financial years, positive net worth, and (for major-port and PPP assignments) the required empanelment. This is primarily a hard eligibility gate (turnover thresholds range from ~Rs 5 Cr for mid-size feasibility/DPR work to much higher for large multi-year PMC/advisory work), often accompanied by a small number of scored marks.",
+        "scoringGuidance": [
+          { "level": "Excellent (90-100%)", "meaning": "Turnover well above the RFP threshold, positive net worth, and holds the required empanelment (IPA / NICSI Tier-I / DEA transaction-advisor panel where applicable)." },
+          { "level": "Good (70-89%)", "meaning": "Turnover comfortably above the minimum and net worth positive; empanelment held where relevant." },
+          { "level": "Fair (50-69%)", "meaning": "Turnover just meets the minimum threshold." },
+          { "level": "Poor (<50%)", "meaning": "Turnover below the RFP minimum, negative net worth, or missing required empanelment - proposal is disqualified." }
+        ],
+        "inputFields": [
+          {
+            "key": "avgAnnualTurnoverINR",
+            "label": "Average annual turnover from consultancy services (last 3 FYs, INR)",
+            "type": "number",
+            "options": [],
+            "scoring": "Must exceed the tender's minimum threshold (e.g. VOCPA feasibility RFP requires >= Rs 5 Cr average over 3 FYs). Larger PMC/advisory assignments set higher thresholds."
+          },
+          {
+            "key": "positiveNetWorth",
+            "label": "Did your firm have positive net worth in the last financial year?",
+            "type": "boolean",
+            "options": [],
+            "scoring": "Positive net worth (CA/SA-certified) is a common mandatory eligibility requirement; a negative net worth leads to rejection."
+          },
+          {
+            "key": "empanelment",
+            "label": "Which relevant empanelment does your firm hold?",
+            "type": "select",
+            "options": ["IPA (Indian Ports Association) empanelled", "NICSI Tier-I", "DEA transaction-advisor panel", "None of these"],
+            "scoring": "Several major-port RFPs are restricted to IPA-empanelled or NICSI Tier-I firms; DEA-panel status helps for PPP transaction advisory. Lacking the specified empanelment can bar participation."
+          }
+        ]
+      },
+      {
+        "id": "key-personnel",
+        "label": "Key Personnel (CVs by Role)",
+        "typicalWeightPct": 35,
+        "description": "Qualification and competence of named key experts, scored per role from their CVs (education, total years of experience, role-specific experience on eligible port assignments, and sometimes stability with the current employer). Typical roles: Team Leader / Port Planner, Marine / Marine-Structures Engineer, Mechanical / Port-Equipment Expert, Dredging / Hydrographic Expert, Environmental & CRZ Expert, Traffic / Commercial Expert, Financial / Transaction Advisor, and Legal Expert. The Team Leader is the most heavily weighted CV and is usually subject to a knock-out rule.",
+        "scoringGuidance": [
+          { "level": "Excellent (90-100%)", "meaning": "All required roles filled with experts exceeding minimum qualifications; Team Leader with 25+ years having led feasibility/DPR in 3+ eligible port assignments; specialists with direct port/maritime references." },
+          { "level": "Good (70-89%)", "meaning": "All roles filled meeting minimums, with Team Leader and key specialists above the required experience floor." },
+          { "level": "Fair (50-69%)", "meaning": "Key roles filled at minimum thresholds; limited specialist depth or borderline experience years." },
+          { "level": "Poor (<50%)", "meaning": "Missing key roles or CVs below minimums; Team Leader < 60% (or two other key experts < 60%) makes the whole proposal fail (VOCPA rule)." }
+        ],
+        "inputFields": [
+          {
+            "key": "teamLeaderExperienceYears",
+            "label": "Team Leader's total years of relevant port/maritime experience",
+            "type": "number",
+            "options": [],
+            "scoring": "Bands reward seniority (e.g. VOCPA: >25 yrs = 100%, up to 15 yrs = 80% of the TL marks). Transaction-advisory RFPs often require ~15+ years in ports/EXIM-gateway infrastructure."
+          },
+          {
+            "key": "teamLeaderPortAssignments",
+            "label": "Number of eligible port assignments the Team Leader has led (feasibility/DPR/detailed engineering)",
+            "type": "number",
+            "options": [],
+            "scoring": "Team Leader typically must have led at least 3 port-sector eligible assignments (preferably greenfield); more comparable assignments score higher."
+          },
+          {
+            "key": "specialistRolesAvailable",
+            "label": "Which specialist experts can you staff with qualifying CVs?",
+            "type": "select",
+            "options": ["Marine / Marine-Structures Engineer", "Mechanical / Port-Equipment Expert", "Dredging / Hydrographic Expert", "Environmental & CRZ Expert", "Traffic / Commercial Expert", "Financial / Transaction Advisor", "Legal Expert"],
+            "scoring": "Marks are allocated per role; filling every required specialist role at/above the minimum qualification and experience maximises the key-personnel block."
+          },
+          {
+            "key": "keyExpertsProvidedCount",
+            "label": "Number of required key-expert roles you can fill with qualifying CVs (each scoring >= 60%)",
+            "type": "number",
+            "options": [],
+            "scoring": "Each CV must generally score >= 60%; the Team Leader below 60% (or any two other experts below 60%) causes rejection, so covering all roles above the floor is essential."
+          }
+        ]
+      },
+      {
+        "id": "methodology",
+        "label": "Approach, Methodology & Work Plan",
+        "typicalWeightPct": 15,
+        "description": "Quality and project-specificity of the technical proposal: understanding of the Terms of Reference, technical approach and methodology (surveys, engineering, feasibility/financial modelling, statutory/environmental strategy as applicable), and an activity-wise work plan and timeline consistent with the deliverables.",
+        "scoringGuidance": [
+          { "level": "Excellent (90-100%)", "meaning": "Deep, site-specific understanding of the port/waterway scope with a well-justified methodology (surveys, engineering, feasibility/financial modelling) and a realistic activity-wise work plan." },
+          { "level": "Good (70-89%)", "meaning": "Sound methodology tailored to the assignment with a coherent work plan and deliverables schedule." },
+          { "level": "Fair (50-69%)", "meaning": "Generic but acceptable methodology with a basic work plan." },
+          { "level": "Poor (<50%)", "meaning": "Boilerplate approach with weak or missing work plan / understanding of the TOR." }
+        ],
+        "inputFields": [
+          {
+            "key": "methodologyProjectSpecific",
+            "label": "How tailored is your methodology to this specific port/waterway assignment?",
+            "type": "select",
+            "options": ["Generic template", "Partly tailored", "Fully project-specific with site/marine analysis"],
+            "scoring": "Evaluators reward demonstrated understanding of the specific site (bathymetry, dredging, traffic, connectivity, environmental constraints); fully project-specific approaches score in the top band. VOCPA splits this block: Understanding of TOR 20%, Methodology 50%, Work plan 30%."
+          },
+          {
+            "key": "workPlanProvided",
+            "label": "Do you have a detailed activity-wise work plan and timeline matched to the deliverables?",
+            "type": "boolean",
+            "options": [],
+            "scoring": "A clear, realistic work plan consistent with the TOR carries dedicated marks (e.g. 30% of the methodology block in the VOCPA model)."
+          }
+        ]
+      },
+      {
+        "id": "presentation",
+        "label": "Technical Presentation",
+        "typicalWeightPct": 10,
+        "description": "A presentation of the proposed approach, methodology and team by the consultant's key personnel to the evaluation committee, used in several major-port RFPs as a distinct scored criterion (and, in advisory RFPs, as 'team interaction').",
+        "scoringGuidance": [
+          { "level": "Excellent (90-100%)", "meaning": "Confident, well-structured presentation by the actual proposed team demonstrating command of the project and answering committee questions convincingly." },
+          { "level": "Good (70-89%)", "meaning": "Clear presentation covering approach, methodology and team with adequate responses." },
+          { "level": "Fair (50-69%)", "meaning": "Basic presentation with limited depth or partial team participation." },
+          { "level": "Poor (<50%)", "meaning": "Weak or generic presentation, or key personnel unable to attend/respond." }
+        ],
+        "inputFields": [
+          {
+            "key": "canPresentToCommittee",
+            "label": "Can your proposed key team present the approach to the evaluation committee?",
+            "type": "boolean",
+            "options": [],
+            "scoring": "Several port RFPs (e.g. VOCPA) allocate dedicated marks (e.g. 10 of 100) to a presentation; advisory RFPs score 'team interaction' similarly."
+          },
+          {
+            "key": "presentationLedByProposedTeam",
+            "label": "Will the presentation be delivered by the actually proposed key personnel (not a sales team)?",
+            "type": "boolean",
+            "options": [],
+            "scoring": "Committees score higher when the named Team Leader and specialists present, evidencing genuine availability and command of the assignment."
+          }
+        ]
+      }
+    ],
+    "keyPolicies": [
+      {
+        "name": "Manual for Procurement of Consultancy & Other Services, Ministry of Finance (Updated June 2022)",
+        "url": "https://cdnbbsr.s3waas.gov.in/s395192c98732387165bf8e396c0f2dad2/uploads/2022/08/2022080626.pdf",
+        "relevance": "Defines the systems of consultant selection (QCBS, QBS, LCS, FBS, CQS, SSS), the two-stage evaluation (responsiveness, quality, cost), the Consultancy Evaluation Committee and the QCBS combined-score formula that major-port and IWAI consultancy RFPs follow."
+      },
+      {
+        "name": "General Financial Rules (GFR) 2017 - Rule 192 (QCBS) & Rule 193 (LCS)",
+        "url": "https://www.gfr.co.in/p/gfr-rule-book-of-consulting-services.html",
+        "relevance": "Establishes QCBS as the default for quality-sensitive consultancy, requires the RFP to specify the minimum qualifying technical score and the technical:financial weights, and caps the non-financial (technical) weight at 80% - explaining why 80:20 is the highest ratio used by port authorities."
+      },
+      {
+        "name": "IICA - QCBS Illustration (Indian Institute of Corporate Affairs)",
+        "url": "https://iica.nic.in/images/QCBS-Illustration.pdf",
+        "relevance": "Worked example of the QCBS mechanics used across Indian government consultancy tenders: technical grading bands, the minimum qualifying technical score (>= 70 in the illustration), conversion of price to financial score, and the 70:30 combined-score computation."
+      },
+      {
+        "name": "Sagarmala - National Perspective Plan & Techno-Economic Feasibility Reports (MoPSW)",
+        "url": "https://sagarmala.gov.in/about-sagarmala/national-perspective-plans",
+        "relevance": "The Sagarmala programme drives a large share of port-sector consultancy demand (master plans, TEFRs and DPRs for new/expanded ports such as Vadhavan, Sagar Island, Dugarajapatnam, Colachel, Sirkazhi and Belekeri), setting the policy context and typical scope for feasibility and DPR consultancies."
+      },
+      {
+        "name": "World Bank - Procurement Plan, Jal Marg Vikas Project (IWAI / Ministry of Shipping)",
+        "url": "https://ewsdata.rightsindevelopment.org/files/documents/75/WB-P148775_P71MlX8.pdf",
+        "relevance": "Documents the suite of IWAI inland-waterway consultancies on National Waterway-1 (detailed feasibility & engineering, ESIA/EMP/RAP, IWT sector strategy, ferry services, asset management, technical support services), all selected under QCBS with awarded values - the reference set for inland-waterway consultant selection."
+      }
+    ]
+  }
+}

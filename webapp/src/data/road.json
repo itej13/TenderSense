@@ -1,0 +1,521 @@
+{
+  "sector": "road",
+  "sectorLabel": "Roads & Highways",
+  "generatedAt": "2026-07-18",
+  "sources": [
+    {
+      "name": "NHAI Tenders / RFP repository",
+      "url": "https://nhai.gov.in",
+      "type": "authority-website"
+    },
+    {
+      "name": "INFRACON — National Portal for Infrastructure Consultancy Firms & Key Personnel (MoRTH)",
+      "url": "https://infracon.nic.in",
+      "type": "authority-website"
+    },
+    {
+      "name": "Ministry of Road Transport & Highways (MoRTH)",
+      "url": "https://morth.gov.in",
+      "type": "authority-website"
+    },
+    {
+      "name": "NHIDCL — National Highways & Infrastructure Development Corporation Ltd.",
+      "url": "https://www.nhidcl.com",
+      "type": "authority-website"
+    },
+    {
+      "name": "Central Public Procurement Portal (CPPP / eProcure)",
+      "url": "https://eprocure.gov.in",
+      "type": "tender-portal"
+    },
+    {
+      "name": "NRIDA / PMGSY — National Rural Infrastructure Development Agency",
+      "url": "https://pmgsy.nic.in",
+      "type": "authority-website"
+    },
+    {
+      "name": "Manual for Procurement of Consultancy & Other Services (MoF, Dept. of Expenditure, June 2022)",
+      "url": "https://doe.gov.in/files/manuals_documents/Manual_for_Procurement_of_Consultancy_&_Other_Services_Updated%20June,%202022_1.pdf",
+      "type": "policy-document"
+    }
+  ],
+  "tenders": [
+    {
+      "id": "road-001",
+      "title": "Independent Engineer Services during Operation & Maintenance of 4-laning of Jind–Gohana–Sonepat Section (Km 0.000–78.837) of NH-352A, Haryana (HAM)",
+      "issuingAuthority": "NHAI (Regional Office, Chandigarh)",
+      "tenderRef": null,
+      "url": "https://nhai.gov.in/nhai/sites/default/files/2020/RFP_775.pdf",
+      "datePublished": "2026-01-29",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "Consultancy fee not disclosed in RFP (IE fee to be quoted)",
+      "scopeSummary": "Independent Engineer services during the O&M period of the 78.837 km 4-laned Jind–Gohana–Sonepat section of NH-352A under Bharatmala Pariyojana on Hybrid Annuity Mode. The IE supervises operation, maintenance and safety compliance on behalf of NHAI. RFP downloadable 29.01.2026–02.03.2026; bid due 02.03.2026.",
+      "consultancyType": "Supervision",
+      "eligibility": {
+        "minAnnualTurnoverINR": 50000000,
+        "similarProjectsRequired": "Experience as IE/AE/Supervision Consultant on 2 construction projects of 4/6-laning of 30% of project length each, or one project of 50% of project length, in last 7 years; plus O&M/DPR experience per data sheet",
+        "keyPersonnel": ["Team Leader cum Highway Engineer", "Highway Maintenance-cum-Resident Engineer", "Bridge/Structural Engineer", "Road Safety Expert"],
+        "other": ["Mandatory INFRACON registration of firm and all key personnel", "No debarment/penalty by MoRTH or agencies in last 2 years", "Uploading of modules per MoRTH Circular RW-NH-35075/1/2010-S&R on infracon.nic.in"]
+      },
+      "evaluationMethod": "QCBS 80:20",
+      "minTechnicalScore": 75,
+      "technicalCriteria": [
+        { "criterion": "Relevant experience for the assignment", "maxMarks": 35, "subCriteria": ["Experience as IE/AE/Supervision Consultant", "Experience in DPR/feasibility of 4/6-laning", "O&M experience under DBFOT/OMT", "Average annual turnover (banded at ₹10 / ₹30 / ₹60 Cr)"], "notes": "Turnover floor ₹5 Cr from consultancy business" },
+        { "criterion": "Quality of approach and methodology", "maxMarks": 5, "subCriteria": [], "notes": null },
+        { "criterion": "Experience in use of technology for road inspection", "maxMarks": 20, "subCriteria": ["Network Survey Vehicle", "Falling Weight Deflectometer", "Mobile Bridge Inspection Unit", "Retro-Reflectometer"], "notes": null },
+        { "criterion": "Qualifications and competence of key staff", "maxMarks": 40, "subCriteria": ["Team Leader (CV must score >=75% or proposal fails)", "Highway Maintenance-cum-Resident Engineer", "Bridge/Structural Engineer", "Road Safety Expert"], "notes": null }
+      ],
+      "sourceType": "live-tender",
+      "sourceDocument": "NHAI RFP for IE during O&M — NH-352A Jind-Gohana-Sonepat (RFP_775, Jan 2026)"
+    },
+    {
+      "id": "road-002",
+      "title": "Independent Engineer Services during O&M of 4-laned Hyderabad–Bangalore Section (Km 135.469–211.000) of NH-44, Telangana (BOT-Annuity, NHDP Phase-II, Pkg NS2/BOT/AP-5)",
+      "issuingAuthority": "NHAI",
+      "tenderRef": "NS2/BOT/AP-5",
+      "url": "https://infracon.nic.in/WriteReadData/consultantprojectsAE/812_FileM1413027696.pdf",
+      "datePublished": "2018-09-01",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "IE fee to be quoted; underlying project cost ₹611.44 Cr",
+      "scopeSummary": "Independent Engineer during the O&M stage of a 74.651 km 4-laned divided carriageway on the Hyderabad–Bangalore section of NH-44 on BOT (Annuity) basis, 60-month assignment. The IE monitors the concessionaire's compliance with the Concession Agreement, ToR and maintenance standards.",
+      "consultancyType": "Supervision",
+      "eligibility": {
+        "minAnnualTurnoverINR": 50000000,
+        "similarProjectsRequired": "IE/AE/Supervision on at least two 4/6-laning projects of 30% length each or one of 50% length, plus one O&M project under DBFOT/OMT of 50% length, in last 7 years",
+        "keyPersonnel": ["Team Leader cum Highway Engineer", "Highway Maintenance-cum-Resident Engineer", "Bridge/Structural Engineer", "Road Safety Expert"],
+        "other": ["Mandatory INFRACON registration", "Lead JV partner >=75% and JV partner >=40% of eligibility", "Enhancement factor (~10%/yr) applied to older turnover/experience"]
+      },
+      "evaluationMethod": "QCBS 80:20",
+      "minTechnicalScore": 75,
+      "technicalCriteria": [
+        { "criterion": "Relevant experience for the assignment", "maxMarks": 35, "subCriteria": ["Average annual turnover (>50 Cr = 2, 20–50 Cr = 1.5, 10–20 Cr = 1, 5–10 Cr = 0.5 marks)", "In-hand DPRs for NHAI projects", "Experience as IE/AE/Supervision Consultant on 4/6-laning"], "notes": null },
+        { "criterion": "Quality of approach and methodology", "maxMarks": 5, "subCriteria": [], "notes": null },
+        { "criterion": "Experience in use of technology for road inspection", "maxMarks": 20, "subCriteria": [], "notes": null },
+        { "criterion": "Qualifications and competence of key staff", "maxMarks": 40, "subCriteria": ["Team Leader — weight 19", "Highway Maintenance-cum-Resident Engineer — weight 12", "Road Safety Expert — weight 5", "Bridge/Structural Engineer — weight 4"], "notes": "Team Leader CV must score >=75% or proposal fails" }
+      ],
+      "sourceType": "archived-tender",
+      "sourceDocument": "NHAI RFP for IE during O&M Period — NH-44 Hyderabad-Bangalore (Sept 2018)"
+    },
+    {
+      "id": "road-003",
+      "title": "Supervision Consultancy Services for O&M of Hyderabad–Dindi Section (Km 23.000–108.800) of NH-765, Telangana",
+      "issuingAuthority": "NHAI",
+      "tenderRef": null,
+      "url": "https://infracon.nic.in/WriteReadData/consultantprojectsAE/822_FileM8120727696.pdf",
+      "datePublished": "2018-10-01",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "Consultancy fee to be quoted",
+      "scopeSummary": "Supervision consultancy for operation & maintenance of an ~85.8 km stretch (Km 23.0–108.8) of the Hyderabad–Dindi section of NH-765, Telangana. The consultant supervises maintenance works and safety compliance on behalf of NHAI.",
+      "consultancyType": "Supervision",
+      "eligibility": {
+        "minAnnualTurnoverINR": 50000000,
+        "similarProjectsRequired": "Supervision/IE/AE experience on 4/6-laning projects in last 7 years per data sheet",
+        "keyPersonnel": ["Team Leader", "Highway/Resident Engineer", "Road Safety Expert"],
+        "other": ["Mandatory INFRACON registration", "If a CV scores <75%, marks carried forward for max 2 key personnel; missing essential qualification = zero for that CV"]
+      },
+      "evaluationMethod": "QCBS 80:20",
+      "minTechnicalScore": 75,
+      "technicalCriteria": [
+        { "criterion": "Relevant experience for the assignment", "maxMarks": 35, "subCriteria": [], "notes": null },
+        { "criterion": "Quality of approach and methodology", "maxMarks": 5, "subCriteria": [], "notes": null },
+        { "criterion": "Experience in use of technology for road inspection", "maxMarks": 20, "subCriteria": [], "notes": null },
+        { "criterion": "Qualifications and competence of key staff", "maxMarks": 40, "subCriteria": [], "notes": null }
+      ],
+      "sourceType": "archived-tender",
+      "sourceDocument": "NHAI RFP — Supervision Consultancy O&M NH-765 Hyderabad-Dindi (Oct 2018)"
+    },
+    {
+      "id": "road-004",
+      "title": "Independent Engineer Services for Six-laning & Strengthening of NH-248A (Km 2+740 Rajiv Chowk to Km 11+682), Gurugram, Haryana (NHDP Phase-IV, HAM), Package-I",
+      "issuingAuthority": "NHAI",
+      "tenderRef": null,
+      "url": "https://infracon.nic.in/WriteReadData/consultantprojectsAE/691_File8937211733.pdf",
+      "datePublished": "2018-05-01",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "IE fee to be quoted",
+      "scopeSummary": "Independent Engineer for six-laning and strengthening of ~8.9 km of NH-248A from Rajiv Chowk to Km 11+682 in Gurugram on Hybrid Annuity Mode. Firm associates may provide equipment-based road inspection (NSV, FWD, Mobile Bridge Inspection Unit, Retro-Reflectometer).",
+      "consultancyType": "Supervision",
+      "eligibility": {
+        "minAnnualTurnoverINR": 50000000,
+        "similarProjectsRequired": "Experience as IE/AE/Construction Supervision on highway projects of similar category (4/6-laning) in last 7 years; DPR preparation experience also credited",
+        "keyPersonnel": ["Team Leader cum Senior Bridge/Structural Engineer", "Resident-cum-Highway Engineer", "Bridge/Structural Engineer", "Road Safety Expert", "Senior Pavement Specialist", "Highway Design Engineer"],
+        "other": ["Mandatory INFRACON registration", "Associate for road-inspection equipment cannot be common to two bidders", "No conflict of interest with Concessionaire/Contractor"]
+      },
+      "evaluationMethod": "QCBS 80:20",
+      "minTechnicalScore": 75,
+      "technicalCriteria": [
+        { "criterion": "Relevant experience for the assignment", "maxMarks": 35, "subCriteria": ["Experience as IE/AE/Construction Supervision on 4/6-laning", "Experience in DPR preparation for 4/6-laning highways"], "notes": null },
+        { "criterion": "Quality of methodology and work plan proposed", "maxMarks": 5, "subCriteria": ["Site appreciation", "Approach & methodology / initial view on key challenges"], "notes": null },
+        { "criterion": "Experience in use of technology for road inspection", "maxMarks": 20, "subCriteria": ["Mobile Bridge Inspection Unit", "FWD / NSV / Retro-Reflectometer"], "notes": null },
+        { "criterion": "Qualifications and competence of key staff", "maxMarks": 40, "subCriteria": ["Team Leader cum Senior Bridge/Structural Engineer", "Resident-cum-Highway Engineer", "Bridge/Structural Engineer"], "notes": "Team Leader CV must score >=75% or proposal fails" }
+      ],
+      "sourceType": "archived-tender",
+      "sourceDocument": "NHAI RFP for IE — Six-laning NH-248A Gurugram (May-June 2018)"
+    },
+    {
+      "id": "road-005",
+      "title": "Consultancy Services for Preparation of DPR for Development of Stretches for Improving Direct Connectivity in Indian Cities (Lot-8)",
+      "issuingAuthority": "NHAI",
+      "tenderRef": null,
+      "url": "https://infracon.nic.in/WriteReadData/consultantprojectsDPR/743_File9781623717.pdf",
+      "datePublished": "2018-08-01",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "Consultancy fee to be quoted",
+      "scopeSummary": "Preparation of Detailed Project Reports for a lot of stretches aimed at improving direct road connectivity in/around Indian cities. Scope covers surveys, investigations, design and preparation of bid-ready documents (EPC/PPP).",
+      "consultancyType": "DPR",
+      "eligibility": {
+        "minAnnualTurnoverINR": 50000000,
+        "similarProjectsRequired": "DPR/feasibility of 2/4/6-lane projects aggregating >= package length, with at least one project of >=40% length, in last 7 years",
+        "keyPersonnel": ["Team Leader-Senior Highway Engineer", "Senior Bridge Engineer", "Highway-cum-Pavement Engineer", "Material-cum-Geotechnical Engineer/Geologist", "Traffic & Safety Expert", "Senior Survey Engineer", "Environment Specialist", "Quantity Surveyor/Documentation Expert"],
+        "other": ["Mandatory INFRACON registration", "Only one CV per position; no alternates", "Missing essential education = zero for that CV"]
+      },
+      "evaluationMethod": "QCBS 80:20",
+      "minTechnicalScore": 75,
+      "technicalCriteria": [
+        { "criterion": "Firm's relevant experience", "maxMarks": 25, "subCriteria": ["Aggregate DPR/feasibility length", "Number of qualifying DPR projects", "DPR of major bridges", "Turnover"], "notes": null },
+        { "criterion": "Adequacy of approach and methodology", "maxMarks": 5, "subCriteria": [], "notes": null },
+        { "criterion": "Material testing, survey & investigation, equipment and technology", "maxMarks": 20, "subCriteria": ["In-house lab", "LiDAR / GPR / utility detection", "Cadastral map digitisation"], "notes": null },
+        { "criterion": "Qualification and competence of key personnel", "maxMarks": 50, "subCriteria": ["Team Leader (CV >=75% gate)", "Senior Bridge Engineer", "Highway-cum-Pavement Engineer", "Geotech/Geologist", "Traffic & Safety", "Survey", "Environment", "Quantity Surveyor"], "notes": null }
+      ],
+      "sourceType": "archived-tender",
+      "sourceDocument": "NHAI RFP for DPR — Improving direct connectivity in Indian cities, Lot-8 (Aug 2018)"
+    },
+    {
+      "id": "road-006",
+      "title": "Consultancy Services for Feasibility Study & DPR for Upgradation of Lakhpat–Gaduli–Hajipir–Khavda–Dholavira–Mauvana–Santalpur road as new National Highway, Gujarat",
+      "issuingAuthority": "MoRTH via Executive Engineer, National Highway Division, Gandhidham (Gujarat R&B)",
+      "tenderRef": null,
+      "url": "https://infracon.nic.in/WriteReadData/consultantprojectsDPR/275_File2612021755.pdf",
+      "datePublished": "2017-08-01",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "Consultancy fee to be quoted; document fee ₹12,000",
+      "scopeSummary": "Feasibility study and preparation of DPR for improvement/upgradation of an ~259 km 'In-Principle' declared new National Highway (Lakhpat–…–Santalpur) in Gujarat. Scope includes traffic surveys, topographic (LiDAR-grade) survey, geotechnical investigation, pavement/bridge design and bid documents. This RFP contains the reference DPR scoring table used for the framework.",
+      "consultancyType": "DPR",
+      "eligibility": {
+        "minAnnualTurnoverINR": 50000000,
+        "similarProjectsRequired": "DPR of 2/4/6-lane (or feasibility) aggregating >= package length; plus one DPR project of >=40% length (or feasibility of >=60%); private-concessionaire DPR experience not counted",
+        "keyPersonnel": ["Team Leader-Senior Highway Engineer (10)", "Senior Bridge Engineer (7)", "Highway-cum-Pavement Engineer (7)", "Material-cum-Geotechnical Engineer/Geologist (7)", "Traffic & Safety Expert (6)", "Senior Survey Engineer (5)", "Environment Specialist (5)", "Quantity Surveyor/Documentation Expert (3)"],
+        "other": ["Empanelment with MoRTH required", "Role weighting: sole 100%, lead JV 75%, other JV 50%, associate 25%", "Mandatory INFRACON registration"]
+      },
+      "evaluationMethod": "QCBS 80:20",
+      "minTechnicalScore": 75,
+      "technicalCriteria": [
+        { "criterion": "Firm's relevant experience (last 7 years)", "maxMarks": 25, "subCriteria": ["Aggregate DPR/FS length (>1x / >2x / >3x package length)", "DPR of 2/4/6-laning projects each >=40% length (1/2/3+ projects)", "DPR of bridges >200 m (1–4+ bridges = 2–5 marks)", "Turnover (>=10 Cr = 5, 5–10 Cr partial, <5 Cr = 0)"], "notes": null },
+        { "criterion": "Adequacy of approach and methodology", "maxMarks": 5, "subCriteria": ["Site appreciation (2)", "Comments on ToR (1)", "Team composition (1)", "Methodology (1)"], "notes": null },
+        { "criterion": "Material testing, survey & investigation, equipment and software", "maxMarks": 20, "subCriteria": ["In-house material testing lab (2)", "Field investigation facilities (3)", "Office equipment & software (3)", "LiDAR/equivalent survey experience (up to 4)", "GPR & induction locator for utility detection (up to 4)", "Cadastral map digitisation (up to 4)"], "notes": null },
+        { "criterion": "Qualification and competence of key personnel", "maxMarks": 50, "subCriteria": ["General qualification 25 (essential 20 + desirable 5)", "Relevant experience & adequacy 65 (per-CV basis)", "Employment with the firm (>2 yrs = 10)"], "notes": "Personnel weights total 50; Team Leader CV must score >=75% or the whole proposal fails" }
+      ],
+      "sourceType": "archived-tender",
+      "sourceDocument": "MoRTH/Gujarat NH Division RFP for Feasibility+DPR — Lakhpat-Santalpur new NH (2017)"
+    },
+    {
+      "id": "road-007",
+      "title": "Consultancy Services for Feasibility Study, DPR & Pre-construction Services for Rehabilitation/Upgradation of NH-753A (near Karmad) to NH-52 (near Kannad), Maharashtra (Pkg CE/DPR/17-18/04)",
+      "issuingAuthority": "MoRTH via Chief Engineer (NH), Public Works Department, Maharashtra",
+      "tenderRef": "CE/DPR/17-18/04",
+      "url": "https://infracon.nic.in/WriteReadData/consultantprojectsDPR/610_File3837329046.pdf",
+      "datePublished": "2018-03-01",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "Consultancy fee to be quoted",
+      "scopeSummary": "Feasibility study, DPR and pre-construction services for rehabilitation/upgradation of an 'In-Principle' declared NH to 2-lane/4-lane with paved shoulders (NH-753A near Karmad to NH-52 near Kannad) in Maharashtra. Executed through Maharashtra PWD on behalf of MoRTH.",
+      "consultancyType": "DPR",
+      "eligibility": {
+        "minAnnualTurnoverINR": 50000000,
+        "similarProjectsRequired": "DPR/feasibility of 2/4/6-lane aggregating >= package length; at least one project of >=40% length, in last 7 years",
+        "keyPersonnel": ["Team Leader-Senior Highway Engineer", "Senior Bridge Engineer", "Highway-cum-Pavement Engineer", "Geotechnical Engineer", "Traffic & Safety Expert", "Survey Engineer", "Environment Specialist"],
+        "other": ["Mandatory INFRACON registration", "Team Leader CV >=75% gate", "Non-TL CVs <75% tolerated for limited positions, replaced at contract negotiation"]
+      },
+      "evaluationMethod": "QCBS 80:20",
+      "minTechnicalScore": 75,
+      "technicalCriteria": [
+        { "criterion": "Firm's relevant experience", "maxMarks": 25, "subCriteria": [], "notes": null },
+        { "criterion": "Adequacy of approach and methodology", "maxMarks": 5, "subCriteria": [], "notes": null },
+        { "criterion": "Material testing, survey & investigation, equipment and technology", "maxMarks": 20, "subCriteria": [], "notes": null },
+        { "criterion": "Qualification and competence of key personnel", "maxMarks": 50, "subCriteria": [], "notes": "Team Leader CV must score >=75% or proposal fails" }
+      ],
+      "sourceType": "archived-tender",
+      "sourceDocument": "MoRTH/Maharashtra PWD Modified RFP for FS+DPR — NH-753A to NH-52 (March 2018)"
+    },
+    {
+      "id": "road-008",
+      "title": "Consultancy Services for Feasibility Study & DPR for Highway Hinganghat–Nandori–Chimur–…–Mul (Upgradation to 2/4-lane with paved shoulder), Maharashtra",
+      "issuingAuthority": "MoRTH via Public Works Department, Maharashtra",
+      "tenderRef": null,
+      "url": "https://infracon.nic.in/WriteReadData/consultantprojectsDPR/571_File5553622258.pdf",
+      "datePublished": "2018-01-31",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "Consultancy fee to be quoted",
+      "scopeSummary": "Feasibility study and DPR for a highway starting at Hinganghat and connecting through Nandori, Kora, Khadsangi, Chimur, Neri, Pendheri, Nawargaon, Sindewahi and terminating at Mul, Maharashtra, for upgradation to two/four-lane with paved shoulder. Executed through Maharashtra PWD for MoRTH.",
+      "consultancyType": "Feasibility",
+      "eligibility": {
+        "minAnnualTurnoverINR": 50000000,
+        "similarProjectsRequired": "DPR/feasibility of 2/4/6-lane aggregating >= package length; at least one project of >=40% length, in last 7 years",
+        "keyPersonnel": ["Team Leader", "Highway-cum-Pavement Engineer", "Bridge Engineer", "Geo-technical Engineer", "Traffic & Safety Expert", "Survey Engineer", "Environment Specialist"],
+        "other": ["Mandatory INFRACON registration", "Team Leader, Highway-cum-Pavement, Bridge and Geo-tech CVs are gated"]
+      },
+      "evaluationMethod": "QCBS 80:20",
+      "minTechnicalScore": 75,
+      "technicalCriteria": [
+        { "criterion": "Firm's relevant experience", "maxMarks": 25, "subCriteria": [], "notes": null },
+        { "criterion": "Adequacy of approach and methodology", "maxMarks": 5, "subCriteria": [], "notes": null },
+        { "criterion": "Material testing, survey & investigation, equipment and technology", "maxMarks": 20, "subCriteria": [], "notes": null },
+        { "criterion": "Qualification and competence of key personnel", "maxMarks": 50, "subCriteria": [], "notes": "Team Leader CV must score >=75% or proposal fails" }
+      ],
+      "sourceType": "archived-tender",
+      "sourceDocument": "MoRTH/Maharashtra PWD RFP for FS+DPR — Hinganghat to Mul (Jan 2018)"
+    },
+    {
+      "id": "road-009",
+      "title": "Authority's Engineer for Widening of Tura–Dalu road (Km 85–95 & 101–145), NH-51, Meghalaya (EPC, JICA-assisted, Civil Package-9)",
+      "issuingAuthority": "NHIDCL",
+      "tenderRef": "AE-PKG-9 (Loan ID-P249)",
+      "url": "https://www.nhidcl.com/sites/default/files/tenders/tendors/uploads/87823/tendor/RFP%20for%20AE,%20NH-51.pdf",
+      "datePublished": "2019-11-20",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "AE fee to be quoted (JICA loan-assisted)",
+      "scopeSummary": "Authority's Engineer to supervise widening of the Tura–Dalu section of NH-51 to two-lane with paved shoulder in Meghalaya on EPC mode under the North East Road Network Connectivity Improvement Project (Phase 1), JICA loan-assisted. Hill-road supervision expertise valued.",
+      "consultancyType": "Supervision",
+      "eligibility": {
+        "minAnnualTurnoverINR": 50000000,
+        "similarProjectsRequired": "AE/IE/Supervision or DPR experience on 4-lane-equivalent highway projects (4-lane counted ×1.5; feasibility counted ×2/3 of DPR) in last 7 years",
+        "keyPersonnel": ["Team Leader", "Highway Engineer", "Bridge/Structural Engineer", "Quantity Surveyor", "Highway/Pavement Expert"],
+        "other": ["Mandatory INFRACON registration", "Role weighting for firm experience by JV role", "Selection under JICA consultant guidelines"]
+      },
+      "evaluationMethod": "QCBS 80:20",
+      "minTechnicalScore": 75,
+      "technicalCriteria": [
+        { "criterion": "Specific experience of the consultant relevant to the assignment", "maxMarks": 20, "subCriteria": ["Supervision/IE/AE experience", "DPR experience", "Experience on multilateral (WB/ADB/JICA)-funded projects (3 marks)"], "notes": "4-lane length ×1.5; feasibility counted as 2/3 of DPR length" },
+        { "criterion": "Adequacy of proposed methodology and work plan", "maxMarks": 20, "subCriteria": ["Technical approach & methodology (10)", "Work plan (5)", "Organization & staffing (5)"], "notes": null },
+        { "criterion": "Key Experts' qualifications and competence", "maxMarks": 60, "subCriteria": ["Team Leader (CV gate)", "Highway Engineer", "Bridge/Structural Engineer", "other key experts"], "notes": "Non-TL CVs <75% carried forward for max 3 personnel" }
+      ],
+      "sourceType": "archived-tender",
+      "sourceDocument": "NHIDCL RFP for Authority's Engineer — NH-51 Tura-Dalu, Meghalaya (Nov 2019)"
+    },
+    {
+      "id": "road-010",
+      "title": "Authority's Engineer for Supervision of Widening of Imphal–Jiribam Section of NH-37 (Packages IV–VII), Manipur (EPC)",
+      "issuingAuthority": "NHIDCL",
+      "tenderRef": null,
+      "url": "https://www.nhidcl.com/sites/default/files/2025-08/rfp_11.pdf",
+      "datePublished": "2025-08-01",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "AE fee to be quoted; sample package awarded civil cost ₹268.34 Cr (PKG-IV, 35.17 km)",
+      "scopeSummary": "Authority's Engineer to supervise widening to two-lane with paved shoulder of the Imphal–Jiribam section of NH-37 (design chainage Km 66.110–205.974), split across packages IV–VII, in Manipur on EPC mode. Multiple packages with defined construction + maintenance periods.",
+      "consultancyType": "Supervision",
+      "eligibility": {
+        "minAnnualTurnoverINR": 50000000,
+        "similarProjectsRequired": "AE/IE/Supervision experience on EPC/4-lane-equivalent highway projects in last 7 years per data sheet",
+        "keyPersonnel": ["Team Leader", "Resident/Highway Engineer", "Bridge/Structural Engineer", "Road Safety Expert"],
+        "other": ["Mandatory INFRACON registration", "International Competitive Bidding; selection under QCBS", "Team Leader CV >=75% gate"]
+      },
+      "evaluationMethod": "QCBS 80:20",
+      "minTechnicalScore": 75,
+      "technicalCriteria": [
+        { "criterion": "Specific experience of the consultant relevant to the assignment", "maxMarks": 20, "subCriteria": [], "notes": null },
+        { "criterion": "Adequacy of proposed methodology and work plan", "maxMarks": 20, "subCriteria": [], "notes": null },
+        { "criterion": "Key Experts' qualifications and competence", "maxMarks": 60, "subCriteria": [], "notes": "Team Leader CV must score >=75% or proposal fails" }
+      ],
+      "sourceType": "live-tender",
+      "sourceDocument": "NHIDCL RFP for Authority's Engineer — NH-37 Imphal-Jiribam, Manipur (2025)"
+    },
+    {
+      "id": "road-011",
+      "title": "Consultancy Services for Feasibility Study & DPR for Alternate Highway to NH-110 (Siliguri–Darjeeling), West Bengal (Hill Road)",
+      "issuingAuthority": "NHIDCL",
+      "tenderRef": null,
+      "url": "https://www.nhidcl.com/sites/default/files/2025-12/rfp1_0.pdf",
+      "datePublished": "2025-12-01",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "Consultancy fee to be quoted",
+      "scopeSummary": "Feasibility study, DPR and pre-construction activities for an alternate highway to the existing NH-110 from Siliguri to Darjeeling, West Bengal. Consultant must have expertise in similar hill-road projects. Award via QCBS with a least-cost-to-NHIDCL tie-break where a single team is H-1 in multiple packages.",
+      "consultancyType": "Feasibility",
+      "eligibility": {
+        "minAnnualTurnoverINR": 50000000,
+        "similarProjectsRequired": "DPR/feasibility of highway projects (particularly hill roads) aggregating >= package length, with one project >=40% length, in last 7 years",
+        "keyPersonnel": ["Team Leader-Senior Highway Engineer", "Senior Bridge Engineer", "Highway-cum-Pavement Engineer", "Geotechnical Engineer/Geologist", "Traffic & Safety Expert", "Survey Engineer", "Environment Specialist"],
+        "other": ["Mandatory INFRACON registration", "Public Procurement (Preference to Make in India) Order 2017 applies", "Team Leader CV >=75% gate"]
+      },
+      "evaluationMethod": "QCBS 80:20",
+      "minTechnicalScore": 75,
+      "technicalCriteria": [
+        { "criterion": "Firm's relevant experience", "maxMarks": 25, "subCriteria": ["Hill-road DPR/feasibility experience"], "notes": null },
+        { "criterion": "Adequacy of approach and methodology", "maxMarks": 5, "subCriteria": [], "notes": null },
+        { "criterion": "Material testing, survey & investigation, equipment and technology", "maxMarks": 20, "subCriteria": [], "notes": null },
+        { "criterion": "Qualification and competence of key personnel", "maxMarks": 50, "subCriteria": [], "notes": "Team Leader CV must score >=75% or proposal fails" }
+      ],
+      "sourceType": "live-tender",
+      "sourceDocument": "NHIDCL RFP for FS+DPR — Alternate highway to NH-110 Siliguri-Darjeeling (2025)"
+    },
+    {
+      "id": "road-012",
+      "title": "MoRTH Model Request for Proposal (RFP) for Consultancy Services — QCBS",
+      "issuingAuthority": "Ministry of Road Transport & Highways (MoRTH)",
+      "tenderRef": null,
+      "url": "https://morth.gov.in/backend/documents/uploaded/1778483026_kjrTjc3WqZ.pdf",
+      "datePublished": null,
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "Not applicable (model document)",
+      "scopeSummary": "MoRTH model RFP that road authorities adapt for consultancy assignments. Defines the Tender Information Summary (TIS), consultant forms (T-2 organisation & experience, T-2A technical capacity, T-3 comments on ToR, T-4 approach/methodology/work plan, T-5 work schedule, T-6 team composition & CVs), Section VII scoring criteria, QCBS as the default selection method, and mandatory INFRACON registration with a unique Team ID.",
+      "consultancyType": "Other",
+      "eligibility": {
+        "minAnnualTurnoverINR": null,
+        "similarProjectsRequired": "Defined per assignment in TIS; typically similar-nature consultancy in last 5–7 years",
+        "keyPersonnel": ["Key Experts defined per assignment ToR", "CVs via Form T-6 Annex"],
+        "other": ["Mandatory INFRACON registration of firm and all key personnel", "Unique INFRACON Team ID quoted with bid", "Bid via eprocure.gov.in"]
+      },
+      "evaluationMethod": "QCBS 80:20",
+      "minTechnicalScore": 75,
+      "technicalCriteria": [
+        { "criterion": "Consultant's relevant experience & past performance (Form T-2/T-2A)", "maxMarks": null, "subCriteria": [], "notes": "Weight set per assignment in Section VII" },
+        { "criterion": "Approach, methodology & work plan (Form T-4)", "maxMarks": null, "subCriteria": [], "notes": null },
+        { "criterion": "Qualifications & experience of Key Experts (Form T-6 + CVs)", "maxMarks": null, "subCriteria": [], "notes": "Usually the largest weight; Team Leader gate common" }
+      ],
+      "sourceType": "model-rfp",
+      "sourceDocument": "MoRTH Model RFP for Consultancy Services (QCBS)"
+    },
+    {
+      "id": "road-013",
+      "title": "PMGSY Quality Monitoring & Mandatory Road Safety Audit (Rural Roads)",
+      "issuingAuthority": "NRIDA (National Rural Infrastructure Development Agency), Ministry of Rural Development",
+      "tenderRef": null,
+      "url": "https://pmgsy.nic.in/guidelines-quality-assurance-and-control-mechanism",
+      "datePublished": null,
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "Not applicable (empanelment / guideline)",
+      "scopeSummary": "PMGSY operates a three-tier quality management mechanism; the third tier is independent National Quality Monitors (NQMs) — empanelled retired senior engineers engaged by NRIDA to inspect and test rural road works on a random-sampling basis. Additionally, a Road Safety Audit is mandatory at the design stage for all PMGSY-III roads longer than 5 km, creating demand for road-safety-audit consultancies.",
+      "consultancyType": "Other",
+      "eligibility": {
+        "minAnnualTurnoverINR": null,
+        "similarProjectsRequired": "NQM empanelment requires senior engineering experience (State/Central organisations); road safety audit requires certified safety auditors",
+        "keyPersonnel": ["Retired Senior Engineers (NQMs)", "Certified Road Safety Auditors"],
+        "other": ["Empanelment model (individuals) rather than firm QCBS for NQMs", "Road Safety Audit mandatory for PMGSY-III roads >5 km per Supreme Court Committee on Road Safety"]
+      },
+      "evaluationMethod": "Other",
+      "minTechnicalScore": null,
+      "technicalCriteria": [
+        { "criterion": "Engineering seniority & domain experience (NQM empanelment)", "maxMarks": null, "subCriteria": [], "notes": "Individual empanelment; performance-evaluated" },
+        { "criterion": "Road safety audit certification & experience", "maxMarks": null, "subCriteria": [], "notes": null }
+      ],
+      "sourceType": "policy-document",
+      "sourceDocument": "NRIDA/PMGSY Guidelines on Quality Assurance & Control Mechanism; Performance Evaluation of NQMs"
+    }
+  ],
+  "evaluationFramework": {
+    "summary": "Consultant selection in the Indian road & highways sector is highly standardised and overwhelmingly uses Quality & Cost Based Selection (QCBS) with an 80:20 technical:financial weight. A technical proposal must score at least 75 out of 100 to have its financial bid opened, and the Team Leader's CV must independently score at least 75% or the entire proposal is rejected. Both the firm and every proposed key personnel must be registered on the MoRTH INFRACON portal, which auto-validates credentials; bids quote a unique INFRACON Team ID.\n\nTechnical scoring follows two archetypes. For DPR/feasibility assignments the 100 marks split roughly as Firm experience 25, Approach & methodology 5, Survey/testing/technology (in-house lab, LiDAR, GPR) 20, and Key personnel 50. For Authority's Engineer / Independent Engineer / Supervision assignments the split is either 35/5/20/40 (NHAI O&M-IE, with a dedicated 20 marks for road-inspection technology such as NSV, FWD, MBIU and Retro-Reflectometer) or 20/20/60 (NHIDCL / multilateral-funded AE). In every archetype, key personnel and firm experience together dominate, while approach & methodology is a small share.\n\nFirm experience is credited relative to the project length (aggregate similar-length km, plus at least one project of 40–50% of the package length, in the last 7 years) and adjusted by the firm's role (sole 100%, lead JV 75%, other JV 50%, associate 25%). Turnover generally must average at least ₹5 crore from consultancy business, with more marks for higher turnover. Length-equivalence (4-lane counted ×1.5, feasibility counted as ⅔ of DPR) and year-wise enhancement factors are commonly applied.",
+    "dominantMethod": "QCBS 80:20",
+    "typicalMinTechnicalScore": 75,
+    "criteria": [
+      {
+        "id": "firm-experience",
+        "label": "Firm's Relevant Experience",
+        "typicalWeightPct": 30,
+        "description": "Track record of similar road consultancy assignments (DPR/feasibility for DPR tenders; AE/IE/supervision for supervision tenders), measured by aggregate km, number of qualifying projects, major-bridge assignments, and multilateral-funded experience. Credit is weighted by the firm's role (sole/lead JV/other JV/associate) and by length-equivalence factors.",
+        "scoringGuidance": [
+          { "level": "Excellent (90-100%)", "meaning": "Aggregate similar length > 3x package length AND 3+ qualifying projects each >=40-50% of package length (or 3+ AE/IE assignments), some multilateral-funded" },
+          { "level": "Good (70-89%)", "meaning": "Aggregate length > 1-2x package length AND 2 qualifying projects; solid recent track record" },
+          { "level": "Fair (50-69%)", "meaning": "Meets the minimum floor: aggregate >= package length and 1 qualifying project of >=40-50% length" },
+          { "level": "Poor (<50%)", "meaning": "Below the eligibility floor or experience mostly as minor JV partner/associate (25-50% credit)" }
+        ],
+        "inputFields": [
+          { "key": "similarAssignmentsCount", "label": "Number of similar assignments completed in last 7 years (DPR or AE/IE, matching the tender type)", "type": "number", "options": [], "scoring": "1 project = minimum/Fair; 2 = Good; 3+ = Excellent" },
+          { "key": "aggregateKmCompleted", "label": "Aggregate length of similar road consultancy (km, 4-lane counted x1.5, feasibility x2/3)", "type": "number", "options": [], "scoring": ">=1x package length = Fair; >2x = Good; >3x = Excellent" },
+          { "key": "majorBridgeDprCount", "label": "Number of DPRs for major bridges (>200 m) completed (DPR tenders only)", "type": "number", "options": [], "scoring": "1 bridge = 2 marks up to 4+ bridges = 5 marks (DPR archetype)" },
+          { "key": "multilateralFundedExperience", "label": "Experience on World Bank / ADB / JICA-funded road projects?", "type": "boolean", "options": [], "scoring": "Adds up to 3 marks in NHIDCL/multilateral AE tenders" },
+          { "key": "firmRoleWeight", "label": "Typical role of the firm in cited assignments", "type": "select", "options": ["Sole firm (100%)", "Lead JV partner (75%)", "Other JV partner (50%)", "Associate (25%)"], "scoring": "Experience credit multiplied by the selected role weight" }
+        ]
+      },
+      {
+        "id": "financial-turnover",
+        "label": "Average Annual Turnover (Consultancy)",
+        "typicalWeightPct": 5,
+        "description": "Average annual turnover from consultancy business over the last 3-5 years, certified by a Chartered Accountant. Acts as both an eligibility gate (typically >=₹5 Cr) and a scored sub-criterion within firm experience.",
+        "scoringGuidance": [
+          { "level": "Excellent (90-100%)", "meaning": "Average annual consultancy turnover >= ₹50-60 Cr" },
+          { "level": "Good (70-89%)", "meaning": "Average annual turnover ₹20-50 Cr" },
+          { "level": "Fair (50-69%)", "meaning": "Average annual turnover ₹10-20 Cr" },
+          { "level": "Poor (<50%)", "meaning": "Average annual turnover ₹5-10 Cr (meets floor); below ₹5 Cr = ineligible" }
+        ],
+        "inputFields": [
+          { "key": "avgAnnualTurnoverINR", "label": "Average annual turnover from consultancy business (last 5 years, ₹)", "type": "number", "options": [], "scoring": ">=₹5 Cr required; marks scale up through ₹10 / ₹30 / ₹60 Cr bands (e.g. 0.5 mark at 5-10 Cr up to full marks above 50 Cr)" }
+        ]
+      },
+      {
+        "id": "approach-methodology",
+        "label": "Approach, Methodology & Work Plan",
+        "typicalWeightPct": 8,
+        "description": "Quality of site appreciation, comments/suggestions on the ToR, proposed methodology and work plan, team composition and organisation. Small weight (5 marks) in NHAI/MoRTH RFPs but larger (up to 20 marks) in NHIDCL/multilateral AE RFPs.",
+        "scoringGuidance": [
+          { "level": "Excellent (90-100%)", "meaning": "Sharp site appreciation, innovative but realistic methodology, clear work plan and staffing, strong understanding of key challenges" },
+          { "level": "Good (70-89%)", "meaning": "Sound methodology and work plan with minor gaps" },
+          { "level": "Fair (50-69%)", "meaning": "Generic methodology largely restating the ToR" },
+          { "level": "Poor (<50%)", "meaning": "Weak or boilerplate approach, poor understanding of the assignment" }
+        ],
+        "inputFields": [
+          { "key": "methodologyQuality", "label": "Self-assessed quality of your approach & methodology", "type": "select", "options": ["Excellent", "Good", "Fair", "Poor"], "scoring": "Maps to the scoring guidance levels; typically 5 marks (NHAI/MoRTH) or up to 20 marks (NHIDCL/JICA)" },
+          { "key": "siteVisitDone", "label": "Have you conducted a site visit / site appreciation for this project?", "type": "boolean", "options": [], "scoring": "Site appreciation is an explicit sub-mark (~1-2 marks)" }
+        ]
+      },
+      {
+        "id": "technology-capability",
+        "label": "Survey, Testing & Inspection Technology",
+        "typicalWeightPct": 20,
+        "description": "For DPR: in-house material testing lab, field investigation facilities, office equipment/software, and experience with LiDAR-based survey, GPR/induction locators for utility detection, and cadastral map digitisation. For O&M/IE: capability in Network Survey Vehicle (NSV), Falling Weight Deflectometer (FWD), Mobile Bridge Inspection Unit (MBIU) and Retro-Reflectometer. Worth ~20 marks where applicable.",
+        "scoringGuidance": [
+          { "level": "Excellent (90-100%)", "meaning": "In-house lab + field facilities + software, and 4+ projects using LiDAR/GPR (DPR) or in-house NSV/FWD/MBIU/Retro-Reflectometer (O&M/IE)" },
+          { "level": "Good (70-89%)", "meaning": "Mostly in-house capability with 2-3 technology projects" },
+          { "level": "Fair (50-69%)", "meaning": "Key facilities outsourced (half marks) with 1 technology project" },
+          { "level": "Poor (<50%)", "meaning": "Facilities not available and no advanced-technology experience" }
+        ],
+        "inputFields": [
+          { "key": "inHouseLab", "label": "Material testing facility availability", "type": "select", "options": ["In-house (available)", "Outsourced", "Not available"], "scoring": "In-house = full (~2 marks), outsourced = half, none = 0 (DPR archetype)" },
+          { "key": "lidarProjects", "label": "Number of projects using LiDAR / equivalent for topographic survey", "type": "number", "options": [], "scoring": "1 project = 1 mark up to 4+ = 4 marks (DPR)" },
+          { "key": "gprProjects", "label": "Number of projects using GPR / induction locator for subsurface utility detection", "type": "number", "options": [], "scoring": "1 = 1 mark up to 4+ = 4 marks (DPR)" },
+          { "key": "roadInspectionEquipment", "label": "Road-inspection equipment available (O&M/IE tenders)", "type": "select", "options": ["All (NSV, FWD, MBIU, Retro-Reflectometer)", "Some", "Via associate", "None"], "scoring": "Up to 20 marks; associate for equipment must not be shared with another bidder" }
+        ]
+      },
+      {
+        "id": "key-personnel",
+        "label": "Qualifications & Competence of Key Personnel",
+        "typicalWeightPct": 45,
+        "description": "The largest scoring block (40-60 marks). Each key expert is scored on general/essential qualification, total and relevant experience, experience in similar capacity, and tenure with the firm. The Team Leader is gated: their CV must score >=75% or the whole proposal fails. Missing essential education = zero for that CV; duplicate CVs across firms = zero. All CVs must be validated on INFRACON.",
+        "scoringGuidance": [
+          { "level": "Excellent (90-100%)", "meaning": "All key experts exceed essential qualifications with extensive similar-capacity experience on comparable NH/PPP projects; Team Leader well above 75%" },
+          { "level": "Good (70-89%)", "meaning": "Full team meets requirements; Team Leader clears 75%; most experts with strong similar experience" },
+          { "level": "Fair (50-69%)", "meaning": "Team meets minimum qualifications; Team Leader just clears 75%; some experts light on similar-capacity experience" },
+          { "level": "Poor (<50%)", "meaning": "One or more essential positions unfilled/under-qualified, or Team Leader below 75% (disqualifying)" }
+        ],
+        "inputFields": [
+          { "key": "teamLeaderTotalExperienceYears", "label": "Team Leader — total professional experience (years)", "type": "number", "options": [], "scoring": "Scored under total experience + similar-capacity; must yield >=75% CV score to avoid disqualification" },
+          { "key": "teamLeaderSimilarAssignments", "label": "Team Leader — number of similar assignments (as TL / senior role)", "type": "number", "options": [], "scoring": "Drives 'experience in similar capacity' (largest CV sub-block)" },
+          { "key": "teamLeaderMeetsEssentialQualification", "label": "Does the Team Leader meet the essential educational qualification in the ToR?", "type": "boolean", "options": [], "scoring": "If No, CV = 0 marks and proposal fails" },
+          { "key": "keyExpertsProposedCount", "label": "Number of required key-expert positions you can fill with qualified CVs", "type": "number", "options": [], "scoring": "DPR needs ~8 experts (TL, Bridge, Highway/Pavement, Geotech, Traffic/Safety, Survey, Environment, QS); AE/IE ~4 (TL, Resident/Highway, Bridge, Road Safety)" },
+          { "key": "keyExpertsAvgTenureWithFirm", "label": "Average tenure of proposed key experts with your firm (years)", "type": "select", "options": ["> 2 years", "1-2 years", "< 1 year"], "scoring": ">2 yrs = full tenure marks (~10 per CV), 1-2 yrs = partial, <1 yr = 0" },
+          { "key": "keyExpertsPppExperience", "label": "Do key experts (TL, Bridge, Road Safety) have PPP/HAM project experience?", "type": "boolean", "options": [], "scoring": "PPP-experienced personnel are explicitly rated higher" }
+        ]
+      },
+      {
+        "id": "compliance-infracon",
+        "label": "INFRACON & Statutory Compliance",
+        "typicalWeightPct": 2,
+        "description": "Mandatory pass/fail compliance: the firm and every proposed key personnel must be registered on INFRACON, form a Team, and quote a unique INFRACON Team ID; bid submitted via eProcure. No debarment by MoRTH/agencies in the last 2 years; no conflict of interest with the concessionaire/contractor.",
+        "scoringGuidance": [
+          { "level": "Excellent (90-100%)", "meaning": "Firm + all key personnel registered on INFRACON with Team ID; no debarment; no conflict of interest" },
+          { "level": "Good (70-89%)", "meaning": "Registered but minor CV/profile updates pending on INFRACON" },
+          { "level": "Fair (50-69%)", "meaning": "Registration incomplete for some personnel (must be fixed before submission)" },
+          { "level": "Poor (<50%)", "meaning": "Firm or key personnel not registered, or active debarment/conflict of interest (bid rejected)" }
+        ],
+        "inputFields": [
+          { "key": "infraconRegistered", "label": "Are the firm and all proposed key personnel registered on INFRACON (with Team ID)?", "type": "boolean", "options": [], "scoring": "Mandatory; non-registration leads to rejection" },
+          { "key": "debarmentStatus", "label": "Any debarment/penalty by MoRTH or its agencies in the last 2 years?", "type": "boolean", "options": [], "scoring": "If Yes, ineligible" },
+          { "key": "conflictOfInterest", "label": "Any conflict of interest with the project concessionaire/contractor?", "type": "boolean", "options": [], "scoring": "If Yes, ineligible for that assignment" }
+        ]
+      }
+    ],
+    "keyPolicies": [
+      { "name": "Manual for Procurement of Consultancy & Other Services (MoF, Dept. of Expenditure, updated June 2022)", "url": "https://doe.gov.in/files/manuals_documents/Manual_for_Procurement_of_Consultancy_&_Other_Services_Updated%20June,%202022_1.pdf", "relevance": "Umbrella policy under GFR 2017 defining consultant selection systems (QCBS, LCS, SSS, QBS/FBS) that road-sector RFPs implement." },
+      { "name": "MoRTH Model RFP for Consultancy Services (QCBS)", "url": "https://morth.gov.in/backend/documents/uploaded/1778483026_kjrTjc3WqZ.pdf", "relevance": "Sector-standard RFP: Tender Information Summary, Forms T-2 to T-6, Section VII scoring, QCBS default, mandatory INFRACON linkage." },
+      { "name": "INFRACON — National Portal for Infrastructure Consultancy Firms & Key Personnel", "url": "https://infracon.nic.in", "relevance": "Mandatory credential repository/validation for firms and key personnel across MoRTH/NHAI/NHIDCL/state NH agencies; unique Team ID quoted with every bid." },
+      { "name": "NRIDA/PMGSY — Guidelines on Quality Assurance & Control Mechanism", "url": "https://pmgsy.nic.in/guidelines-quality-assurance-and-control-mechanism", "relevance": "Rural-roads quality regime: three-tier quality monitoring (NQMs) and mandatory Road Safety Audit for PMGSY-III roads >5 km." }
+    ]
+  }
+}

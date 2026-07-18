@@ -1,0 +1,454 @@
+{
+  "sector": "aviation",
+  "sectorLabel": "Airports & Aviation",
+  "generatedAt": "2026-07-18",
+  "sources": [
+    {
+      "name": "Airports Authority of India (AAI) — Tenders",
+      "url": "https://www.aai.aero/en/business-opportunities/tenders",
+      "type": "authority-website"
+    },
+    {
+      "name": "Central Public Procurement Portal (CPPP / eProcure)",
+      "url": "https://eprocure.gov.in",
+      "type": "tender-portal"
+    },
+    {
+      "name": "Ministry of Civil Aviation (MoCA)",
+      "url": "https://www.civilaviation.gov.in",
+      "type": "authority-website"
+    },
+    {
+      "name": "Tamil Nadu Industrial Development Corporation (TIDCO)",
+      "url": "https://tidco.com",
+      "type": "authority-website"
+    },
+    {
+      "name": "Andhra Pradesh Airports Development Corporation Ltd (APADCL)",
+      "url": "https://www.apadcl.com",
+      "type": "authority-website"
+    },
+    {
+      "name": "Noida International Airport Ltd (NIAL, Jewar)",
+      "url": "http://www.nialjewar.com/tenders.html",
+      "type": "authority-website"
+    },
+    {
+      "name": "Maharashtra Airport Development Company (MADC)",
+      "url": "https://www.mahairport.co.in",
+      "type": "authority-website"
+    },
+    {
+      "name": "MoCA — Guidelines for Setting up of Greenfield Airports",
+      "url": "http://civilaviation.gov.in/sites/default/files/2025-11/guidelines-for-setting-up-of-greenfield-airports_0.pdf",
+      "type": "policy-document"
+    },
+    {
+      "name": "Manual for Procurement of Consultancy & Other Services (MoF, Dept. of Expenditure, June 2022)",
+      "url": "https://doe.gov.in/files/manuals_documents/Manual_for_Procurement_of_Consultancy_&_Other_Services_Updated%20June,%202022_1.pdf",
+      "type": "policy-document"
+    }
+  ],
+  "tenders": [
+    {
+      "id": "aviation-001",
+      "title": "Selection of Consultant for Preparation of Techno-Economic Feasibility Report (TEFR) for Development of Greenfield Airport at Nagarjuna Sagar, Andhra Pradesh",
+      "issuingAuthority": "Andhra Pradesh Airports Development Corporation Ltd (APADCL)",
+      "tenderRef": "RFP Notice No. 8 (Nagarjuna Sagar Airport)",
+      "url": "https://www.apadcl.com/tender_docs/1752043252RFP-Notice-No-8-Nagarjuna-Sagar-Airport.pdf",
+      "datePublished": "2025-07-01",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "Consultancy fee to be quoted (financial bid)",
+      "scopeSummary": "Preparation of a Techno-Economic Feasibility Report for a proposed greenfield airport at Nagarjuna Sagar. Scope includes site delineation, site-specific surveys/studies, 35-year traffic forecasts, a concept master plan per latest guidelines, a financial model and project structuring, environmental & social impact studies, and facilitation of statutory approvals. Selection is CQCCBS (QCBS) with a 70:30 technical:financial weighting.",
+      "consultancyType": "Feasibility",
+      "eligibility": {
+        "minAnnualTurnoverINR": 5000000000,
+        "similarProjectsRequired": "At least 5 years of aviation consultancy experience in India (esp. to government entities), evidenced by minimum 2 similar aviation-sector projects in last 5 years; airport consulting (TEFR/DPR/Transaction Advisory) and technical consultancy credits scored separately",
+        "keyPersonnel": ["Project Director/Team Leader (PG/MBA/Transport Planner, 20 yrs, PPP projects >₹1000 Cr, ≥1 airport project)", "Project Structuring Expert (MBA-Fin/CA, 10 yrs, ≥1 airport)", "Transport Expert", "Infrastructure Expert", "Financial Specialist (MBA-Fin/CFA/CA, 10 yrs, airport/PPP financial modelling)", "Social Impact Assessment Expert (≥5 SIA assignments >₹200 Cr)"],
+        "other": ["Minimum annual turnover ₹500 Cr in each of last 3 FY (ending 31-03-2025)", "Complete core team must be available", "Consortium of max 3 members allowed"]
+      },
+      "evaluationMethod": "QCBS 70:30",
+      "minTechnicalScore": 60,
+      "technicalCriteria": [
+        { "criterion": "Bidder's experience providing consulting services (TEFR/DPR/Transaction Advisory) for airport projects in last 10 years", "maxMarks": 5, "subCriteria": ["One airport project ≥₹1500 Cr, OR two airports ≥₹750 Cr each (5 marks/project)"], "notes": null },
+        { "criterion": "Bidder's experience of consultancy for a greenfield airport", "maxMarks": 5, "subCriteria": [], "notes": null },
+        { "criterion": "Bidder's experience providing technical services (DPR/master plan/detailed design/surveys) for airport projects in last 10 years", "maxMarks": 5, "subCriteria": ["Two airports ≥₹500 Cr each (5 marks/project)"], "notes": null },
+        { "criterion": "Successful completion of a transport infrastructure project on PPP basis in last 5 years (total cost ≥₹3000 Cr)", "maxMarks": 5, "subCriteria": [], "notes": null },
+        { "criterion": "Approach & Methodology and Work Plan", "maxMarks": 20, "subCriteria": [], "notes": null },
+        { "criterion": "Team (key personnel)", "maxMarks": 55, "subCriteria": ["Project Director/Team Leader – 10 marks", "Other team members – 5 marks each"], "notes": null },
+        { "criterion": "Presentation", "maxMarks": 5, "subCriteria": [], "notes": null }
+      ],
+      "sourceType": "live-tender",
+      "sourceDocument": "APADCL RFP Notice No. 8 — TEFR for Greenfield Airport at Nagarjuna Sagar (2025)"
+    },
+    {
+      "id": "aviation-002",
+      "title": "Selection of Consultant for Preparation of Detailed Techno-Economic Report (DTER) for Development of Greenfield International Airport at Hosur, Krishnagiri District, Tamil Nadu",
+      "issuingAuthority": "Tamil Nadu Industrial Development Corporation Ltd (TIDCO)",
+      "tenderRef": "TIDCO/CONSULTANT/GREENFIELD AIRPORT/2025",
+      "url": "https://tidco.com/wp-content/uploads/2025/11/tenderdoc28.pdf",
+      "datePublished": "2025-11-01",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "Consultancy fee to be quoted; contract period 120 weeks",
+      "scopeSummary": "Preparation of a comprehensive Detailed Techno-Economic Report (DTER) for a greenfield international airport at Hosur, including market/O-D demand assessment, site-specific surveys, master planning, financial modelling, obtaining mandatory clearances, and bid process management for the development model. Selection is QCCBS (QCBS) 80:20.",
+      "consultancyType": "Feasibility",
+      "eligibility": {
+        "minAnnualTurnoverINR": 1000000000,
+        "similarProjectsRequired": "Experience preparing TEFR/DPR (incl. master plan, financial assessment, site-specific surveys) for at least one airport of 10+ MPPA in last 15 years; Team Leader must have ≥1 transport infrastructure project ≥₹250 Cr",
+        "keyPersonnel": ["Team Leader", "Airport Sector Expert", "Airport Planner", "Environmental Expert", "Financial Specialist", "Social Expert", "Contract Expert"],
+        "other": ["Minimum average annual turnover ₹100 Cr (best 3 of last 6 FY)", "Team Leader must be from lead member of consortium", "Parent-company turnover allowed only with ≥51% shareholding", "No debarment subsisting on submission date"]
+      },
+      "evaluationMethod": "QCBS 80:20",
+      "minTechnicalScore": 70,
+      "technicalCriteria": [
+        { "criterion": "Experience preparing TEFR/DPR (master plan, financial assessment, surveys) for airport projects in last 15 years", "maxMarks": 25, "subCriteria": ["One project ≥10 MPPA – 15 marks", "Additional airport ≥5 MPPA – 5 marks each (max 10)"], "notes": null },
+        { "criterion": "Transaction Advisory services to Government/PSU for transport infrastructure in last 15 years", "maxMarks": 10, "subCriteria": ["One project ≥₹500 Cr – 5 marks", "Additional projects ≥₹250 Cr – 2.5 marks each (max 5)"], "notes": null },
+        { "criterion": "Approach, Work Plan & Methodology and Presentation", "maxMarks": 40, "subCriteria": ["Technical approach & methodology – 20 marks", "Technical presentation – 20 marks"], "notes": null },
+        { "criterion": "Project core team (key personnel CVs)", "maxMarks": 25, "subCriteria": ["Team Leader – 5 (qualifying airport ≥10 MPPA = 3, extras up to 2)", "Airport Sector Expert – 4", "Airport Planner – 4", "Environmental Expert – 3 (EIA with EC from MoEF)", "Financial Specialist – 3 (airport financial model)", "Social Expert – 3 (SIA ≥₹250 Cr)", "Contract Expert – 3 (EOI/RFQ/RFP/DCA ≥₹250 Cr)"], "notes": "Airport-experience scored by passenger-capacity qualifying projects" }
+      ],
+      "sourceType": "live-tender",
+      "sourceDocument": "TIDCO RFP — DTER for Greenfield International Airport at Hosur (Nov 2025)"
+    },
+    {
+      "id": "aviation-003",
+      "title": "Consultancy Services for Preparation of Techno-Economic Feasibility Report (TEFR) for Development of a New Greenfield Airport near Chennai, Tamil Nadu",
+      "issuingAuthority": "Tamil Nadu Industrial Development Corporation Ltd (TIDCO)",
+      "tenderRef": null,
+      "url": "https://tidco.com/wp-content/uploads/2020/04/tidco_rfp_for_consultancy_services_for_greenfield_airport_near_chennai.pdf",
+      "datePublished": "2020-04-01",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "Consultancy fee to be quoted",
+      "scopeSummary": "Preparation of a Techno-Economic Feasibility Report for a new greenfield airport near Chennai (Parandur), including survey & investigations, air-traffic forecasts, airport facility requirements, master layout plan, cost estimates, revenue/financial & economic analysis, environmental & social impact analyses, assistance in obtaining clearances, and bid process management for developer selection. Selection is QCBS 80:20.",
+      "consultancyType": "Feasibility",
+      "eligibility": {
+        "minAnnualTurnoverINR": 1000000000,
+        "similarProjectsRequired": "Comprehensive consultancy for airport development projects in last 15 years; Team Leader must have completed consultancy as Team Leader for ≥1 airport project ≥₹1000 Cr",
+        "keyPersonnel": ["Project Director/Team Leader (20 yrs, ≥1 airport ≥₹1000 Cr)", "Airport Sector Expert", "Airport Planner", "PPP Expert", "Environmental Expert", "Financial Specialist", "Social Expert", "Contract Expert"],
+        "other": ["Minimum average annual turnover ₹100 Cr in last 3 FY with positive net worth", "Team Leader must be full-time employee of the (lead) bidder", "Team Leader must be from lead member in a consortium"]
+      },
+      "evaluationMethod": "QCBS 80:20",
+      "minTechnicalScore": 70,
+      "technicalCriteria": [
+        { "criterion": "Firm's experience in comprehensive airport-development consultancy in last 15 years", "maxMarks": 20, "subCriteria": ["Project ≥₹1000 Cr – base marks; additional projects ≥₹500 Cr – 5 marks each"], "notes": null },
+        { "criterion": "Transaction Advisory to Government/PSU for transport infrastructure on PPP in last 15 years", "maxMarks": 10, "subCriteria": ["Project ≥₹1000 Cr – 5 marks; additional ≥₹500 Cr – 2.5 marks each"], "notes": null },
+        { "criterion": "Approach, Work Plan & Methodology and Presentation", "maxMarks": 25, "subCriteria": [], "notes": null },
+        { "criterion": "Project core team (8 members) — CVs", "maxMarks": 45, "subCriteria": ["Project Director/Team Leader – 10", "Airport Sector Expert – 5", "Airport Planner – 5 (airport master planning)", "PPP Expert – 5 (airport transaction advisory)", "Environmental Expert – 5 (EIA)", "Financial / Social / Contract experts – balance"], "notes": "Each CV scored on qualifying airport project value (₹1000 Cr) plus additional projects" }
+      ],
+      "sourceType": "archived-tender",
+      "sourceDocument": "TIDCO RFP — TEFR for New Greenfield Airport near Chennai (2020)"
+    },
+    {
+      "id": "aviation-004",
+      "title": "Selection of Consultant for Pre-feasibility Study & Preparation of Techno-Economic Feasibility Report (TEFR) for Development of Greenfield International Airport at Amaravati, Andhra Pradesh",
+      "issuingAuthority": "Andhra Pradesh Airports Development Corporation Ltd (APADCL)",
+      "tenderRef": "RFP Notice No.1/Amaravati Intl. Airport/APADCL/2025-26 dt. 11.04.2025",
+      "url": "https://apadcl.com/tender_docs/1744454898RFP-for-Amaravati-Airport-Dt-10042025.pdf",
+      "datePublished": "2025-04-11",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "Consultancy fee to be quoted; tender fee ₹59,000, EMD ₹5,00,000",
+      "scopeSummary": "Pre-feasibility study and TEFR for a greenfield international airport in the Amaravati capital region, Guntur district. Scope covers site delineation, site-specific surveys, traffic demand assessment & forecasting, ICAO airport categorisation, financial model/cash-flow analysis, a parallel Environmental & Social Impact Assessment (EIA/SIA/R&R with Form-1/1A to SEAC/EAC), city-side/non-aero revenue study, land-procurement framework, and obtaining DGCA/MoCA/MoEF clearances. Selection is QCBS 70:30.",
+      "consultancyType": "Feasibility",
+      "eligibility": {
+        "minAnnualTurnoverINR": 5000000000,
+        "similarProjectsRequired": "At least 5 years of aviation consultancy experience in India (esp. to government entities), evidenced by minimum 2 similar aviation-sector projects in last 5 years",
+        "keyPersonnel": ["Project Director/Team Leader (PG/MBA/Transport Planner, 20 yrs, PPP projects >₹1000 Cr, ≥1 airport project)", "Project Structuring Expert", "Financial Specialist", "Transport Expert", "Infrastructure Expert", "Environmental Expert (M.Env, 10 yrs, EIA of projects >₹200 Cr with EC from MoEF)", "Social/SIA Expert"],
+        "other": ["Minimum annual turnover preferably ₹500 Cr in each of last 3 FY (ending 31-03-2024)", "Complete core team must be available", "Consortium of max 3 members allowed"]
+      },
+      "evaluationMethod": "QCBS 70:30",
+      "minTechnicalScore": 60,
+      "technicalCriteria": [
+        { "criterion": "Bidder's experience providing consulting services (TEFR/DPR/Transaction Advisory) for airport projects in last 10 years", "maxMarks": 5, "subCriteria": ["One airport ≥₹1500 Cr OR two airports ≥₹750 Cr each"], "notes": null },
+        { "criterion": "Bidder's experience of consultancy for a greenfield airport", "maxMarks": 5, "subCriteria": [], "notes": null },
+        { "criterion": "Bidder's experience providing technical services (DPR/master plan/design/surveys) for airport projects in last 10 years", "maxMarks": 5, "subCriteria": ["Two airports ≥₹500 Cr each (5 marks/project)"], "notes": null },
+        { "criterion": "Successful completion of a transport infrastructure project on PPP (total cost ≥₹3000 Cr) in last 5 years", "maxMarks": 5, "subCriteria": [], "notes": null },
+        { "criterion": "Approach & Methodology and Work Plan", "maxMarks": 20, "subCriteria": [], "notes": null },
+        { "criterion": "Team (key personnel)", "maxMarks": 55, "subCriteria": ["Project Director/Team Leader – 10 marks", "Other team members – 5 marks each"], "notes": null },
+        { "criterion": "Presentation", "maxMarks": 5, "subCriteria": [], "notes": null }
+      ],
+      "sourceType": "live-tender",
+      "sourceDocument": "APADCL RFP No.1/2025-26 — Pre-feasibility & TEFR for Greenfield International Airport at Amaravati (2025)"
+    },
+    {
+      "id": "aviation-005",
+      "title": "Selection of Consultant for Surveys/Investigations, Feasibility, OLS Survey, EIA & Statutory Approvals for Development of Water Aerodromes (Seaplane) at Eight Locations in Andhra Pradesh",
+      "issuingAuthority": "Andhra Pradesh Airports Development Corporation Ltd (APADCL)",
+      "tenderRef": "RFP for Water Aerodromes dt. 06.03.2025",
+      "url": "https://www.apadcl.com/tender_docs/1741537152RFP%20for%20Water%20Aerodromes%20Dt%2006032025.pdf",
+      "datePublished": "2025-03-06",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "Consultancy fee to be quoted (8 locations)",
+      "scopeSummary": "Consultancy for developing water aerodromes / seaplane facilities at eight locations in Andhra Pradesh: site survey, geotechnical & bathymetric/hydrographic surveys, Obstacle Limitation Surface (OLS) survey per ICAO Annex 14 & DGCA CAR, CRZ mapping, jetty/runway siting, feasibility study, EIA/EMP with EC/CRZ clearance from MoEF&CC through a NABET-accredited EIA consultant, and statutory approvals. Selection is QCBS 60:40.",
+      "consultancyType": "Feasibility",
+      "eligibility": {
+        "minAnnualTurnoverINR": null,
+        "similarProjectsRequired": "DPR/feasibility consultancy for aerodromes/airports (each project ≥₹20 Cr cost or ≥₹2 Cr assignment) and EIA/EMP/CRZ assignments (≥₹20 Cr) at ports/airports/govt bodies in last 7 years; Team Leader ≥1 port/airport project >₹80 Cr",
+        "keyPersonnel": ["Team Leader (Aviation/Port, 15 yrs)", "Hydrographic/Bathymetric Survey Expert", "OLS Survey Expert", "Environmental Expert (NABET-accredited EIA)", "Geotechnical Expert", "Minimum 3-member team"],
+        "other": ["Average annual financial turnover criterion (last 3 FY, CA-certified)", "EIA must be via MoEF&CC/NABET-accredited consultant", "Sub-contracting only with prior APADCL approval", "Outsourced personnel get only 75% of CV score"]
+      },
+      "evaluationMethod": "QCBS 60:40",
+      "minTechnicalScore": 60,
+      "technicalCriteria": [
+        { "criterion": "Relevant Experience", "maxMarks": 60, "subCriteria": ["DPR/feasibility for aerodromes/airports – max 30 (1/2/3 assignments = 10/20/30)", "EIA/EMP/CRZ up to EC – max 15", "Other relevant experience – 15"], "notes": null },
+        { "criterion": "Skill and Competency of Team (key personnel CVs)", "maxMarks": 35, "subCriteria": ["Team Leader", "Survey/OLS/Environmental experts", "Outsourced personnel scored at 75%"], "notes": null },
+        { "criterion": "Approach, Methodology & Work Plan (with presentation)", "maxMarks": 5, "subCriteria": [], "notes": null }
+      ],
+      "sourceType": "live-tender",
+      "sourceDocument": "APADCL RFP — Water Aerodromes at Eight Locations in Andhra Pradesh (2025)"
+    },
+    {
+      "id": "aviation-006",
+      "title": "Project Management Consultancy (PMC) Services for Construction of New Integrated Terminal Building and Allied Works including Extension of Apron at Srinagar Airport",
+      "issuingAuthority": "Airports Authority of India (AAI), Corporate HQ (Engg-NR)",
+      "tenderRef": "AAI/CHQ/ENGG-NR/Srinagar/PMC (Tender ID 2026_AAI_274616_1)",
+      "url": "https://www.tendershark.com/details/jammu-and-kashmir-tender/airports-authority-of-india/010ddb78-037d-43a6-ab2a-7e7bf3c29ab3",
+      "datePublished": "2026-05-08",
+      "estimatedValueINR": 9379200000,
+      "estimatedValueLabel": "Underlying project value ₹937.92 Cr (PMC fee to be quoted)",
+      "scopeSummary": "Project Management Consultancy for construction of a new integrated terminal building and allied works, including apron extension, at Srinagar Airport. Consultancy period 1830 days. Open tender via eProcure; EMD ₹1.24 Cr, tender fee ₹5,900. Detailed pre-qualification (turnover, similar PMC experience) and scoring are defined in the RFP on etenders.gov.in.",
+      "consultancyType": "PMC",
+      "eligibility": {
+        "minAnnualTurnoverINR": null,
+        "similarProjectsRequired": "Similar PMC/construction-supervision experience for terminal/airport or large building works per RFP pre-qualification (exact thresholds in tender document)",
+        "keyPersonnel": ["Team Leader / Project Manager", "Structural Engineer", "Architect", "MEP / Airport Systems Engineer", "Quantity Surveyor / Planning Engineer"],
+        "other": ["Open tender on eProcure (etenders.gov.in)", "EMD ₹1,24,00,000", "Integrity Pact required"]
+      },
+      "evaluationMethod": "QCBS (ratio per RFP; not confirmed in accessed listing)",
+      "minTechnicalScore": null,
+      "technicalCriteria": [
+        { "criterion": "Firm's similar PMC/works-consultancy experience", "maxMarks": null, "subCriteria": [], "notes": "Detailed scoring in RFP; not available in accessed listing" },
+        { "criterion": "Key personnel qualifications & experience", "maxMarks": null, "subCriteria": [], "notes": null },
+        { "criterion": "Approach & methodology", "maxMarks": null, "subCriteria": [], "notes": null }
+      ],
+      "sourceType": "live-tender",
+      "sourceDocument": "AAI PMC RFP — New Integrated Terminal Building, Srinagar Airport (2026); metadata via aggregator listing, full RFP on etenders.gov.in"
+    },
+    {
+      "id": "aviation-007",
+      "title": "Project Management Consultancy Services for Development of Greenfield Airport at Great Nicobar Island (GNI), Andaman & Nicobar Islands",
+      "issuingAuthority": "Airports Authority of India (AAI), Corporate HQ (Engineering-Civil)",
+      "tenderRef": "ET-2025-AAI-251685-2",
+      "url": "https://www.publicservicesmap.in/tenders/project-management-consultancy-services-for-deve--et-2025-aai-251685-2",
+      "datePublished": "2025-01-01",
+      "estimatedValueINR": 85730000000,
+      "estimatedValueLabel": "Underlying project value ~₹8,573 Cr (PMC fee — percentage form of contract)",
+      "scopeSummary": "Project Management Consultancy for the development of a greenfield airport at Great Nicobar Island. Very large, long-duration assignment (period of work ~4050 days) with a percentage-fee form of contract. Two-cover open tender on etenders.gov.in with substantial EMD and specialised aviation-infrastructure pre-qualification requirements.",
+      "consultancyType": "PMC",
+      "eligibility": {
+        "minAnnualTurnoverINR": null,
+        "similarProjectsRequired": "Established PMC firms with airport / large greenfield infrastructure experience per RFP pre-qualification (thresholds in tender document)",
+        "keyPersonnel": ["Team Leader / Project Director", "Airport Planner", "Airside Civil / Runway Engineer", "Structural Engineer", "MEP / Airport Systems Engineer"],
+        "other": ["Open tender on eProcure (etenders.gov.in)", "Percentage-fee form of contract", "Bid validity 180 days"]
+      },
+      "evaluationMethod": "QCBS (ratio per RFP; not confirmed in accessed listing)",
+      "minTechnicalScore": null,
+      "technicalCriteria": [
+        { "criterion": "Firm's PMC experience on airports / large infrastructure", "maxMarks": null, "subCriteria": [], "notes": "Detailed scoring in RFP; not available in accessed listing" },
+        { "criterion": "Key personnel qualifications & experience", "maxMarks": null, "subCriteria": [], "notes": null },
+        { "criterion": "Approach & methodology", "maxMarks": null, "subCriteria": [], "notes": null }
+      ],
+      "sourceType": "live-tender",
+      "sourceDocument": "AAI PMC RFP — Greenfield Airport at Great Nicobar Island (2025); metadata via aggregator listing, full RFP on etenders.gov.in"
+    },
+    {
+      "id": "aviation-008",
+      "title": "Appointment of Consulting Firm for Establishment of FFS (Full Flight Simulator) and TRTO Facility — Strategy, Procurement & Program Management Support at AAI Airports",
+      "issuingAuthority": "Airports Authority of India (AAI)",
+      "tenderRef": null,
+      "url": "https://www.skillcouncils.com/tender-details.php?jid=1912",
+      "datePublished": "2026-01-01",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "Consultancy fee to be quoted",
+      "scopeSummary": "Transaction-advisory / strategy consultancy providing end-to-end advisory and documentation support to AAI for establishment, procurement, installation, commissioning and O&M planning of Full Flight Simulator (FFS) and Type Rating Training Organisation (TRTO) facilities. Structured in two phases: Phase 1 project strategy & configuration and Phase 2 program-management support. Selection is QCBS 80:20.",
+      "consultancyType": "Transaction Advisory",
+      "eligibility": {
+        "minAnnualTurnoverINR": 3000000000,
+        "similarProjectsRequired": "At least 5 projects in project structuring / commercial & financial advisory / sector study / strategy in the aviation sector in last 7 years; plus ≥1 business-case / strategic-roadmap / transaction-advisory engagement for a central/state government aviation training institute in last 7 years",
+        "keyPersonnel": ["Team Leader / Engagement Lead", "Aviation Sector / Strategy Expert", "Financial / Commercial Advisor", "Procurement Specialist", "Program Manager"],
+        "other": ["Registered legal entity in India, ≥10 years in existence", "Minimum average annual turnover ₹300 Cr (FY24-25, 23-24, 22-23) from consultancy, CA-certified", "Positive net worth", "Foreign firms and consortium/JV not permitted"]
+      },
+      "evaluationMethod": "QCBS 80:20",
+      "minTechnicalScore": null,
+      "technicalCriteria": [
+        { "criterion": "Firm's aviation-sector advisory / strategy experience", "maxMarks": null, "subCriteria": ["≥5 aviation project-structuring/advisory assignments in 7 yrs", "Govt aviation training-institute engagement"], "notes": "Weights per RFP" },
+        { "criterion": "Key personnel qualifications & experience", "maxMarks": null, "subCriteria": [], "notes": null },
+        { "criterion": "Approach & methodology", "maxMarks": null, "subCriteria": [], "notes": null }
+      ],
+      "sourceType": "live-tender",
+      "sourceDocument": "AAI RFP — Consulting firm for FFS & TRTO facility (2026); metadata via aggregator listing"
+    },
+    {
+      "id": "aviation-009",
+      "title": "Obstruction (OLS) Survey and Allied Survey Works including Positioning of Survey Team at Cochin International Airport",
+      "issuingAuthority": "Cochin International Airport Ltd (CIAL)",
+      "tenderRef": "CIAL/OPS/TENDER/2023/2",
+      "url": "https://www.cial.aero/Tender-Details?TdId=150",
+      "datePublished": "2023-08-16",
+      "estimatedValueINR": null,
+      "estimatedValueLabel": "Survey services fee to be quoted",
+      "scopeSummary": "Aeronautical survey including OLS survey for Runway 09/27 at Cochin International Airport (with 1st and 2nd bi-annual surveys, plus validation/verification by AAI as per the AAI Aeronautical Survey Manual), 8 km topographic survey for fire & safety, and deployment of a survey team for aerodrome safeguarding (obstacle control & monitoring within 30 NM) over 6 years using GNSS/Total Station. This is a specialised surveyor procurement rather than a QCBS advisory selection.",
+      "consultancyType": "Other",
+      "eligibility": {
+        "minAnnualTurnoverINR": null,
+        "similarProjectsRequired": "Executed similar OLS survey work at reputed airports (AAI/private) ≥₹50 lakh in last 5 years; completed OLS survey at 3 different airports in last years",
+        "keyPersonnel": ["Survey team (2 competent members) experienced in aerodrome safeguarding, GNSS/Total Station"],
+        "other": ["Must be a survey firm empanelled by AAI for aeronautical survey (per AAI GIS Circular 03/2021 dt. 10.12.2021)", "Work completion certificates required"]
+      },
+      "evaluationMethod": "Other",
+      "minTechnicalScore": null,
+      "technicalCriteria": [
+        { "criterion": "AAI empanelment for aeronautical survey (GIS Circular 03/2021)", "maxMarks": null, "subCriteria": [], "notes": "Mandatory eligibility gate" },
+        { "criterion": "Similar OLS survey experience (value & number of airports)", "maxMarks": null, "subCriteria": ["≥₹50 lakh similar work in 5 yrs", "OLS at 3 different airports"], "notes": null },
+        { "criterion": "Survey equipment & team competence", "maxMarks": null, "subCriteria": [], "notes": null }
+      ],
+      "sourceType": "archived-tender",
+      "sourceDocument": "CIAL Tender CIAL/OPS/TENDER/2023/2 — OLS & Allied Survey Works, Cochin International Airport (2023)"
+    },
+    {
+      "id": "aviation-010",
+      "title": "Architectural and Engineering Consultancy Services for Development of New Integrated Civil Enclave at Agra Airport",
+      "issuingAuthority": "Airports Authority of India (AAI)",
+      "tenderRef": "2023_AAI_169423_1",
+      "url": "https://www.tendersontime.com/india/details/architectural-and-engineering-consultancy-services-development-new-integrated-civil-enclave-agra-air-560a5dd/",
+      "datePublished": "2023-10-01",
+      "estimatedValueINR": 107800000,
+      "estimatedValueLabel": "₹10.78 Cr (tender value)",
+      "scopeSummary": "Architectural and engineering (design) consultancy for development of a new integrated civil enclave (terminal) at Agra Airport, self-financed by AAI. Scope typically covers concept & detailed architectural design, structural/MEP engineering, drawings, BoQ and construction-stage design support for the terminal building. Selection via AAI's standard consultancy procurement on eProcure.",
+      "consultancyType": "Design Review",
+      "eligibility": {
+        "minAnnualTurnoverINR": null,
+        "similarProjectsRequired": "Similar architectural/engineering design consultancy for terminal / large public buildings per RFP pre-qualification",
+        "keyPersonnel": ["Lead Architect", "Structural Engineer", "MEP Engineer", "Airport Terminal Design Specialist"],
+        "other": ["Open tender on eProcure (etenders.gov.in)", "Self-financed by AAI"]
+      },
+      "evaluationMethod": "QCBS (ratio per RFP; not confirmed in accessed listing)",
+      "minTechnicalScore": null,
+      "technicalCriteria": [
+        { "criterion": "Firm's architectural/engineering design experience (terminals/airports)", "maxMarks": null, "subCriteria": [], "notes": "Detailed scoring in RFP; not available in accessed listing" },
+        { "criterion": "Key personnel qualifications & experience", "maxMarks": null, "subCriteria": [], "notes": null },
+        { "criterion": "Approach & methodology / design concept", "maxMarks": null, "subCriteria": [], "notes": null }
+      ],
+      "sourceType": "archived-tender",
+      "sourceDocument": "AAI Tender 2023_AAI_169423_1 — A&E Consultancy for New Integrated Civil Enclave, Agra Airport (2023); metadata via aggregator listing"
+    }
+  ],
+  "evaluationFramework": {
+    "summary": "Consultant selection for Indian airport & civil-aviation projects is done almost entirely through Quality & Cost Based Selection (QCBS) under GFR 2017 Rule 192 and the MoF Manual for Procurement of Consultancy Services (2022). Unlike the highly standardised road sector (uniform 80:20 + INFRACON), aviation shows a spread of technical:financial ratios: greenfield feasibility (TEFR/DTER) and strategy/transaction-advisory RFPs from TIDCO and AAI use 80:20 with a minimum technical score of 70/100, APADCL greenfield-airport TEFR RFPs use 70:30 with a 60/100 minimum, and multi-scope survey/EIA assignments (e.g. water aerodromes) use 60:40 with a 60% threshold. Financial bids of firms below the minimum technical score are returned unopened; the highest technical scorer is normalised to 100 and others pro-rated.\n\nTechnical scoring is dominated by two blocks: the firm's airport-consultancy track record and the qualifications of named key personnel, which together typically account for 60-80% of marks. A distinctive feature of aviation is that experience is measured by airport scale — passenger throughput (e.g. a qualifying project of 10+ million passengers per annum, additional airports of 5+ MPPA) and/or underlying project value (₹500 Cr / ₹750 Cr / ₹1000 Cr / ₹1500 Cr bands) — rather than the kilometre-based metrics used for roads. Transaction-advisory / PPP experience for transport infrastructure is scored as a separate sub-block because most greenfield airports are delivered on a PPP/DBFOT basis and the consultant must also run bid-process management. Approach, methodology and a formal technical presentation carry a meaningful 20-25 marks (larger than roads' typical 5).\n\nKey-personnel scoring is CV-based against airport-specific roles: Team Leader/Project Director (20 yrs, must have led at least one large airport assignment ≥₹1000 Cr), Airport Sector Expert, Airport Planner (master planning), PPP/Transaction Advisory Expert, Financial Specialist (airport financial model), Environmental Expert (EIA with EC from MoEF&CC, often NABET-accredited), and Social/R&R Expert. Eligibility gates are financial (average annual turnover from consultancy ranging ₹100 Cr for greenfield TEFR up to ₹300-500 Cr for AAI advisory/large PMC) and experiential (typically ≥5 years of aviation consultancy and 2+ similar airport assignments). Specialised assignments add discipline gates: OLS/aeronautical surveys require AAI empanelment (GIS Circular 03/2021) and ICAO Annex 14 / DGCA CAR compliance; EIA requires a NABET/MoEF&CC-accredited consultant. There is no single mandatory personnel-registration portal equivalent to roads' INFRACON.",
+    "dominantMethod": "QCBS (80:20 for greenfield feasibility & advisory; 70:30 and 60:40 also common)",
+    "typicalMinTechnicalScore": 70,
+    "criteria": [
+      {
+        "id": "firm-airport-experience",
+        "label": "Firm's Airport Consultancy Experience",
+        "typicalWeightPct": 28,
+        "description": "Track record of airport consultancy — TEFR/DTER/DPR, master planning, detailed design and technical services — over the last 7-15 years. Uniquely to aviation, credit is driven by airport SCALE: passenger capacity of the served airport (a qualifying project of 10+ MPPA scores highest, additional airports of 5+ MPPA add marks) and/or underlying project value bands (₹500 Cr, ₹750 Cr, ₹1000 Cr, ₹1500 Cr). A separate credit is given for having done at least one greenfield airport.",
+        "scoringGuidance": [
+          { "level": "Excellent (90-100%)", "meaning": "Multiple airport assignments including at least one large (≥10 MPPA or ≥₹1500 Cr) airport plus additional 5+ MPPA airports, and prior greenfield airport experience" },
+          { "level": "Good (70-89%)", "meaning": "One qualifying large-airport assignment plus one or two additional airport projects of the required value" },
+          { "level": "Fair (50-69%)", "meaning": "Meets the eligibility floor: 1-2 similar airport assignments in the relevant period" },
+          { "level": "Poor (<50%)", "meaning": "Below floor — no qualifying airport assignment or only sub-scale / non-airport transport work" }
+        ],
+        "inputFields": [
+          { "key": "airportAssignmentsCount", "label": "Number of airport consultancy assignments (TEFR/DPR/master plan) completed in last 10-15 years", "type": "number", "options": [], "scoring": "1 = Fair, 2 = Good, 3+ = Excellent (eligibility usually needs ≥2 similar aviation projects)" },
+          { "key": "largestAirportCapacityMPPA", "label": "Largest airport served by capacity (million passengers per annum, MPPA)", "type": "select", "options": ["10+ MPPA", "5-10 MPPA", "2.5-5 MPPA", "< 2.5 MPPA / none"], "scoring": "10+ MPPA = full qualifying marks (e.g. 15); 5+ MPPA additional airports add ~5 each" },
+          { "key": "highestAirportProjectValueINR", "label": "Highest underlying airport project value you have consulted on (₹)", "type": "select", "options": ["≥₹1500 Cr", "₹1000-1500 Cr", "₹750-1000 Cr", "₹500-750 Cr", "< ₹500 Cr"], "scoring": "Scored against ₹1500/₹1000/₹750/₹500 Cr bands per the specific RFP" },
+          { "key": "greenfieldAirportExperience", "label": "Have you completed consultancy for at least one greenfield airport?", "type": "boolean", "options": [], "scoring": "Explicit standalone credit (e.g. 5 marks in APADCL RFPs)" }
+        ]
+      },
+      {
+        "id": "ppp-transaction-advisory",
+        "label": "PPP / Transaction Advisory Experience",
+        "typicalWeightPct": 10,
+        "description": "Experience providing transaction advisory / bid-process management for transport infrastructure (airport, port, rail, road, metro) delivered on PPP basis to government or PSU clients. Scored separately because greenfield airports are usually developed via PPP/DBFOT concessions and the feasibility consultant runs the developer-selection bid process.",
+        "scoringGuidance": [
+          { "level": "Excellent (90-100%)", "meaning": "Multiple PPP transaction-advisory mandates including one ≥₹1000 Cr transport-infra project (ideally an airport) plus additional ≥₹250-500 Cr projects" },
+          { "level": "Good (70-89%)", "meaning": "One ≥₹500-1000 Cr transaction-advisory mandate plus one additional qualifying project" },
+          { "level": "Fair (50-69%)", "meaning": "One qualifying PPP transaction-advisory assignment ≥₹500 Cr" },
+          { "level": "Poor (<50%)", "meaning": "No PPP/transaction-advisory experience for transport infrastructure" }
+        ],
+        "inputFields": [
+          { "key": "pppAdvisoryAssignmentsCount", "label": "Number of PPP transaction-advisory assignments for transport infrastructure (Government/PSU)", "type": "number", "options": [], "scoring": "First qualifying project = base marks; each additional ≥₹250-500 Cr project adds 2.5 marks (max per RFP)" },
+          { "key": "largestPppAdvisoryValueINR", "label": "Largest transport-infra PPP project value advised (₹)", "type": "select", "options": ["≥₹3000 Cr", "₹1000-3000 Cr", "₹500-1000 Cr", "< ₹500 Cr / none"], "scoring": "APADCL also gives a discrete credit for completing a ≥₹3000 Cr PPP transport project" },
+          { "key": "airportPppExperience", "label": "Was any transaction-advisory mandate for an airport specifically?", "type": "boolean", "options": [], "scoring": "Airport-specific PPP advisory scores higher than generic transport-infra advisory" }
+        ]
+      },
+      {
+        "id": "approach-methodology-presentation",
+        "label": "Approach, Methodology, Work Plan & Presentation",
+        "typicalWeightPct": 22,
+        "description": "Quality of the technical approach, work plan and (in most aviation RFPs) a formal technical presentation to the evaluation committee / MoCA / AAI. Aviation gives this a larger share (20-25 marks, sometimes split 20 methodology + 20 presentation) than the road sector, reflecting the multi-disciplinary nature (traffic forecasting, master planning, financial modelling, clearances).",
+        "scoringGuidance": [
+          { "level": "Excellent (90-100%)", "meaning": "Strong site/market appreciation, realistic phased methodology across TEFR + surveys + EIA + bid management, clear work plan and staffing, compelling presentation" },
+          { "level": "Good (70-89%)", "meaning": "Sound methodology and work plan with a competent presentation; minor gaps" },
+          { "level": "Fair (50-69%)", "meaning": "Generic methodology largely restating the ToR; weak presentation" },
+          { "level": "Poor (<50%)", "meaning": "Boilerplate approach, poor grasp of aviation-specific tasks" }
+        ],
+        "inputFields": [
+          { "key": "methodologyQuality", "label": "Self-assessed quality of your approach & methodology", "type": "select", "options": ["Excellent", "Good", "Fair", "Poor"], "scoring": "Maps to guidance; typically ~20 marks" },
+          { "key": "presentationReady", "label": "Can you deliver a technical presentation to the committee (MoCA/AAI) on approach & methodology?", "type": "boolean", "options": [], "scoring": "Presentation is a separately scored block (5-20 marks) in most aviation RFPs" }
+        ]
+      },
+      {
+        "id": "key-personnel",
+        "label": "Qualifications & Competence of Key Personnel",
+        "typicalWeightPct": 45,
+        "description": "The largest scoring block (25-55 marks). Each named expert's CV is scored on qualification and airport-specific experience (measured again by airport scale / project value). Core aviation roles: Team Leader/Project Director (~20 yrs, must have led ≥1 airport project, often ≥₹1000 Cr), Airport Sector Expert, Airport Planner (master planning), PPP/Contract Expert, Financial Specialist (airport financial model), Environmental Expert (EIA with EC from MoEF&CC), and Social/R&R Expert. Outsourced personnel or those with <2 years' tenure may receive only ~75% of CV marks; the Team Leader must be from the lead member of a consortium.",
+        "scoringGuidance": [
+          { "level": "Excellent (90-100%)", "meaning": "All core roles filled by experts with strong airport-specific experience; Team Leader has led a large (≥₹1000 Cr / 10+ MPPA) airport assignment; Airport Planner has multiple airport master plans" },
+          { "level": "Good (70-89%)", "meaning": "All required positions filled and qualified; most experts have at least one qualifying airport project" },
+          { "level": "Fair (50-69%)", "meaning": "Team meets minimum qualifications but several experts light on airport-specific projects" },
+          { "level": "Poor (<50%)", "meaning": "One or more core positions unfilled/under-qualified or Team Leader lacks a qualifying airport assignment" }
+        ],
+        "inputFields": [
+          { "key": "teamLeaderAirportProjectsLed", "label": "Team Leader / Project Director — number of airport projects led (≥₹1000 Cr or 10+ MPPA)", "type": "number", "options": [], "scoring": "Qualifying airport project = base marks (e.g. 3-8); each additional airport adds ~1 mark" },
+          { "key": "teamLeaderTotalExperienceYears", "label": "Team Leader — total professional experience (years)", "type": "number", "options": [], "scoring": "≥20 yrs typically required for eligibility" },
+          { "key": "airportPlannerMasterPlans", "label": "Airport Planner — number of airport master plans prepared", "type": "number", "options": [], "scoring": "1 master plan = qualifying; additional master plans add ~1 mark each (max per RFP)" },
+          { "key": "coreRolesFilledCount", "label": "Number of core airport roles you can staff with qualified CVs (of ~7: TL, Airport Sector Expert, Airport Planner, PPP/Contract Expert, Financial Specialist, Environmental Expert, Social Expert)", "type": "number", "options": [], "scoring": "Full team = full marks; each unfilled/under-qualified core role loses that CV's marks" },
+          { "key": "environmentalExpertEIA", "label": "Environmental Expert has completed EIA of a project ≥₹200-250 Cr and obtained EC from MoEF&CC?", "type": "boolean", "options": [], "scoring": "Qualifying EIA project = ~2 marks; extras add up to max" },
+          { "key": "keyExpertsAvgTenureWithFirm", "label": "Average tenure of proposed key experts with your firm", "type": "select", "options": ["> 2 years (in-house)", "1-2 years", "< 1 year / outsourced"], "scoring": "Outsourced or <2 yr tenure personnel scored at ~75% of CV marks (e.g. APADCL water aerodromes)" }
+        ]
+      },
+      {
+        "id": "financial-eligibility",
+        "label": "Financial Turnover & Eligibility (Gate)",
+        "typicalWeightPct": 5,
+        "description": "Primarily an eligibility gate: minimum average annual turnover from consultancy, plus positive net worth and years in existence. Aviation thresholds are high and vary widely by assignment scale — around ₹100 Cr for greenfield TEFR/DTER (TIDCO), and ₹300-500 Cr for large AAI advisory/PMC assignments. Some RFPs also require the complete core team to be available at bid stage.",
+        "scoringGuidance": [
+          { "level": "Excellent (90-100%)", "meaning": "Average annual consultancy turnover comfortably exceeds the RFP threshold (e.g. > ₹500 Cr) with strong positive net worth" },
+          { "level": "Good (70-89%)", "meaning": "Turnover clears the threshold with reasonable margin" },
+          { "level": "Fair (50-69%)", "meaning": "Turnover just meets the threshold (e.g. exactly ₹100 Cr)" },
+          { "level": "Poor (<50%)", "meaning": "Turnover below the RFP threshold — ineligible" }
+        ],
+        "inputFields": [
+          { "key": "avgAnnualTurnoverINR", "label": "Average annual turnover from consultancy business (last 3 FY, ₹)", "type": "number", "options": [], "scoring": "Must meet RFP floor: ~₹100 Cr (greenfield TEFR) up to ₹300-500 Cr (AAI advisory/large PMC)" },
+          { "key": "positiveNetWorth", "label": "Does the firm have positive net worth (audited)?", "type": "boolean", "options": [], "scoring": "Positive net worth is a common mandatory condition" },
+          { "key": "yearsInExistence", "label": "Number of years the firm has been in existence", "type": "number", "options": [], "scoring": "Some AAI advisory RFPs require ≥10 years; ≥5 years of aviation consultancy is common" },
+          { "key": "aviationConsultancyYears", "label": "Years of aviation-sector consultancy experience (esp. to government)", "type": "number", "options": [], "scoring": "≥5 years typically required as an eligibility gate" }
+        ]
+      },
+      {
+        "id": "specialized-technical-capability",
+        "label": "Specialised Survey / EIA / Aeronautical Capability",
+        "typicalWeightPct": 10,
+        "description": "For feasibility, survey and EIA assignments, discipline-specific capability and accreditations: Obstacle Limitation Surface (OLS) / aeronautical surveys per ICAO Annex 14 & DGCA CAR (surveyors must be AAI-empanelled under GIS Circular 03/2021), hydrographic/bathymetric and geotechnical survey capability (water aerodromes), and EIA through a NABET / MoEF&CC-accredited consultant capable of obtaining Environmental Clearance. Applies mainly to feasibility/survey RFPs rather than pure advisory/PMC.",
+        "scoringGuidance": [
+          { "level": "Excellent (90-100%)", "meaning": "AAI-empanelled for aeronautical survey, in-house ICAO Annex 14 OLS capability, NABET-accredited EIA, and hydrographic/geotechnical survey capability with multiple prior projects" },
+          { "level": "Good (70-89%)", "meaning": "Holds the key accreditations and has 2-3 relevant survey/EIA projects" },
+          { "level": "Fair (50-69%)", "meaning": "Meets minimum accreditation but limited prior projects, or relies on associates" },
+          { "level": "Poor (<50%)", "meaning": "Lacks required accreditation (AAI empanelment / NABET) — ineligible for the relevant task" }
+        ],
+        "inputFields": [
+          { "key": "aaiSurveyEmpanelment", "label": "Are you AAI-empanelled for aeronautical/OLS survey (GIS Circular 03/2021)?", "type": "boolean", "options": [], "scoring": "Mandatory gate for OLS/aeronautical-survey scope" },
+          { "key": "olsSurveyProjects", "label": "Number of OLS / aeronautical surveys completed (ICAO Annex 14 / DGCA CAR)", "type": "number", "options": [], "scoring": "Some tenders require OLS at ≥3 different airports and ≥₹50 lakh similar work" },
+          { "key": "nabetEIAAccredited", "label": "Do you have (or partner with) a NABET / MoEF&CC-accredited EIA consultant?", "type": "boolean", "options": [], "scoring": "Mandatory for EIA scope; EIA up to EC scores higher than EIA report only" },
+          { "key": "hydrographicSurveyCapability", "label": "In-house hydrographic/bathymetric & geotechnical survey capability?", "type": "select", "options": ["In-house", "Via associate", "Not available"], "scoring": "Relevant to water-aerodrome / seaplane assignments; associate/outsourced may be scored lower" }
+        ]
+      }
+    ],
+    "keyPolicies": [
+      { "name": "Manual for Procurement of Consultancy & Other Services (MoF, Dept. of Expenditure, updated June 2022)", "url": "https://doe.gov.in/files/manuals_documents/Manual_for_Procurement_of_Consultancy_&_Other_Services_Updated%20June,%202022_1.pdf", "relevance": "Umbrella policy under GFR 2017 defining consultant selection systems (QCBS, LCS, SSS, QBS, FBS) that aviation RFPs implement; GFR Rule 192 caps technical weightage at 80%." },
+      { "name": "MoCA — Guidelines for Setting up of Greenfield Airports", "url": "http://civilaviation.gov.in/sites/default/files/2025-11/guidelines-for-setting-up-of-greenfield-airports_0.pdf", "relevance": "Defines the greenfield airport approval process (Steering Committee, site clearance, TEFR requirement, PPP delivery with Viability Gap Funding) that every airport feasibility/TEFR consultancy must comply with." },
+      { "name": "ICAO Annex 14 & DGCA CAR Section 4 (Aerodrome Design & Operations) / AAI Aeronautical Survey Manual", "url": "https://www.aai.aero", "relevance": "Technical standards governing Obstacle Limitation Surfaces (OLS), aeronautical surveys and aerodrome safeguarding; AAI GIS Circular 03/2021 empanelment is a gate for OLS/aeronautical survey consultants." },
+      { "name": "MoEF&CC EIA Notification 2006 / NABET accreditation", "url": "https://parivesh.nic.in", "relevance": "Airports/aerodromes require Environmental Clearance; EIA must be prepared by a NABET/MoEF&CC-accredited consultant, a scored/gating criterion in feasibility and EIA RFPs." }
+    ]
+  }
+}
