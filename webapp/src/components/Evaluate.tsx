@@ -3,7 +3,7 @@ import type { SectorData, SectorMeta } from '../types'
 import type { Assessments } from '../lib/scoring'
 import { evaluate, levelPct, parseMethodWeights } from '../lib/scoring'
 
-const METHODS = ['QCBS 80:20', 'QCBS 70:30', 'QCBS 90:10', 'QBS', 'LCS']
+const METHODS = ['QCBS 80:20', 'QCBS 70:30', 'QCBS 60:20', 'QCBS 90:10', 'QBS', 'LCS']
 
 /** Map a free-text dominant method (e.g. "QCBS 70:30 (domestic) / 80:20 (funded)") onto a dropdown option. */
 function normalizeMethod(method: string): string {

@@ -4,6 +4,11 @@
   "generatedAt": "2026-07-18",
   "sources": [
     {
+      "name": "NHAI Policy Circular No. 11.99 (17.07.2026) — Section VII Evaluation/Scoring Criteria",
+      "url": "https://nhai.gov.in",
+      "type": "policy-document"
+    },
+    {
       "name": "NHAI Tenders / RFP repository",
       "url": "https://nhai.gov.in",
       "type": "authority-website"
@@ -54,16 +59,60 @@
       "eligibility": {
         "minAnnualTurnoverINR": 50000000,
         "similarProjectsRequired": "Experience as IE/AE/Supervision Consultant on 2 construction projects of 4/6-laning of 30% of project length each, or one project of 50% of project length, in last 7 years; plus O&M/DPR experience per data sheet",
-        "keyPersonnel": ["Team Leader cum Highway Engineer", "Highway Maintenance-cum-Resident Engineer", "Bridge/Structural Engineer", "Road Safety Expert"],
-        "other": ["Mandatory INFRACON registration of firm and all key personnel", "No debarment/penalty by MoRTH or agencies in last 2 years", "Uploading of modules per MoRTH Circular RW-NH-35075/1/2010-S&R on infracon.nic.in"]
+        "keyPersonnel": [
+          "Team Leader cum Highway Engineer",
+          "Highway Maintenance-cum-Resident Engineer",
+          "Bridge/Structural Engineer",
+          "Road Safety Expert"
+        ],
+        "other": [
+          "Mandatory INFRACON registration of firm and all key personnel",
+          "No debarment/penalty by MoRTH or agencies in last 2 years",
+          "Uploading of modules per MoRTH Circular RW-NH-35075/1/2010-S&R on infracon.nic.in"
+        ]
       },
       "evaluationMethod": "QCBS 80:20",
       "minTechnicalScore": 75,
       "technicalCriteria": [
-        { "criterion": "Relevant experience for the assignment", "maxMarks": 35, "subCriteria": ["Experience as IE/AE/Supervision Consultant", "Experience in DPR/feasibility of 4/6-laning", "O&M experience under DBFOT/OMT", "Average annual turnover (banded at ₹10 / ₹30 / ₹60 Cr)"], "notes": "Turnover floor ₹5 Cr from consultancy business" },
-        { "criterion": "Quality of approach and methodology", "maxMarks": 5, "subCriteria": [], "notes": null },
-        { "criterion": "Experience in use of technology for road inspection", "maxMarks": 20, "subCriteria": ["Network Survey Vehicle", "Falling Weight Deflectometer", "Mobile Bridge Inspection Unit", "Retro-Reflectometer"], "notes": null },
-        { "criterion": "Qualifications and competence of key staff", "maxMarks": 40, "subCriteria": ["Team Leader (CV must score >=75% or proposal fails)", "Highway Maintenance-cum-Resident Engineer", "Bridge/Structural Engineer", "Road Safety Expert"], "notes": null }
+        {
+          "criterion": "Relevant experience for the assignment",
+          "maxMarks": 35,
+          "subCriteria": [
+            "Experience as IE/AE/Supervision Consultant",
+            "Experience in DPR/feasibility of 4/6-laning",
+            "O&M experience under DBFOT/OMT",
+            "Average annual turnover (banded at ₹10 / ₹30 / ₹60 Cr)"
+          ],
+          "notes": "Turnover floor ₹5 Cr from consultancy business"
+        },
+        {
+          "criterion": "Quality of approach and methodology",
+          "maxMarks": 5,
+          "subCriteria": [],
+          "notes": null
+        },
+        {
+          "criterion": "Experience in use of technology for road inspection",
+          "maxMarks": 20,
+          "subCriteria": [
+            "Network Survey Vehicle",
+            "Falling Weight Deflectometer",
+            "Mobile Bridge Inspection Unit",
+            "Retro-Reflectometer"
+          ],
+          "notes": null
+        },
+        {
+          "criterion": "Qualifications and competence of key staff",
+          "maxMarks": 40,
+          "subCriteria": [
+            "Team Leader (CV must score >=75% or proposal fails)",
+            "Highway Maintenance-cum-Resident Engineer",
+            "Bridge/Structural Engineer",
+            "Road Safety Expert"
+          ],
+          "notes": null
+        }
       ],
       "sourceType": "live-tender",
       "sourceDocument": "NHAI RFP for IE during O&M — NH-352A Jind-Gohana-Sonepat (RFP_775, Jan 2026)"
@@ -82,16 +131,54 @@
       "eligibility": {
         "minAnnualTurnoverINR": 50000000,
         "similarProjectsRequired": "IE/AE/Supervision on at least two 4/6-laning projects of 30% length each or one of 50% length, plus one O&M project under DBFOT/OMT of 50% length, in last 7 years",
-        "keyPersonnel": ["Team Leader cum Highway Engineer", "Highway Maintenance-cum-Resident Engineer", "Bridge/Structural Engineer", "Road Safety Expert"],
-        "other": ["Mandatory INFRACON registration", "Lead JV partner >=75% and JV partner >=40% of eligibility", "Enhancement factor (~10%/yr) applied to older turnover/experience"]
+        "keyPersonnel": [
+          "Team Leader cum Highway Engineer",
+          "Highway Maintenance-cum-Resident Engineer",
+          "Bridge/Structural Engineer",
+          "Road Safety Expert"
+        ],
+        "other": [
+          "Mandatory INFRACON registration",
+          "Lead JV partner >=75% and JV partner >=40% of eligibility",
+          "Enhancement factor (~10%/yr) applied to older turnover/experience"
+        ]
       },
       "evaluationMethod": "QCBS 80:20",
       "minTechnicalScore": 75,
       "technicalCriteria": [
-        { "criterion": "Relevant experience for the assignment", "maxMarks": 35, "subCriteria": ["Average annual turnover (>50 Cr = 2, 20–50 Cr = 1.5, 10–20 Cr = 1, 5–10 Cr = 0.5 marks)", "In-hand DPRs for NHAI projects", "Experience as IE/AE/Supervision Consultant on 4/6-laning"], "notes": null },
-        { "criterion": "Quality of approach and methodology", "maxMarks": 5, "subCriteria": [], "notes": null },
-        { "criterion": "Experience in use of technology for road inspection", "maxMarks": 20, "subCriteria": [], "notes": null },
-        { "criterion": "Qualifications and competence of key staff", "maxMarks": 40, "subCriteria": ["Team Leader — weight 19", "Highway Maintenance-cum-Resident Engineer — weight 12", "Road Safety Expert — weight 5", "Bridge/Structural Engineer — weight 4"], "notes": "Team Leader CV must score >=75% or proposal fails" }
+        {
+          "criterion": "Relevant experience for the assignment",
+          "maxMarks": 35,
+          "subCriteria": [
+            "Average annual turnover (>50 Cr = 2, 20–50 Cr = 1.5, 10–20 Cr = 1, 5–10 Cr = 0.5 marks)",
+            "In-hand DPRs for NHAI projects",
+            "Experience as IE/AE/Supervision Consultant on 4/6-laning"
+          ],
+          "notes": null
+        },
+        {
+          "criterion": "Quality of approach and methodology",
+          "maxMarks": 5,
+          "subCriteria": [],
+          "notes": null
+        },
+        {
+          "criterion": "Experience in use of technology for road inspection",
+          "maxMarks": 20,
+          "subCriteria": [],
+          "notes": null
+        },
+        {
+          "criterion": "Qualifications and competence of key staff",
+          "maxMarks": 40,
+          "subCriteria": [
+            "Team Leader — weight 19",
+            "Highway Maintenance-cum-Resident Engineer — weight 12",
+            "Road Safety Expert — weight 5",
+            "Bridge/Structural Engineer — weight 4"
+          ],
+          "notes": "Team Leader CV must score >=75% or proposal fails"
+        }
       ],
       "sourceType": "archived-tender",
       "sourceDocument": "NHAI RFP for IE during O&M Period — NH-44 Hyderabad-Bangalore (Sept 2018)"
@@ -110,16 +197,43 @@
       "eligibility": {
         "minAnnualTurnoverINR": 50000000,
         "similarProjectsRequired": "Supervision/IE/AE experience on 4/6-laning projects in last 7 years per data sheet",
-        "keyPersonnel": ["Team Leader", "Highway/Resident Engineer", "Road Safety Expert"],
-        "other": ["Mandatory INFRACON registration", "If a CV scores <75%, marks carried forward for max 2 key personnel; missing essential qualification = zero for that CV"]
+        "keyPersonnel": [
+          "Team Leader",
+          "Highway/Resident Engineer",
+          "Road Safety Expert"
+        ],
+        "other": [
+          "Mandatory INFRACON registration",
+          "If a CV scores <75%, marks carried forward for max 2 key personnel; missing essential qualification = zero for that CV"
+        ]
       },
       "evaluationMethod": "QCBS 80:20",
       "minTechnicalScore": 75,
       "technicalCriteria": [
-        { "criterion": "Relevant experience for the assignment", "maxMarks": 35, "subCriteria": [], "notes": null },
-        { "criterion": "Quality of approach and methodology", "maxMarks": 5, "subCriteria": [], "notes": null },
-        { "criterion": "Experience in use of technology for road inspection", "maxMarks": 20, "subCriteria": [], "notes": null },
-        { "criterion": "Qualifications and competence of key staff", "maxMarks": 40, "subCriteria": [], "notes": null }
+        {
+          "criterion": "Relevant experience for the assignment",
+          "maxMarks": 35,
+          "subCriteria": [],
+          "notes": null
+        },
+        {
+          "criterion": "Quality of approach and methodology",
+          "maxMarks": 5,
+          "subCriteria": [],
+          "notes": null
+        },
+        {
+          "criterion": "Experience in use of technology for road inspection",
+          "maxMarks": 20,
+          "subCriteria": [],
+          "notes": null
+        },
+        {
+          "criterion": "Qualifications and competence of key staff",
+          "maxMarks": 40,
+          "subCriteria": [],
+          "notes": null
+        }
       ],
       "sourceType": "archived-tender",
       "sourceDocument": "NHAI RFP — Supervision Consultancy O&M NH-765 Hyderabad-Dindi (Oct 2018)"
@@ -138,16 +252,60 @@
       "eligibility": {
         "minAnnualTurnoverINR": 50000000,
         "similarProjectsRequired": "Experience as IE/AE/Construction Supervision on highway projects of similar category (4/6-laning) in last 7 years; DPR preparation experience also credited",
-        "keyPersonnel": ["Team Leader cum Senior Bridge/Structural Engineer", "Resident-cum-Highway Engineer", "Bridge/Structural Engineer", "Road Safety Expert", "Senior Pavement Specialist", "Highway Design Engineer"],
-        "other": ["Mandatory INFRACON registration", "Associate for road-inspection equipment cannot be common to two bidders", "No conflict of interest with Concessionaire/Contractor"]
+        "keyPersonnel": [
+          "Team Leader cum Senior Bridge/Structural Engineer",
+          "Resident-cum-Highway Engineer",
+          "Bridge/Structural Engineer",
+          "Road Safety Expert",
+          "Senior Pavement Specialist",
+          "Highway Design Engineer"
+        ],
+        "other": [
+          "Mandatory INFRACON registration",
+          "Associate for road-inspection equipment cannot be common to two bidders",
+          "No conflict of interest with Concessionaire/Contractor"
+        ]
       },
       "evaluationMethod": "QCBS 80:20",
       "minTechnicalScore": 75,
       "technicalCriteria": [
-        { "criterion": "Relevant experience for the assignment", "maxMarks": 35, "subCriteria": ["Experience as IE/AE/Construction Supervision on 4/6-laning", "Experience in DPR preparation for 4/6-laning highways"], "notes": null },
-        { "criterion": "Quality of methodology and work plan proposed", "maxMarks": 5, "subCriteria": ["Site appreciation", "Approach & methodology / initial view on key challenges"], "notes": null },
-        { "criterion": "Experience in use of technology for road inspection", "maxMarks": 20, "subCriteria": ["Mobile Bridge Inspection Unit", "FWD / NSV / Retro-Reflectometer"], "notes": null },
-        { "criterion": "Qualifications and competence of key staff", "maxMarks": 40, "subCriteria": ["Team Leader cum Senior Bridge/Structural Engineer", "Resident-cum-Highway Engineer", "Bridge/Structural Engineer"], "notes": "Team Leader CV must score >=75% or proposal fails" }
+        {
+          "criterion": "Relevant experience for the assignment",
+          "maxMarks": 35,
+          "subCriteria": [
+            "Experience as IE/AE/Construction Supervision on 4/6-laning",
+            "Experience in DPR preparation for 4/6-laning highways"
+          ],
+          "notes": null
+        },
+        {
+          "criterion": "Quality of methodology and work plan proposed",
+          "maxMarks": 5,
+          "subCriteria": [
+            "Site appreciation",
+            "Approach & methodology / initial view on key challenges"
+          ],
+          "notes": null
+        },
+        {
+          "criterion": "Experience in use of technology for road inspection",
+          "maxMarks": 20,
+          "subCriteria": [
+            "Mobile Bridge Inspection Unit",
+            "FWD / NSV / Retro-Reflectometer"
+          ],
+          "notes": null
+        },
+        {
+          "criterion": "Qualifications and competence of key staff",
+          "maxMarks": 40,
+          "subCriteria": [
+            "Team Leader cum Senior Bridge/Structural Engineer",
+            "Resident-cum-Highway Engineer",
+            "Bridge/Structural Engineer"
+          ],
+          "notes": "Team Leader CV must score >=75% or proposal fails"
+        }
       ],
       "sourceType": "archived-tender",
       "sourceDocument": "NHAI RFP for IE — Six-laning NH-248A Gurugram (May-June 2018)"
@@ -166,16 +324,67 @@
       "eligibility": {
         "minAnnualTurnoverINR": 50000000,
         "similarProjectsRequired": "DPR/feasibility of 2/4/6-lane projects aggregating >= package length, with at least one project of >=40% length, in last 7 years",
-        "keyPersonnel": ["Team Leader-Senior Highway Engineer", "Senior Bridge Engineer", "Highway-cum-Pavement Engineer", "Material-cum-Geotechnical Engineer/Geologist", "Traffic & Safety Expert", "Senior Survey Engineer", "Environment Specialist", "Quantity Surveyor/Documentation Expert"],
-        "other": ["Mandatory INFRACON registration", "Only one CV per position; no alternates", "Missing essential education = zero for that CV"]
+        "keyPersonnel": [
+          "Team Leader-Senior Highway Engineer",
+          "Senior Bridge Engineer",
+          "Highway-cum-Pavement Engineer",
+          "Material-cum-Geotechnical Engineer/Geologist",
+          "Traffic & Safety Expert",
+          "Senior Survey Engineer",
+          "Environment Specialist",
+          "Quantity Surveyor/Documentation Expert"
+        ],
+        "other": [
+          "Mandatory INFRACON registration",
+          "Only one CV per position; no alternates",
+          "Missing essential education = zero for that CV"
+        ]
       },
       "evaluationMethod": "QCBS 80:20",
       "minTechnicalScore": 75,
       "technicalCriteria": [
-        { "criterion": "Firm's relevant experience", "maxMarks": 25, "subCriteria": ["Aggregate DPR/feasibility length", "Number of qualifying DPR projects", "DPR of major bridges", "Turnover"], "notes": null },
-        { "criterion": "Adequacy of approach and methodology", "maxMarks": 5, "subCriteria": [], "notes": null },
-        { "criterion": "Material testing, survey & investigation, equipment and technology", "maxMarks": 20, "subCriteria": ["In-house lab", "LiDAR / GPR / utility detection", "Cadastral map digitisation"], "notes": null },
-        { "criterion": "Qualification and competence of key personnel", "maxMarks": 50, "subCriteria": ["Team Leader (CV >=75% gate)", "Senior Bridge Engineer", "Highway-cum-Pavement Engineer", "Geotech/Geologist", "Traffic & Safety", "Survey", "Environment", "Quantity Surveyor"], "notes": null }
+        {
+          "criterion": "Firm's relevant experience",
+          "maxMarks": 25,
+          "subCriteria": [
+            "Aggregate DPR/feasibility length",
+            "Number of qualifying DPR projects",
+            "DPR of major bridges",
+            "Turnover"
+          ],
+          "notes": null
+        },
+        {
+          "criterion": "Adequacy of approach and methodology",
+          "maxMarks": 5,
+          "subCriteria": [],
+          "notes": null
+        },
+        {
+          "criterion": "Material testing, survey & investigation, equipment and technology",
+          "maxMarks": 20,
+          "subCriteria": [
+            "In-house lab",
+            "LiDAR / GPR / utility detection",
+            "Cadastral map digitisation"
+          ],
+          "notes": null
+        },
+        {
+          "criterion": "Qualification and competence of key personnel",
+          "maxMarks": 50,
+          "subCriteria": [
+            "Team Leader (CV >=75% gate)",
+            "Senior Bridge Engineer",
+            "Highway-cum-Pavement Engineer",
+            "Geotech/Geologist",
+            "Traffic & Safety",
+            "Survey",
+            "Environment",
+            "Quantity Surveyor"
+          ],
+          "notes": null
+        }
       ],
       "sourceType": "archived-tender",
       "sourceDocument": "NHAI RFP for DPR — Improving direct connectivity in Indian cities, Lot-8 (Aug 2018)"
@@ -194,16 +403,70 @@
       "eligibility": {
         "minAnnualTurnoverINR": 50000000,
         "similarProjectsRequired": "DPR of 2/4/6-lane (or feasibility) aggregating >= package length; plus one DPR project of >=40% length (or feasibility of >=60%); private-concessionaire DPR experience not counted",
-        "keyPersonnel": ["Team Leader-Senior Highway Engineer (10)", "Senior Bridge Engineer (7)", "Highway-cum-Pavement Engineer (7)", "Material-cum-Geotechnical Engineer/Geologist (7)", "Traffic & Safety Expert (6)", "Senior Survey Engineer (5)", "Environment Specialist (5)", "Quantity Surveyor/Documentation Expert (3)"],
-        "other": ["Empanelment with MoRTH required", "Role weighting: sole 100%, lead JV 75%, other JV 50%, associate 25%", "Mandatory INFRACON registration"]
+        "keyPersonnel": [
+          "Team Leader-Senior Highway Engineer (10)",
+          "Senior Bridge Engineer (7)",
+          "Highway-cum-Pavement Engineer (7)",
+          "Material-cum-Geotechnical Engineer/Geologist (7)",
+          "Traffic & Safety Expert (6)",
+          "Senior Survey Engineer (5)",
+          "Environment Specialist (5)",
+          "Quantity Surveyor/Documentation Expert (3)"
+        ],
+        "other": [
+          "Empanelment with MoRTH required",
+          "Role weighting: sole 100%, lead JV 75%, other JV 50%, associate 25%",
+          "Mandatory INFRACON registration"
+        ]
       },
       "evaluationMethod": "QCBS 80:20",
       "minTechnicalScore": 75,
       "technicalCriteria": [
-        { "criterion": "Firm's relevant experience (last 7 years)", "maxMarks": 25, "subCriteria": ["Aggregate DPR/FS length (>1x / >2x / >3x package length)", "DPR of 2/4/6-laning projects each >=40% length (1/2/3+ projects)", "DPR of bridges >200 m (1–4+ bridges = 2–5 marks)", "Turnover (>=10 Cr = 5, 5–10 Cr partial, <5 Cr = 0)"], "notes": null },
-        { "criterion": "Adequacy of approach and methodology", "maxMarks": 5, "subCriteria": ["Site appreciation (2)", "Comments on ToR (1)", "Team composition (1)", "Methodology (1)"], "notes": null },
-        { "criterion": "Material testing, survey & investigation, equipment and software", "maxMarks": 20, "subCriteria": ["In-house material testing lab (2)", "Field investigation facilities (3)", "Office equipment & software (3)", "LiDAR/equivalent survey experience (up to 4)", "GPR & induction locator for utility detection (up to 4)", "Cadastral map digitisation (up to 4)"], "notes": null },
-        { "criterion": "Qualification and competence of key personnel", "maxMarks": 50, "subCriteria": ["General qualification 25 (essential 20 + desirable 5)", "Relevant experience & adequacy 65 (per-CV basis)", "Employment with the firm (>2 yrs = 10)"], "notes": "Personnel weights total 50; Team Leader CV must score >=75% or the whole proposal fails" }
+        {
+          "criterion": "Firm's relevant experience (last 7 years)",
+          "maxMarks": 25,
+          "subCriteria": [
+            "Aggregate DPR/FS length (>1x / >2x / >3x package length)",
+            "DPR of 2/4/6-laning projects each >=40% length (1/2/3+ projects)",
+            "DPR of bridges >200 m (1–4+ bridges = 2–5 marks)",
+            "Turnover (>=10 Cr = 5, 5–10 Cr partial, <5 Cr = 0)"
+          ],
+          "notes": null
+        },
+        {
+          "criterion": "Adequacy of approach and methodology",
+          "maxMarks": 5,
+          "subCriteria": [
+            "Site appreciation (2)",
+            "Comments on ToR (1)",
+            "Team composition (1)",
+            "Methodology (1)"
+          ],
+          "notes": null
+        },
+        {
+          "criterion": "Material testing, survey & investigation, equipment and software",
+          "maxMarks": 20,
+          "subCriteria": [
+            "In-house material testing lab (2)",
+            "Field investigation facilities (3)",
+            "Office equipment & software (3)",
+            "LiDAR/equivalent survey experience (up to 4)",
+            "GPR & induction locator for utility detection (up to 4)",
+            "Cadastral map digitisation (up to 4)"
+          ],
+          "notes": null
+        },
+        {
+          "criterion": "Qualification and competence of key personnel",
+          "maxMarks": 50,
+          "subCriteria": [
+            "General qualification 25 (essential 20 + desirable 5)",
+            "Relevant experience & adequacy 65 (per-CV basis)",
+            "Employment with the firm (>2 yrs = 10)"
+          ],
+          "notes": "Personnel weights total 50; Team Leader CV must score >=75% or the whole proposal fails"
+        }
       ],
       "sourceType": "archived-tender",
       "sourceDocument": "MoRTH/Gujarat NH Division RFP for Feasibility+DPR — Lakhpat-Santalpur new NH (2017)"
@@ -222,16 +485,48 @@
       "eligibility": {
         "minAnnualTurnoverINR": 50000000,
         "similarProjectsRequired": "DPR/feasibility of 2/4/6-lane aggregating >= package length; at least one project of >=40% length, in last 7 years",
-        "keyPersonnel": ["Team Leader-Senior Highway Engineer", "Senior Bridge Engineer", "Highway-cum-Pavement Engineer", "Geotechnical Engineer", "Traffic & Safety Expert", "Survey Engineer", "Environment Specialist"],
-        "other": ["Mandatory INFRACON registration", "Team Leader CV >=75% gate", "Non-TL CVs <75% tolerated for limited positions, replaced at contract negotiation"]
+        "keyPersonnel": [
+          "Team Leader-Senior Highway Engineer",
+          "Senior Bridge Engineer",
+          "Highway-cum-Pavement Engineer",
+          "Geotechnical Engineer",
+          "Traffic & Safety Expert",
+          "Survey Engineer",
+          "Environment Specialist"
+        ],
+        "other": [
+          "Mandatory INFRACON registration",
+          "Team Leader CV >=75% gate",
+          "Non-TL CVs <75% tolerated for limited positions, replaced at contract negotiation"
+        ]
       },
       "evaluationMethod": "QCBS 80:20",
       "minTechnicalScore": 75,
       "technicalCriteria": [
-        { "criterion": "Firm's relevant experience", "maxMarks": 25, "subCriteria": [], "notes": null },
-        { "criterion": "Adequacy of approach and methodology", "maxMarks": 5, "subCriteria": [], "notes": null },
-        { "criterion": "Material testing, survey & investigation, equipment and technology", "maxMarks": 20, "subCriteria": [], "notes": null },
-        { "criterion": "Qualification and competence of key personnel", "maxMarks": 50, "subCriteria": [], "notes": "Team Leader CV must score >=75% or proposal fails" }
+        {
+          "criterion": "Firm's relevant experience",
+          "maxMarks": 25,
+          "subCriteria": [],
+          "notes": null
+        },
+        {
+          "criterion": "Adequacy of approach and methodology",
+          "maxMarks": 5,
+          "subCriteria": [],
+          "notes": null
+        },
+        {
+          "criterion": "Material testing, survey & investigation, equipment and technology",
+          "maxMarks": 20,
+          "subCriteria": [],
+          "notes": null
+        },
+        {
+          "criterion": "Qualification and competence of key personnel",
+          "maxMarks": 50,
+          "subCriteria": [],
+          "notes": "Team Leader CV must score >=75% or proposal fails"
+        }
       ],
       "sourceType": "archived-tender",
       "sourceDocument": "MoRTH/Maharashtra PWD Modified RFP for FS+DPR — NH-753A to NH-52 (March 2018)"
@@ -250,16 +545,47 @@
       "eligibility": {
         "minAnnualTurnoverINR": 50000000,
         "similarProjectsRequired": "DPR/feasibility of 2/4/6-lane aggregating >= package length; at least one project of >=40% length, in last 7 years",
-        "keyPersonnel": ["Team Leader", "Highway-cum-Pavement Engineer", "Bridge Engineer", "Geo-technical Engineer", "Traffic & Safety Expert", "Survey Engineer", "Environment Specialist"],
-        "other": ["Mandatory INFRACON registration", "Team Leader, Highway-cum-Pavement, Bridge and Geo-tech CVs are gated"]
+        "keyPersonnel": [
+          "Team Leader",
+          "Highway-cum-Pavement Engineer",
+          "Bridge Engineer",
+          "Geo-technical Engineer",
+          "Traffic & Safety Expert",
+          "Survey Engineer",
+          "Environment Specialist"
+        ],
+        "other": [
+          "Mandatory INFRACON registration",
+          "Team Leader, Highway-cum-Pavement, Bridge and Geo-tech CVs are gated"
+        ]
       },
       "evaluationMethod": "QCBS 80:20",
       "minTechnicalScore": 75,
       "technicalCriteria": [
-        { "criterion": "Firm's relevant experience", "maxMarks": 25, "subCriteria": [], "notes": null },
-        { "criterion": "Adequacy of approach and methodology", "maxMarks": 5, "subCriteria": [], "notes": null },
-        { "criterion": "Material testing, survey & investigation, equipment and technology", "maxMarks": 20, "subCriteria": [], "notes": null },
-        { "criterion": "Qualification and competence of key personnel", "maxMarks": 50, "subCriteria": [], "notes": "Team Leader CV must score >=75% or proposal fails" }
+        {
+          "criterion": "Firm's relevant experience",
+          "maxMarks": 25,
+          "subCriteria": [],
+          "notes": null
+        },
+        {
+          "criterion": "Adequacy of approach and methodology",
+          "maxMarks": 5,
+          "subCriteria": [],
+          "notes": null
+        },
+        {
+          "criterion": "Material testing, survey & investigation, equipment and technology",
+          "maxMarks": 20,
+          "subCriteria": [],
+          "notes": null
+        },
+        {
+          "criterion": "Qualification and competence of key personnel",
+          "maxMarks": 50,
+          "subCriteria": [],
+          "notes": "Team Leader CV must score >=75% or proposal fails"
+        }
       ],
       "sourceType": "archived-tender",
       "sourceDocument": "MoRTH/Maharashtra PWD RFP for FS+DPR — Hinganghat to Mul (Jan 2018)"
@@ -278,15 +604,53 @@
       "eligibility": {
         "minAnnualTurnoverINR": 50000000,
         "similarProjectsRequired": "AE/IE/Supervision or DPR experience on 4-lane-equivalent highway projects (4-lane counted ×1.5; feasibility counted ×2/3 of DPR) in last 7 years",
-        "keyPersonnel": ["Team Leader", "Highway Engineer", "Bridge/Structural Engineer", "Quantity Surveyor", "Highway/Pavement Expert"],
-        "other": ["Mandatory INFRACON registration", "Role weighting for firm experience by JV role", "Selection under JICA consultant guidelines"]
+        "keyPersonnel": [
+          "Team Leader",
+          "Highway Engineer",
+          "Bridge/Structural Engineer",
+          "Quantity Surveyor",
+          "Highway/Pavement Expert"
+        ],
+        "other": [
+          "Mandatory INFRACON registration",
+          "Role weighting for firm experience by JV role",
+          "Selection under JICA consultant guidelines"
+        ]
       },
       "evaluationMethod": "QCBS 80:20",
       "minTechnicalScore": 75,
       "technicalCriteria": [
-        { "criterion": "Specific experience of the consultant relevant to the assignment", "maxMarks": 20, "subCriteria": ["Supervision/IE/AE experience", "DPR experience", "Experience on multilateral (WB/ADB/JICA)-funded projects (3 marks)"], "notes": "4-lane length ×1.5; feasibility counted as 2/3 of DPR length" },
-        { "criterion": "Adequacy of proposed methodology and work plan", "maxMarks": 20, "subCriteria": ["Technical approach & methodology (10)", "Work plan (5)", "Organization & staffing (5)"], "notes": null },
-        { "criterion": "Key Experts' qualifications and competence", "maxMarks": 60, "subCriteria": ["Team Leader (CV gate)", "Highway Engineer", "Bridge/Structural Engineer", "other key experts"], "notes": "Non-TL CVs <75% carried forward for max 3 personnel" }
+        {
+          "criterion": "Specific experience of the consultant relevant to the assignment",
+          "maxMarks": 20,
+          "subCriteria": [
+            "Supervision/IE/AE experience",
+            "DPR experience",
+            "Experience on multilateral (WB/ADB/JICA)-funded projects (3 marks)"
+          ],
+          "notes": "4-lane length ×1.5; feasibility counted as 2/3 of DPR length"
+        },
+        {
+          "criterion": "Adequacy of proposed methodology and work plan",
+          "maxMarks": 20,
+          "subCriteria": [
+            "Technical approach & methodology (10)",
+            "Work plan (5)",
+            "Organization & staffing (5)"
+          ],
+          "notes": null
+        },
+        {
+          "criterion": "Key Experts' qualifications and competence",
+          "maxMarks": 60,
+          "subCriteria": [
+            "Team Leader (CV gate)",
+            "Highway Engineer",
+            "Bridge/Structural Engineer",
+            "other key experts"
+          ],
+          "notes": "Non-TL CVs <75% carried forward for max 3 personnel"
+        }
       ],
       "sourceType": "archived-tender",
       "sourceDocument": "NHIDCL RFP for Authority's Engineer — NH-51 Tura-Dalu, Meghalaya (Nov 2019)"
@@ -305,15 +669,39 @@
       "eligibility": {
         "minAnnualTurnoverINR": 50000000,
         "similarProjectsRequired": "AE/IE/Supervision experience on EPC/4-lane-equivalent highway projects in last 7 years per data sheet",
-        "keyPersonnel": ["Team Leader", "Resident/Highway Engineer", "Bridge/Structural Engineer", "Road Safety Expert"],
-        "other": ["Mandatory INFRACON registration", "International Competitive Bidding; selection under QCBS", "Team Leader CV >=75% gate"]
+        "keyPersonnel": [
+          "Team Leader",
+          "Resident/Highway Engineer",
+          "Bridge/Structural Engineer",
+          "Road Safety Expert"
+        ],
+        "other": [
+          "Mandatory INFRACON registration",
+          "International Competitive Bidding; selection under QCBS",
+          "Team Leader CV >=75% gate"
+        ]
       },
       "evaluationMethod": "QCBS 80:20",
       "minTechnicalScore": 75,
       "technicalCriteria": [
-        { "criterion": "Specific experience of the consultant relevant to the assignment", "maxMarks": 20, "subCriteria": [], "notes": null },
-        { "criterion": "Adequacy of proposed methodology and work plan", "maxMarks": 20, "subCriteria": [], "notes": null },
-        { "criterion": "Key Experts' qualifications and competence", "maxMarks": 60, "subCriteria": [], "notes": "Team Leader CV must score >=75% or proposal fails" }
+        {
+          "criterion": "Specific experience of the consultant relevant to the assignment",
+          "maxMarks": 20,
+          "subCriteria": [],
+          "notes": null
+        },
+        {
+          "criterion": "Adequacy of proposed methodology and work plan",
+          "maxMarks": 20,
+          "subCriteria": [],
+          "notes": null
+        },
+        {
+          "criterion": "Key Experts' qualifications and competence",
+          "maxMarks": 60,
+          "subCriteria": [],
+          "notes": "Team Leader CV must score >=75% or proposal fails"
+        }
       ],
       "sourceType": "live-tender",
       "sourceDocument": "NHIDCL RFP for Authority's Engineer — NH-37 Imphal-Jiribam, Manipur (2025)"
@@ -332,16 +720,50 @@
       "eligibility": {
         "minAnnualTurnoverINR": 50000000,
         "similarProjectsRequired": "DPR/feasibility of highway projects (particularly hill roads) aggregating >= package length, with one project >=40% length, in last 7 years",
-        "keyPersonnel": ["Team Leader-Senior Highway Engineer", "Senior Bridge Engineer", "Highway-cum-Pavement Engineer", "Geotechnical Engineer/Geologist", "Traffic & Safety Expert", "Survey Engineer", "Environment Specialist"],
-        "other": ["Mandatory INFRACON registration", "Public Procurement (Preference to Make in India) Order 2017 applies", "Team Leader CV >=75% gate"]
+        "keyPersonnel": [
+          "Team Leader-Senior Highway Engineer",
+          "Senior Bridge Engineer",
+          "Highway-cum-Pavement Engineer",
+          "Geotechnical Engineer/Geologist",
+          "Traffic & Safety Expert",
+          "Survey Engineer",
+          "Environment Specialist"
+        ],
+        "other": [
+          "Mandatory INFRACON registration",
+          "Public Procurement (Preference to Make in India) Order 2017 applies",
+          "Team Leader CV >=75% gate"
+        ]
       },
       "evaluationMethod": "QCBS 80:20",
       "minTechnicalScore": 75,
       "technicalCriteria": [
-        { "criterion": "Firm's relevant experience", "maxMarks": 25, "subCriteria": ["Hill-road DPR/feasibility experience"], "notes": null },
-        { "criterion": "Adequacy of approach and methodology", "maxMarks": 5, "subCriteria": [], "notes": null },
-        { "criterion": "Material testing, survey & investigation, equipment and technology", "maxMarks": 20, "subCriteria": [], "notes": null },
-        { "criterion": "Qualification and competence of key personnel", "maxMarks": 50, "subCriteria": [], "notes": "Team Leader CV must score >=75% or proposal fails" }
+        {
+          "criterion": "Firm's relevant experience",
+          "maxMarks": 25,
+          "subCriteria": [
+            "Hill-road DPR/feasibility experience"
+          ],
+          "notes": null
+        },
+        {
+          "criterion": "Adequacy of approach and methodology",
+          "maxMarks": 5,
+          "subCriteria": [],
+          "notes": null
+        },
+        {
+          "criterion": "Material testing, survey & investigation, equipment and technology",
+          "maxMarks": 20,
+          "subCriteria": [],
+          "notes": null
+        },
+        {
+          "criterion": "Qualification and competence of key personnel",
+          "maxMarks": 50,
+          "subCriteria": [],
+          "notes": "Team Leader CV must score >=75% or proposal fails"
+        }
       ],
       "sourceType": "live-tender",
       "sourceDocument": "NHIDCL RFP for FS+DPR — Alternate highway to NH-110 Siliguri-Darjeeling (2025)"
@@ -360,15 +782,37 @@
       "eligibility": {
         "minAnnualTurnoverINR": null,
         "similarProjectsRequired": "Defined per assignment in TIS; typically similar-nature consultancy in last 5–7 years",
-        "keyPersonnel": ["Key Experts defined per assignment ToR", "CVs via Form T-6 Annex"],
-        "other": ["Mandatory INFRACON registration of firm and all key personnel", "Unique INFRACON Team ID quoted with bid", "Bid via eprocure.gov.in"]
+        "keyPersonnel": [
+          "Key Experts defined per assignment ToR",
+          "CVs via Form T-6 Annex"
+        ],
+        "other": [
+          "Mandatory INFRACON registration of firm and all key personnel",
+          "Unique INFRACON Team ID quoted with bid",
+          "Bid via eprocure.gov.in"
+        ]
       },
       "evaluationMethod": "QCBS 80:20",
       "minTechnicalScore": 75,
       "technicalCriteria": [
-        { "criterion": "Consultant's relevant experience & past performance (Form T-2/T-2A)", "maxMarks": null, "subCriteria": [], "notes": "Weight set per assignment in Section VII" },
-        { "criterion": "Approach, methodology & work plan (Form T-4)", "maxMarks": null, "subCriteria": [], "notes": null },
-        { "criterion": "Qualifications & experience of Key Experts (Form T-6 + CVs)", "maxMarks": null, "subCriteria": [], "notes": "Usually the largest weight; Team Leader gate common" }
+        {
+          "criterion": "Consultant's relevant experience & past performance (Form T-2/T-2A)",
+          "maxMarks": null,
+          "subCriteria": [],
+          "notes": "Weight set per assignment in Section VII"
+        },
+        {
+          "criterion": "Approach, methodology & work plan (Form T-4)",
+          "maxMarks": null,
+          "subCriteria": [],
+          "notes": null
+        },
+        {
+          "criterion": "Qualifications & experience of Key Experts (Form T-6 + CVs)",
+          "maxMarks": null,
+          "subCriteria": [],
+          "notes": "Usually the largest weight; Team Leader gate common"
+        }
       ],
       "sourceType": "model-rfp",
       "sourceDocument": "MoRTH Model RFP for Consultancy Services (QCBS)"
@@ -387,135 +831,350 @@
       "eligibility": {
         "minAnnualTurnoverINR": null,
         "similarProjectsRequired": "NQM empanelment requires senior engineering experience (State/Central organisations); road safety audit requires certified safety auditors",
-        "keyPersonnel": ["Retired Senior Engineers (NQMs)", "Certified Road Safety Auditors"],
-        "other": ["Empanelment model (individuals) rather than firm QCBS for NQMs", "Road Safety Audit mandatory for PMGSY-III roads >5 km per Supreme Court Committee on Road Safety"]
+        "keyPersonnel": [
+          "Retired Senior Engineers (NQMs)",
+          "Certified Road Safety Auditors"
+        ],
+        "other": [
+          "Empanelment model (individuals) rather than firm QCBS for NQMs",
+          "Road Safety Audit mandatory for PMGSY-III roads >5 km per Supreme Court Committee on Road Safety"
+        ]
       },
       "evaluationMethod": "Other",
       "minTechnicalScore": null,
       "technicalCriteria": [
-        { "criterion": "Engineering seniority & domain experience (NQM empanelment)", "maxMarks": null, "subCriteria": [], "notes": "Individual empanelment; performance-evaluated" },
-        { "criterion": "Road safety audit certification & experience", "maxMarks": null, "subCriteria": [], "notes": null }
+        {
+          "criterion": "Engineering seniority & domain experience (NQM empanelment)",
+          "maxMarks": null,
+          "subCriteria": [],
+          "notes": "Individual empanelment; performance-evaluated"
+        },
+        {
+          "criterion": "Road safety audit certification & experience",
+          "maxMarks": null,
+          "subCriteria": [],
+          "notes": null
+        }
       ],
       "sourceType": "policy-document",
       "sourceDocument": "NRIDA/PMGSY Guidelines on Quality Assurance & Control Mechanism; Performance Evaluation of NQMs"
     }
   ],
   "evaluationFramework": {
-    "summary": "Consultant selection in the Indian road & highways sector is highly standardised and overwhelmingly uses Quality & Cost Based Selection (QCBS) with an 80:20 technical:financial weight. A technical proposal must score at least 75 out of 100 to have its financial bid opened, and the Team Leader's CV must independently score at least 75% or the entire proposal is rejected. Both the firm and every proposed key personnel must be registered on the MoRTH INFRACON portal, which auto-validates credentials; bids quote a unique INFRACON Team ID.\n\nTechnical scoring follows two archetypes. For DPR/feasibility assignments the 100 marks split roughly as Firm experience 25, Approach & methodology 5, Survey/testing/technology (in-house lab, LiDAR, GPR) 20, and Key personnel 50. For Authority's Engineer / Independent Engineer / Supervision assignments the split is either 35/5/20/40 (NHAI O&M-IE, with a dedicated 20 marks for road-inspection technology such as NSV, FWD, MBIU and Retro-Reflectometer) or 20/20/60 (NHIDCL / multilateral-funded AE). In every archetype, key personnel and firm experience together dominate, while approach & methodology is a small share.\n\nFirm experience is credited relative to the project length (aggregate similar-length km, plus at least one project of 40–50% of the package length, in the last 7 years) and adjusted by the firm's role (sole 100%, lead JV 75%, other JV 50%, associate 25%). Turnover generally must average at least ₹5 crore from consultancy business, with more marks for higher turnover. Length-equivalence (4-lane counted ×1.5, feasibility counted as ⅔ of DPR) and year-wise enhancement factors are commonly applied.",
-    "dominantMethod": "QCBS 80:20",
+    "summary": "NHAI Independent Engineer / Authority Engineer selection is governed by Policy Circular No. 11.99 (17.07.2026), Section VII. Technical proposals are scored out of 100 marks across four criteria: Relevant experience for the assignment (25), Rating of the Firm as published by NHAI (40), Experience in use of technology for road inspection (10), and Qualifications & competence of key staff (25).\n\nA technical proposal must typically score at least 75/100 to be responsive for financial evaluation (Independent Engineer / BOT-HAM variant); Authority Engineer / EPC variants often use 70/100. Bid weightages under the circular are Technical proposal 60%, Performance security quoted by bidder 20%, and Financial quote 20%. Bidders must self-evaluate against Appendix-EC with documentary proof on INFRACON; detailed evaluation of a bidder is shared with that bidder only (7 days to respond to objections).\n\nFirm experience credits average consultancy turnover vs total project cost (TPC), highway professionals on payroll, IE/AE/supervision and DPR counts relative to project length (last 7 years), and major-structure (>500 m) work. Firm rating uses NHAI’s published rating bands (e.g. ≥80 → 40 marks; <55 → 0), with JV weighted averages. Technology marks require ownership (or JV experience certificates) for NSV, Mobile QC unit, NABL lab, MBIU, FWD and retro-reflectometer. Key staff (25 marks) are position-weighted (e.g. Team Leader 7 on normal highway projects) with each CV scored on qualification, adequacy, employment with firm and age; Team Leader gates and medical-certificate rules from Appendix-B apply. Residual AE/IE bid capacity R = CL × TF − RP must exceed project length.",
+    "dominantMethod": "QCBS 60:20",
     "typicalMinTechnicalScore": 75,
     "criteria": [
       {
-        "id": "firm-experience",
-        "label": "Firm's Relevant Experience",
-        "typicalWeightPct": 30,
-        "description": "Track record of similar road consultancy assignments (DPR/feasibility for DPR tenders; AE/IE/supervision for supervision tenders), measured by aggregate km, number of qualifying projects, major-bridge assignments, and multilateral-funded experience. Credit is weighted by the firm's role (sole/lead JV/other JV/associate) and by length-equivalence factors.",
+        "id": "nhai-relevant-experience",
+        "label": "Relevant Experience for the Assignment",
+        "typicalWeightPct": 25,
+        "description": "NHAI Circular 11.99 — 25 marks. Covers average annual consultancy turnover (last 3 years) vs TPC, number of highway professionals (≥8 years, >1 year with firm), IE/AE/supervision/PMC highway projects of similar category/length (last 7 years), DPR highway projects (≥40% length), and AE/IE/PMC or DPR of major structures >500 m. JV lead + partner experience may be aggregated. AE/IE work for private clients is not counted. Length factors: for 4/6-laning bids, 2-lane experience ×0.4 (only if consultancy cost >₹3 Cr); for 2-lane bids, 4/6-lane experience ×1.5.",
         "scoringGuidance": [
-          { "level": "Excellent (90-100%)", "meaning": "Aggregate similar length > 3x package length AND 3+ qualifying projects each >=40-50% of package length (or 3+ AE/IE assignments), some multilateral-funded" },
-          { "level": "Good (70-89%)", "meaning": "Aggregate length > 1-2x package length AND 2 qualifying projects; solid recent track record" },
-          { "level": "Fair (50-69%)", "meaning": "Meets the minimum floor: aggregate >= package length and 1 qualifying project of >=40-50% length" },
-          { "level": "Poor (<50%)", "meaning": "Below the eligibility floor or experience mostly as minor JV partner/associate (25-50% credit)" }
+          {
+            "level": "Excellent (90-100%)",
+            "meaning": "Near-full sub-marks: turnover well above 3% TPC, >30 highway professionals, multiple completed IE/AE assignments of project length, DPRs + major structures (>500 m) with proof"
+          },
+          {
+            "level": "Good (70-89%)",
+            "meaning": "Meets most Appendix-EC bands: turnover ~3%+ TPC, 20–30 professionals, 1–2 similar IE/AE projects, some DPR/structure credits"
+          },
+          {
+            "level": "Fair (50-69%)",
+            "meaning": "Clears floors with thin margins: turnover near 3% TPC, 10–20 professionals, minimal project counts at band minimums"
+          },
+          {
+            "level": "Poor (<50%)",
+            "meaning": "Below key floors (turnover <3% TPC, <10 professionals, or insufficient similar-length IE/AE/DPR) — little or no credit"
+          }
         ],
         "inputFields": [
-          { "key": "similarAssignmentsCount", "label": "Number of similar assignments completed in last 7 years (DPR or AE/IE, matching the tender type)", "type": "number", "options": [], "scoring": "1 project = minimum/Fair; 2 = Good; 3+ = Excellent" },
-          { "key": "aggregateKmCompleted", "label": "Aggregate length of similar road consultancy (km, 4-lane counted x1.5, feasibility x2/3)", "type": "number", "options": [], "scoring": ">=1x package length = Fair; >2x = Good; >3x = Excellent" },
-          { "key": "majorBridgeDprCount", "label": "Number of DPRs for major bridges (>200 m) completed (DPR tenders only)", "type": "number", "options": [], "scoring": "1 bridge = 2 marks up to 4+ bridges = 5 marks (DPR archetype)" },
-          { "key": "multilateralFundedExperience", "label": "Experience on World Bank / ADB / JICA-funded road projects?", "type": "boolean", "options": [], "scoring": "Adds up to 3 marks in NHIDCL/multilateral AE tenders" },
-          { "key": "firmRoleWeight", "label": "Typical role of the firm in cited assignments", "type": "select", "options": ["Sole firm (100%)", "Lead JV partner (75%)", "Other JV partner (50%)", "Associate (25%)"], "scoring": "Experience credit multiplied by the selected role weight" }
+          {
+            "key": "avgTurnoverVsTpcPct",
+            "label": "Avg annual consultancy turnover (last 3 yrs) as % of this project's TPC",
+            "type": "number",
+            "options": [],
+            "scoring": "Max 5: <3% TPC = 0; 3% = 3.0; +0.5 per extra 1% TPC up to +2.0 (cap 5)"
+          },
+          {
+            "key": "highwayProfessionalsCount",
+            "label": "Highway professionals with the firm (Civil/Transport/Traffic/Geology/Env, ≥8 yrs; employed >1 yr)",
+            "type": "number",
+            "options": [],
+            "scoring": "Max 5: <10 = 0; 10–20 = 3; >20–≤30 = 4; >30 = 5"
+          },
+          {
+            "key": "ieAeSimilarLengthProjects",
+            "label": "IE/AE/Construction Supervision/PMC highway projects of project length & similar category (last 7 yrs)",
+            "type": "number",
+            "options": [],
+            "scoring": "Max 7: 1 project = 3; +0.5 per completed assignment up to +4"
+          },
+          {
+            "key": "dprSimilarLengthProjects",
+            "label": "DPR preparation — highway projects ≥40% of project length, similar category (last 7 yrs)",
+            "type": "number",
+            "options": [],
+            "scoring": "Max 3: 2 projects = 2; +0.5 each additional up to +1"
+          },
+          {
+            "key": "majorStructureSupervisionCount",
+            "label": "AE/IE/PMC construction supervision of major structures >500 m (last 7 yrs)",
+            "type": "number",
+            "options": [],
+            "scoring": "Max 3: 2 projects = 1.0; +0.5 each additional up to +2.0"
+          },
+          {
+            "key": "majorStructureDprCount",
+            "label": "DPR of major structures >500 m (last 7 yrs)",
+            "type": "number",
+            "options": [],
+            "scoring": "Max 2: 2 projects = 1.0; +0.5 each additional up to +1.0"
+          }
         ]
       },
       {
-        "id": "financial-turnover",
-        "label": "Average Annual Turnover (Consultancy)",
-        "typicalWeightPct": 5,
-        "description": "Average annual turnover from consultancy business over the last 3-5 years, certified by a Chartered Accountant. Acts as both an eligibility gate (typically >=₹5 Cr) and a scored sub-criterion within firm experience.",
+        "id": "nhai-firm-rating",
+        "label": "Rating of the Firm (NHAI Published)",
+        "typicalWeightPct": 40,
+        "description": "NHAI Circular 11.99 — 40 marks. Uses the firm's NHAI-published rating. JV uses weighted average S1×R1 + S2×R2 (lead × other partner shares). For tentative project value ≤₹500 Cr, new entrants in JV with no historical rating may use only the other partner's rating. Non-substantial JV partners are ignored.",
         "scoringGuidance": [
-          { "level": "Excellent (90-100%)", "meaning": "Average annual consultancy turnover >= ₹50-60 Cr" },
-          { "level": "Good (70-89%)", "meaning": "Average annual turnover ₹20-50 Cr" },
-          { "level": "Fair (50-69%)", "meaning": "Average annual turnover ₹10-20 Cr" },
-          { "level": "Poor (<50%)", "meaning": "Average annual turnover ₹5-10 Cr (meets floor); below ₹5 Cr = ineligible" }
+          {
+            "level": "Excellent (90-100%)",
+            "meaning": "NHAI published rating ≥80 → 40 marks"
+          },
+          {
+            "level": "Good (70-89%)",
+            "meaning": "Rating ≥70 and <80 → 30–35 marks"
+          },
+          {
+            "level": "Fair (50-69%)",
+            "meaning": "Rating ≥60 and <70 → 20–25 marks"
+          },
+          {
+            "level": "Poor (<50%)",
+            "meaning": "Rating <60 → 0–15 marks; <55 → 0 marks"
+          }
         ],
         "inputFields": [
-          { "key": "avgAnnualTurnoverINR", "label": "Average annual turnover from consultancy business (last 5 years, ₹)", "type": "number", "options": [], "scoring": ">=₹5 Cr required; marks scale up through ₹10 / ₹30 / ₹60 Cr bands (e.g. 0.5 mark at 5-10 Cr up to full marks above 50 Cr)" }
+          {
+            "key": "nhaiPublishedRating",
+            "label": "Your firm's NHAI published rating (0–100)",
+            "type": "number",
+            "options": [],
+            "scoring": "≥80→40; ≥75→35; ≥70→30; ≥65→25; ≥60→20; ≥55→15; <55→0"
+          },
+          {
+            "key": "biddingAsJv",
+            "label": "Bidding as a Joint Venture?",
+            "type": "boolean",
+            "options": [],
+            "scoring": "If Yes, use weighted average of partner ratings (S1×R1 + S2×R2)"
+          },
+          {
+            "key": "jvLeadSharePct",
+            "label": "If JV — lead partner share (%)",
+            "type": "number",
+            "options": [],
+            "scoring": "S1 in weighted average rating formula"
+          },
+          {
+            "key": "jvOtherPartnerRating",
+            "label": "If JV — other substantial partner's NHAI rating",
+            "type": "number",
+            "options": [],
+            "scoring": "R2; non-substantial partner rating not considered"
+          }
         ]
       },
       {
-        "id": "approach-methodology",
-        "label": "Approach, Methodology & Work Plan",
-        "typicalWeightPct": 8,
-        "description": "Quality of site appreciation, comments/suggestions on the ToR, proposed methodology and work plan, team composition and organisation. Small weight (5 marks) in NHAI/MoRTH RFPs but larger (up to 20 marks) in NHIDCL/multilateral AE RFPs.",
+        "id": "nhai-technology-inspection",
+        "label": "Technology for Road Inspection",
+        "typicalWeightPct": 10,
+        "description": "NHAI Circular 11.99 — 10 marks for ownership (with proof) of inspection technology: Network Survey Vehicle (2.0), Mobile Quality Control Unit with soil/asphalt/concrete/aggregate/pavement testing + IT (3.0), NABL Accredited Lab (1.5), Mobile Bridge Inspection Unit or better (1.5), Falling Weight Deflectometer or better (1.0), Retro-reflectometer (1.0). JV firm experience also counted with experience certificates (Govt-certified if for private concessionaire).",
         "scoringGuidance": [
-          { "level": "Excellent (90-100%)", "meaning": "Sharp site appreciation, innovative but realistic methodology, clear work plan and staffing, strong understanding of key challenges" },
-          { "level": "Good (70-89%)", "meaning": "Sound methodology and work plan with minor gaps" },
-          { "level": "Fair (50-69%)", "meaning": "Generic methodology largely restating the ToR" },
-          { "level": "Poor (<50%)", "meaning": "Weak or boilerplate approach, poor understanding of the assignment" }
+          {
+            "level": "Excellent (90-100%)",
+            "meaning": "Owns essentially the full equipment stack (NSV + Mobile QC + NABL + MBIU + FWD + retro) with ownership proof"
+          },
+          {
+            "level": "Good (70-89%)",
+            "meaning": "Owns most high-weight items (e.g. Mobile QC + NSV + one of MBIU/FWD/NABL)"
+          },
+          {
+            "level": "Fair (50-69%)",
+            "meaning": "Owns 2–3 items or relies partly on certified JV experience"
+          },
+          {
+            "level": "Poor (<50%)",
+            "meaning": "Little or no owned equipment / unverified experience"
+          }
         ],
         "inputFields": [
-          { "key": "methodologyQuality", "label": "Self-assessed quality of your approach & methodology", "type": "select", "options": ["Excellent", "Good", "Fair", "Poor"], "scoring": "Maps to the scoring guidance levels; typically 5 marks (NHAI/MoRTH) or up to 20 marks (NHIDCL/JICA)" },
-          { "key": "siteVisitDone", "label": "Have you conducted a site visit / site appreciation for this project?", "type": "boolean", "options": [], "scoring": "Site appreciation is an explicit sub-mark (~1-2 marks)" }
+          {
+            "key": "ownsNsv",
+            "label": "Own Network Survey Vehicle (NSV) technology?",
+            "type": "boolean",
+            "options": [],
+            "scoring": "2.0 marks with ownership proof"
+          },
+          {
+            "key": "ownsMobileQcUnit",
+            "label": "Own Mobile Quality Control Unit (soil/asphalt/concrete/aggregate/pavement + IT)?",
+            "type": "boolean",
+            "options": [],
+            "scoring": "3.0 marks"
+          },
+          {
+            "key": "ownsNablLab",
+            "label": "Own NABL Accredited Lab?",
+            "type": "boolean",
+            "options": [],
+            "scoring": "1.5 marks"
+          },
+          {
+            "key": "ownsMbiu",
+            "label": "Own Mobile Bridge Inspection Unit (MBIU) or better?",
+            "type": "boolean",
+            "options": [],
+            "scoring": "1.5 marks"
+          },
+          {
+            "key": "ownsFwd",
+            "label": "Own Falling Weight Deflectometer (FWD) or better?",
+            "type": "boolean",
+            "options": [],
+            "scoring": "1.0 mark"
+          },
+          {
+            "key": "ownsRetroReflectometer",
+            "label": "Own Retro-reflectometer technology?",
+            "type": "boolean",
+            "options": [],
+            "scoring": "1.0 mark"
+          }
         ]
       },
       {
-        "id": "technology-capability",
-        "label": "Survey, Testing & Inspection Technology",
-        "typicalWeightPct": 20,
-        "description": "For DPR: in-house material testing lab, field investigation facilities, office equipment/software, and experience with LiDAR-based survey, GPR/induction locators for utility detection, and cadastral map digitisation. For O&M/IE: capability in Network Survey Vehicle (NSV), Falling Weight Deflectometer (FWD), Mobile Bridge Inspection Unit (MBIU) and Retro-Reflectometer. Worth ~20 marks where applicable.",
+        "id": "nhai-key-staff",
+        "label": "Qualifications & Competence of Key Staff",
+        "typicalWeightPct": 25,
+        "description": "NHAI Circular 11.99 — 25 marks. Normal highway project position weights: Team Leader cum Senior Highway Engineer (7), Resident cum Highway Engineer (4), Bridge/Structural Engineer (3), Pavement Specialist (3), Quality cum Material Expert (3), Program Schedule Reviewer (2), Road Safety Expert (3). Standalone bridge/tunnel projects use alternate position sets. Each CV is scored /100 on general qualifications (~25%), adequacy for the project (~70%), and employment with firm (~5%), plus age limits where specified. Self-certified INFRACON undertakings without client certificates are not evaluated; CVs without medical fitness certificate (Appendix-B) score zero. Lower-category 'similar capacity' work is credited at 2/3.",
         "scoringGuidance": [
-          { "level": "Excellent (90-100%)", "meaning": "In-house lab + field facilities + software, and 4+ projects using LiDAR/GPR (DPR) or in-house NSV/FWD/MBIU/Retro-Reflectometer (O&M/IE)" },
-          { "level": "Good (70-89%)", "meaning": "Mostly in-house capability with 2-3 technology projects" },
-          { "level": "Fair (50-69%)", "meaning": "Key facilities outsourced (half marks) with 1 technology project" },
-          { "level": "Poor (<50%)", "meaning": "Facilities not available and no advanced-technology experience" }
+          {
+            "level": "Excellent (90-100%)",
+            "meaning": "Full key team proposed; TL and others clear Appendix-EC adequacy with strong similar-capacity EPC/HAM experience; employment & age favourable"
+          },
+          {
+            "level": "Good (70-89%)",
+            "meaning": "All positions filled to circular weights; TL CV solidly above gate; most experts meet adequacy bands"
+          },
+          {
+            "level": "Fair (50-69%)",
+            "meaning": "Team mostly complete; TL marginal on adequacy/age; some positions weak or thinner similar-capacity proof"
+          },
+          {
+            "level": "Poor (<50%)",
+            "meaning": "Missing key positions, TL fails gate / medical / essential PQ, or heavy reliance on lower-category similar capacity"
+          }
         ],
         "inputFields": [
-          { "key": "inHouseLab", "label": "Material testing facility availability", "type": "select", "options": ["In-house (available)", "Outsourced", "Not available"], "scoring": "In-house = full (~2 marks), outsourced = half, none = 0 (DPR archetype)" },
-          { "key": "lidarProjects", "label": "Number of projects using LiDAR / equivalent for topographic survey", "type": "number", "options": [], "scoring": "1 project = 1 mark up to 4+ = 4 marks (DPR)" },
-          { "key": "gprProjects", "label": "Number of projects using GPR / induction locator for subsurface utility detection", "type": "number", "options": [], "scoring": "1 = 1 mark up to 4+ = 4 marks (DPR)" },
-          { "key": "roadInspectionEquipment", "label": "Road-inspection equipment available (O&M/IE tenders)", "type": "select", "options": ["All (NSV, FWD, MBIU, Retro-Reflectometer)", "Some", "Via associate", "None"], "scoring": "Up to 20 marks; associate for equipment must not be shared with another bidder" }
-        ]
-      },
-      {
-        "id": "key-personnel",
-        "label": "Qualifications & Competence of Key Personnel",
-        "typicalWeightPct": 45,
-        "description": "The largest scoring block (40-60 marks). Each key expert is scored on general/essential qualification, total and relevant experience, experience in similar capacity, and tenure with the firm. The Team Leader is gated: their CV must score >=75% or the whole proposal fails. Missing essential education = zero for that CV; duplicate CVs across firms = zero. All CVs must be validated on INFRACON.",
-        "scoringGuidance": [
-          { "level": "Excellent (90-100%)", "meaning": "All key experts exceed essential qualifications with extensive similar-capacity experience on comparable NH/PPP projects; Team Leader well above 75%" },
-          { "level": "Good (70-89%)", "meaning": "Full team meets requirements; Team Leader clears 75%; most experts with strong similar experience" },
-          { "level": "Fair (50-69%)", "meaning": "Team meets minimum qualifications; Team Leader just clears 75%; some experts light on similar-capacity experience" },
-          { "level": "Poor (<50%)", "meaning": "One or more essential positions unfilled/under-qualified, or Team Leader below 75% (disqualifying)" }
-        ],
-        "inputFields": [
-          { "key": "teamLeaderTotalExperienceYears", "label": "Team Leader — total professional experience (years)", "type": "number", "options": [], "scoring": "Scored under total experience + similar-capacity; must yield >=75% CV score to avoid disqualification" },
-          { "key": "teamLeaderSimilarAssignments", "label": "Team Leader — number of similar assignments (as TL / senior role)", "type": "number", "options": [], "scoring": "Drives 'experience in similar capacity' (largest CV sub-block)" },
-          { "key": "teamLeaderMeetsEssentialQualification", "label": "Does the Team Leader meet the essential educational qualification in the ToR?", "type": "boolean", "options": [], "scoring": "If No, CV = 0 marks and proposal fails" },
-          { "key": "keyExpertsProposedCount", "label": "Number of required key-expert positions you can fill with qualified CVs", "type": "number", "options": [], "scoring": "DPR needs ~8 experts (TL, Bridge, Highway/Pavement, Geotech, Traffic/Safety, Survey, Environment, QS); AE/IE ~4 (TL, Resident/Highway, Bridge, Road Safety)" },
-          { "key": "keyExpertsAvgTenureWithFirm", "label": "Average tenure of proposed key experts with your firm (years)", "type": "select", "options": ["> 2 years", "1-2 years", "< 1 year"], "scoring": ">2 yrs = full tenure marks (~10 per CV), 1-2 yrs = partial, <1 yr = 0" },
-          { "key": "keyExpertsPppExperience", "label": "Do key experts (TL, Bridge, Road Safety) have PPP/HAM project experience?", "type": "boolean", "options": [], "scoring": "PPP-experienced personnel are explicitly rated higher" }
-        ]
-      },
-      {
-        "id": "compliance-infracon",
-        "label": "INFRACON & Statutory Compliance",
-        "typicalWeightPct": 2,
-        "description": "Mandatory pass/fail compliance: the firm and every proposed key personnel must be registered on INFRACON, form a Team, and quote a unique INFRACON Team ID; bid submitted via eProcure. No debarment by MoRTH/agencies in the last 2 years; no conflict of interest with the concessionaire/contractor.",
-        "scoringGuidance": [
-          { "level": "Excellent (90-100%)", "meaning": "Firm + all key personnel registered on INFRACON with Team ID; no debarment; no conflict of interest" },
-          { "level": "Good (70-89%)", "meaning": "Registered but minor CV/profile updates pending on INFRACON" },
-          { "level": "Fair (50-69%)", "meaning": "Registration incomplete for some personnel (must be fixed before submission)" },
-          { "level": "Poor (<50%)", "meaning": "Firm or key personnel not registered, or active debarment/conflict of interest (bid rejected)" }
-        ],
-        "inputFields": [
-          { "key": "infraconRegistered", "label": "Are the firm and all proposed key personnel registered on INFRACON (with Team ID)?", "type": "boolean", "options": [], "scoring": "Mandatory; non-registration leads to rejection" },
-          { "key": "debarmentStatus", "label": "Any debarment/penalty by MoRTH or its agencies in the last 2 years?", "type": "boolean", "options": [], "scoring": "If Yes, ineligible" },
-          { "key": "conflictOfInterest", "label": "Any conflict of interest with the project concessionaire/contractor?", "type": "boolean", "options": [], "scoring": "If Yes, ineligible for that assignment" }
+          {
+            "key": "projectTypeStaffing",
+            "label": "Project type (sets key-staff weight template)",
+            "type": "select",
+            "options": [
+              "Normal highway project",
+              "Standalone bridge project",
+              "Standalone tunnel project"
+            ],
+            "scoring": "Selects Circular 11.99 key_staff_weightage_by_project_type table"
+          },
+          {
+            "key": "teamLeaderCvScorePct",
+            "label": "Team Leader CV self-score vs Appendix-EC (0–100%)",
+            "type": "number",
+            "options": [],
+            "scoring": "Position weight 7 (highway); historically TL <75% can fail the proposal — verify RFP gate"
+          },
+          {
+            "key": "residentEngineerReady",
+            "label": "Can you field a Resident cum Highway Engineer meeting Circular 3.2?",
+            "type": "boolean",
+            "options": [],
+            "scoring": "Position weight 4 on normal highway projects"
+          },
+          {
+            "key": "bridgeEngineerReady",
+            "label": "Can you field a Bridge/Structural Engineer meeting Circular 3.3?",
+            "type": "boolean",
+            "options": [],
+            "scoring": "Position weight 3 (highway) / higher on bridge projects"
+          },
+          {
+            "key": "pavementSpecialistReady",
+            "label": "Can you field a Pavement Specialist meeting Circular 3.4?",
+            "type": "boolean",
+            "options": [],
+            "scoring": "Position weight 3 on normal highway projects"
+          },
+          {
+            "key": "qualityMaterialExpertReady",
+            "label": "Can you field a Quality cum Material Expert meeting Circular 3.5?",
+            "type": "boolean",
+            "options": [],
+            "scoring": "Position weight 3"
+          },
+          {
+            "key": "roadSafetyExpertReady",
+            "label": "Can you field a Road Safety Expert meeting Circular 3.6?",
+            "type": "boolean",
+            "options": [],
+            "scoring": "Position weight 3"
+          },
+          {
+            "key": "programScheduleReviewerReady",
+            "label": "Can you field a Program Schedule Reviewer meeting Circular 3.16?",
+            "type": "boolean",
+            "options": [],
+            "scoring": "Position weight 2"
+          },
+          {
+            "key": "infraconTeamReady",
+            "label": "Firm + all key CVs on INFRACON with client certificates (not self-certified only)?",
+            "type": "boolean",
+            "options": [],
+            "scoring": "Mandatory for evaluation eligibility under Circular general notes"
+          }
         ]
       }
     ],
     "keyPolicies": [
-      { "name": "Manual for Procurement of Consultancy & Other Services (MoF, Dept. of Expenditure, updated June 2022)", "url": "https://doe.gov.in/files/manuals_documents/Manual_for_Procurement_of_Consultancy_&_Other_Services_Updated%20June,%202022_1.pdf", "relevance": "Umbrella policy under GFR 2017 defining consultant selection systems (QCBS, LCS, SSS, QBS/FBS) that road-sector RFPs implement." },
-      { "name": "MoRTH Model RFP for Consultancy Services (QCBS)", "url": "https://morth.gov.in/backend/documents/uploaded/1778483026_kjrTjc3WqZ.pdf", "relevance": "Sector-standard RFP: Tender Information Summary, Forms T-2 to T-6, Section VII scoring, QCBS default, mandatory INFRACON linkage." },
-      { "name": "INFRACON — National Portal for Infrastructure Consultancy Firms & Key Personnel", "url": "https://infracon.nic.in", "relevance": "Mandatory credential repository/validation for firms and key personnel across MoRTH/NHAI/NHIDCL/state NH agencies; unique Team ID quoted with every bid." },
-      { "name": "NRIDA/PMGSY — Guidelines on Quality Assurance & Control Mechanism", "url": "https://pmgsy.nic.in/guidelines-quality-assurance-and-control-mechanism", "relevance": "Rural-roads quality regime: three-tier quality monitoring (NQMs) and mandatory Road Safety Audit for PMGSY-III roads >5 km." }
+      {
+        "name": "NHAI Policy Circular No. 11.99 dated 17.07.2026 — Section VII Evaluation/Scoring Criteria",
+        "url": "https://nhai.gov.in",
+        "relevance": "Primary source for IE/AE technical scoring: 25/40/10/25 mark split, firm rating bands, technology ownership marks, key-staff weightages, and 60/20/20 bid weightages. Structured extract in research/policies/NHAI_Policy_Circular_11.99_Evaluation_Criteria.json."
+      },
+      {
+        "name": "Manual for Procurement of Consultancy & Other Services (MoF, Dept. of Expenditure, updated June 2022)",
+        "url": "https://doe.gov.in/files/manuals_documents/Manual_for_Procurement_of_Consultancy_&_Other_Services_Updated%20June,%202022_1.pdf",
+        "relevance": "Umbrella GFR consultancy selection systems (QCBS etc.) that NHAI RFPs implement alongside Circular 11.99."
+      },
+      {
+        "name": "MoRTH Model RFP for Consultancy Services (QCBS)",
+        "url": "https://morth.gov.in/backend/documents/uploaded/1778483026_kjrTjc3WqZ.pdf",
+        "relevance": "Sector RFP skeleton (TIS, Forms T-2–T-6, INFRACON Team ID) used with NHAI Appendix-EC scoring."
+      },
+      {
+        "name": "INFRACON — National Portal for Infrastructure Consultancy Firms & Key Personnel",
+        "url": "https://infracon.nic.in",
+        "relevance": "Mandatory credential upload; Circular 11.99 refuses self-certified undertakings without client certificates."
+      },
+      {
+        "name": "NRIDA/PMGSY — Guidelines on Quality Assurance & Control Mechanism",
+        "url": "https://pmgsy.nic.in/guidelines-quality-assurance-and-control-mechanism",
+        "relevance": "Rural-roads quality regime distinct from NHAI IE/AE Circular 11.99 scoring."
+      }
     ]
   }
 }

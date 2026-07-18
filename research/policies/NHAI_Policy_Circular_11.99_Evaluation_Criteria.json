@@ -1,0 +1,1573 @@
+{
+  "document": "Policy Circular No. 11.99 dated 17.07.2026 — Section VII Evaluation/Scoring Criteria",
+  "technical_evaluation_criteria": {
+    "total_marks": 100,
+    "criteria": [
+      {
+        "s_no": 1,
+        "description": "Relevant experience for the assignment",
+        "marks": 25
+      },
+      {
+        "s_no": 2,
+        "description": "Rating of the Firm",
+        "marks": 40
+      },
+      {
+        "s_no": 3,
+        "description": "Experience in use of technology for road inspection",
+        "marks": 10
+      },
+      {
+        "s_no": 4,
+        "description": "Qualifications and competence of the key staff for the assignment",
+        "marks": 25
+      }
+    ],
+    "responsiveness_threshold": "Technical proposal must score at least 75/100 to be responsive for financial evaluation (Independent Engineer / BOT-HAM variant). Authority Engineer / EPC variant states 70/100.",
+    "bid_weightages": {
+      "technical_proposal": "60%",
+      "performance_security_quoted_by_bidder": "20%",
+      "financial_quote": "20%"
+    },
+    "evaluation_process_notes": [
+      "Detailed evaluation criteria to be used for technical bids is at Appendix-EC.",
+      "Bidder must carry out self-evaluation based on Appendix-EC and reference the documents relied upon.",
+      "Detailed/complete technical evaluation of a bidder shall be made available to that bidder only, with 7 days to respond to any objection on their evaluation.",
+      "Based on experience, consulting industry capacity and project-specific requirements, the Agency may modify the above criteria for selection of IE."
+    ]
+  },
+  "firm_relevant_experience": {
+    "total_marks": 25,
+    "items": [
+      {
+        "s_no": 1,
+        "description": "Average Annual Turnover (last 3 years) from consultancy business of civil engineering projects",
+        "max_marks": 5,
+        "scoring": "< 3% of TPC = 0 marks; 3% of TPC = 3.0 marks; add 0.50 marks for every 1% of TPC above 3% of TPC, subject to maximum 2.0 additional marks."
+      },
+      {
+        "s_no": 2,
+        "description": "Nos. of Highway Professionals with the Firm",
+        "max_marks": 5,
+        "scoring": "<10 = 0; 10-20 = 3; >20 but <=30 = 4; >30 = 5",
+        "definition": "Professionals possessing degree in Civil Engineering/Transport Planning/Transport Economics/Traffic Management/Geology/Environment Science or Engineering with 8 years experience in highway/bridge/tunnel and employment in the firm for more than one year. Current Employment Certificate (not more than 15 days old) to be uploaded on INFRACON; Form 26AS/TCS/TDS certificate also to be provided."
+      },
+      {
+        "s_no": 3,
+        "description": "Experience as Independent Engineer/Authority Engineer/Construction Supervision/PMC in number of Highway Projects of length equal to project length, similar category (2/4/6**-laning or more) in last 7 years",
+        "max_marks": 7,
+        "scoring": "1 project = 3 marks; add 0.5 mark extra for completed assignment subject to maximum 4 marks."
+      },
+      {
+        "s_no": 4,
+        "description": "Experience in DPR preparation for number of Highway Projects (of length 40% of project length of similar category, 2/4/6**-laning or more) in last 7 years",
+        "max_marks": 3,
+        "scoring": "2 projects = 2 marks; add 0.5 mark extra for each additional project subject to maximum 1 mark."
+      },
+      {
+        "s_no": 5,
+        "description": "Experience in Construction Supervision as AE/IE/PMC of Major structures having length more than 500 meter in last 7 years",
+        "max_marks": 3,
+        "scoring": "2 projects = 1.0 mark; add 0.5 mark extra for each additional project subject to maximum 2.0 marks."
+      },
+      {
+        "s_no": 6,
+        "description": "Experience in preparation of DPR of Major structures having length more than 500 meter in last 7 years",
+        "max_marks": 2,
+        "scoring": "2 projects = 1.0 mark; add 0.5 mark extra for each additional project subject to maximum 1.0 mark."
+      },
+      {
+        "s_no": 7,
+        "description": "Additional requirement in case of specialized projects***",
+        "max_marks": "*** (variable)"
+      }
+    ],
+    "notes": [
+      "Note 1: In case of JV, turnover and experience details of Lead and JV partners to be added.",
+      "Note 2: Employer's certificate/certificate from Statutory Auditor to be submitted substantiating experience/turnover claimed.",
+      "Note 3: ** For 4/6 laning projects, experience of 2 lane considered with multiplication factor 0.4, but only for 2 lane projects whose consultancy cost was more than Rs.3.0 crore.",
+      "*** If project includes specialized work (tunnels, specialized structures) in substantial quantum, requirement/marks may be included by suitably adjusting marks of other attributes.",
+      "* Consultants must give details of firm experience for completed and on-going highway assignments, separately for PPP and non-PPP projects, with client experience certificates. Completed works list may include assignments substantially (90% of contract value) completed. No qualification/experience considered without proof.",
+      "Experience of AE/IE providing consultancy services to a private organization shall NOT be considered relevant for the current assignment.",
+      "** Similar projects means 2/4/6 lane as applicable. For 2-lane projects, 4/6 lane experience counted with multiplication factor 1.5. 4/6 lane considered interchangeably for 4/6 laning. For 4/6 laning projects, 2 lane experience counted with factor 0.4, but only for 2 lane projects whose consultancy cost was more than Rs.3.0 crore.",
+      "*** If project includes specialized work (tunnels, specialized structures) in substantial quantum, this requirement/marks may be included by suitably adjusting marks of other attributes.",
+      "In case of JV, turnover and experience details of Lead and JV, plus Employer's certificate, should be submitted substantiating experience claimed."
+    ]
+  },
+  "firm_rating": {
+    "total_marks": 40,
+    "rating_table": [
+      {
+        "nhai_published_rating": ">=80",
+        "marks": 40
+      },
+      {
+        "nhai_published_rating": ">=75 and <80",
+        "marks": 35
+      },
+      {
+        "nhai_published_rating": ">=70 and <75",
+        "marks": 30
+      },
+      {
+        "nhai_published_rating": ">=65 and <70",
+        "marks": 25
+      },
+      {
+        "nhai_published_rating": ">=60 and <65",
+        "marks": 20
+      },
+      {
+        "nhai_published_rating": ">=55 and <60",
+        "marks": 15
+      },
+      {
+        "nhai_published_rating": "Less than 55",
+        "marks": 0
+      }
+    ],
+    "jv_weighted_average_formula": "Weighted Average Rating = S1 x R1 + S2 x R2",
+    "jv_weighted_average_variables": {
+      "S1": "Share of Lead Partner in JV",
+      "S2": "Share of Other Partner in JV",
+      "R1": "Rating of Lead Partner",
+      "R2": "Rating of Other JV Partner"
+    },
+    "notes": [
+      "Rating of the firm published by NHAI shall be considered; calculated for both JV members and weighted average used for JV.",
+      "For projects with tentative project value <= 500 Cr, for new entrants as part of JV (JV members with no historical rating), the rating of only the other partner shall be considered as the weighted average rating.",
+      "Rating of non-substantial partner of JV will not be considered for evaluation."
+    ]
+  },
+  "technology_for_road_inspection": {
+    "total_marks": 10,
+    "items": [
+      {
+        "s_no": 1,
+        "description": "Ownership of Network Survey Vehicle (NSV) technology for pavement inspection",
+        "max_points": 2.0
+      },
+      {
+        "s_no": 2,
+        "description": "Ownership of Mobile Quality Control Unit having Soil Testing, Asphalt Testing, Concrete testing, Aggregate Testing and pavement testing equipment onboard along with sufficient IT and communication systems",
+        "max_points": 3.0
+      },
+      {
+        "s_no": 3,
+        "description": "Ownership of NABL Accredited Lab by the firm",
+        "max_points": 1.5
+      },
+      {
+        "s_no": 4,
+        "description": "Ownership of Mobile Bridge Inspection Unit (MBIU) or better technology for bridge inspection",
+        "max_points": 1.5
+      },
+      {
+        "s_no": 5,
+        "description": "Ownership of Falling Weight Deflectometer (FWD) or better technology for pavement strength measurement",
+        "max_points": 1.0
+      },
+      {
+        "s_no": 6,
+        "description": "Ownership of Retro-reflectometer technology",
+        "max_points": 1.0
+      }
+    ],
+    "notes": [
+      "The IE/Consultant owning the equipment shall submit proof of ownership.",
+      "Experience of the JV firms in use of technology shall also be counted. Experience of firm or JV firm in NSV/FWD/MBIU/Retro-reflectometer (or equivalent) shall be supported by experience certificate. Experience for a private concessionaire/contractor to be certified by the Govt Department. False certification attracts penal provisions."
+    ]
+  },
+  "key_staff_weightage_by_project_type": {
+    "total_marks": 25,
+    "per_position_internal_split": {
+      "general_qualifications": 25,
+      "adequacy_for_the_project": 70,
+      "employment_with_firm": 5,
+      "total": 100
+    },
+    "normal_highway_project": [
+      {
+        "s_no": 1,
+        "staff_position": "Team Leader cum Senior Highway Engineer",
+        "marks": 7
+      },
+      {
+        "s_no": 2,
+        "staff_position": "Resident cum Highway Engineer",
+        "marks": 4
+      },
+      {
+        "s_no": 3,
+        "staff_position": "Bridge/Structural Engineer",
+        "marks": 3
+      },
+      {
+        "s_no": 4,
+        "staff_position": "Pavement Specialist",
+        "marks": 3
+      },
+      {
+        "s_no": 5,
+        "staff_position": "Quality cum Material Expert",
+        "marks": 3
+      },
+      {
+        "s_no": 6,
+        "staff_position": "Program Schedule Reviewer",
+        "marks": 2
+      },
+      {
+        "s_no": 7,
+        "staff_position": "Road Safety Expert",
+        "marks": 3
+      }
+    ],
+    "standalone_bridge_project": [
+      {
+        "s_no": 1,
+        "staff_position": "Team Leader cum Senior Bridge Engineer",
+        "marks": 7
+      },
+      {
+        "s_no": 2,
+        "staff_position": "Resident cum Pavement Specialist",
+        "marks": 5
+      },
+      {
+        "s_no": 3,
+        "staff_position": "Bridge/Structural Engineer",
+        "marks": 5
+      },
+      {
+        "s_no": 5,
+        "staff_position": "Road Safety Expert",
+        "marks": 3
+      },
+      {
+        "s_no": 6,
+        "staff_position": "Program Schedule Reviewer",
+        "marks": 2
+      },
+      {
+        "s_no": 7,
+        "staff_position": "Quality cum Material Expert",
+        "marks": 3
+      }
+    ],
+    "standalone_tunnel_project": [
+      {
+        "s_no": 1,
+        "staff_position": "Team Leader cum Senior Tunnel Expert",
+        "marks": 7
+      },
+      {
+        "s_no": 2,
+        "staff_position": "Resident Engineer cum Excavation Specialist",
+        "marks": 4
+      },
+      {
+        "s_no": 3,
+        "staff_position": "Geotechnical Expert",
+        "marks": 4
+      },
+      {
+        "s_no": 4,
+        "staff_position": "Tunnel Design Engineer",
+        "marks": 3
+      },
+      {
+        "s_no": 5,
+        "staff_position": "Tunnel Safety Expert",
+        "marks": 3
+      },
+      {
+        "s_no": 6,
+        "staff_position": "Geologist",
+        "marks": 2
+      },
+      {
+        "s_no": 7,
+        "staff_position": "Program Schedule Reviewer",
+        "marks": 2
+      }
+    ]
+  },
+  "key_personnel_detailed_scoring": [
+    {
+      "clause": "3.1",
+      "position": "Team Leader cum Senior Highway Engineer",
+      "max_marks": 100,
+      "components": [
+        {
+          "no": 1,
+          "name": "Desirable Qualification",
+          "max_marks": 16,
+          "sub_components": [
+            {
+              "ref": "a",
+              "description": "Full Time Post-Graduation in Construction Management/Transportation/Highway Engineering",
+              "max_marks": 14,
+              "scoring": "PG from IIT/NIT/IISc/BITS or other State Government Engineering College of repute or Engineering College of Developed Countries = 14 marks (full); other colleges = 7 marks (50%)."
+            },
+            {
+              "ref": "b",
+              "description": "Essential Software Experience (MS Projects, Prima Vera)",
+              "max_marks": 2,
+              "scoring": "1 or more = 2; <1 = 0"
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "name": "Adequacy for the Project",
+          "max_marks": 80,
+          "sub_components": [
+            {
+              "ref": "a-i",
+              "description": "Total Professional Experience in handling Highway projects",
+              "max_marks": 12,
+              "scoring": "Minimum 12 years = 4 marks; additional 1 mark for every additional year subject to maximum 8 marks."
+            },
+            {
+              "ref": "a-ii",
+              "description": "Experience as Team Leader or similar capacity in Highway Development Projects (2/4/6 laning** and above), 40% of project length subject to minimum 25 Kms",
+              "max_marks": 16,
+              "scoring": "Minimum 5 years = 8 marks; additional 4 marks per additional year subject to maximum additional 8 marks."
+            },
+            {
+              "ref": "a-iii",
+              "description": "Experience as Team Leader or similar capacity in EPC project (AE) / BOT Toll or BOT Annuity or HAM (IE) (40% of project length, min 25 Kms)",
+              "max_marks": 16,
+              "scoring": "1 project = 4 marks; add 4 marks for each additional project subject to maximum 12 additional marks. Must work on project at least 24 months or construction period (whichever lower)."
+            },
+            {
+              "ref": "b",
+              "description": "Experience as Team Leader or similar capacity in project Preparation including design of major highway Project (40% of project length, 2/4/6 laning** and above)",
+              "max_marks": 4,
+              "scoring": "<2 projects = 0; 2 projects = 1; add 1 mark for each additional project subject to maximum 3 additional marks. Must work for complete period of DPR/Design project."
+            },
+            {
+              "ref": "c",
+              "description": "Experience as Team Leader or similar capacity in Highway Development projects (40% of project length, min 25 Kms, 2/4/6 laning** and above)",
+              "max_marks": 20,
+              "scoring": "1 project = 4 marks; add 4 marks for similar completed assignment subject to maximum additional 16 marks. Must work at least 24 months or construction period. Excludes experience supervised as IE in any PPP project."
+            },
+            {
+              "ref": "d",
+              "description": "Experience as Team Leader or similar capacity in international projects of comparable size, complexity and technical specialty (40% of project length, min 25 Kms)",
+              "max_marks": 8,
+              "scoring": "1 project = 4 marks; add 2 marks for similar completed assignment subject to maximum additional 4 marks. Developed-country weighting applies (100%/75%/50%)."
+            },
+            {
+              "ref": "e",
+              "description": "Contribution to any IRC/IS Code/Manual as part of a drafting committee or publication of paper in a reputed international journal in last 10 years",
+              "max_marks": 4,
+              "scoring": "One Code/Manual/Paper = 2; More than one = 4"
+            }
+          ]
+        },
+        {
+          "no": 3,
+          "name": "Employment with the firm",
+          "max_marks": 2,
+          "scoring": "<1 year = 0; 1 year = 0.4 marks; add 0.4 marks for each subsequent year subject to maximum 1.6 additional marks."
+        },
+        {
+          "no": 4,
+          "name": "Age limit",
+          "max_marks": 2,
+          "scoring": ">=55 years on date of submission = 0; >=50 but <55 years = 1; <50 years = 2"
+        }
+      ],
+      "position_notes": [
+        "Similar Capacity: (i) On behalf of Consultant - Team Leader/Resident Engineer (Construction Supervision/IE/AE/DPR); (ii) On behalf of concessionaire/Contractor - Project Manager (Construction/Construction Supervision); (iii) In Government Organizations - Superintending Engineer (or equivalent) and above.",
+        "Only projects where personnel input is not <9 months considered for S.No.2(b).",
+        "Only projects where personnel input is not <12 months considered for S.No.2(c) and 2(d).",
+        "Experience on behalf of AE/IE or Contractor/Concessionaire to be duly endorsed by respective Government agency; else INFRACON-uploaded experience considered. Key personnel/bidder solely responsible for any fake information/CV (may result in debarment)."
+      ]
+    },
+    {
+      "clause": "3.2",
+      "position": "Resident cum Highway Engineer",
+      "max_marks": 100,
+      "components": [
+        {
+          "no": 1,
+          "name": "General Qualification",
+          "max_marks": 12,
+          "sub_components": [
+            {
+              "ref": "i",
+              "description": "Full Time Post-Graduation in Construction Management/Transportation/Highway Engineering",
+              "max_marks": 12,
+              "scoring": "PG from IIT/NIT/IISc/BITS or other State Government Engineering College of repute or Developed Countries = 12 (full); other colleges = 6 (50%)."
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "name": "Adequacy for the Project",
+          "max_marks": 76,
+          "sub_components": [
+            {
+              "ref": "i",
+              "description": "Total Professional Experience in handling Highway projects",
+              "max_marks": 14,
+              "scoring": "Minimum 10 years = 3 marks; additional 3 marks per additional year subject to maximum additional 11 marks."
+            },
+            {
+              "ref": "ii-a",
+              "description": "Experience as Resident cum Highway Engineer or similar capacity in Highway Development Projects (2/4/6 laning** and above), 40% of project length, min 25 Kms",
+              "max_marks": 14,
+              "scoring": "Minimum 5 years = 3 marks; additional 3 marks per additional year subject to maximum additional 11 marks."
+            },
+            {
+              "ref": "ii-b",
+              "description": "Experience as Resident cum Highway Engineer or similar capacity in Highway Development projects (40% of project length, min 25 Kms, 2/4/6 laning** and above)",
+              "max_marks": 21,
+              "scoring": "1 project = 7 marks; add 3 marks for similar completed assignment subject to maximum of 14 additional marks. Must work at least 24 months or construction period. Excludes experience supervised as IE in any PPP project."
+            },
+            {
+              "ref": "iii",
+              "description": "Experience as Resident cum Highway Engineer or similar capacity in EPC project (AE) / BOT Toll or BOT Annuity or HAM (IE) (40% of project length, min 25 Kms, 2/4/6 laning** and above)",
+              "max_marks": 14,
+              "scoring": "1 project = 3 marks; add 3 marks for similar completed assignment subject to maximum of 11 additional marks. Must work at least 24 months or construction period."
+            },
+            {
+              "ref": "iv",
+              "description": "Experience as Resident cum Highway Engineer or similar capacity in international projects of comparable size, complexity and technical specialty (40% of project length, min 25 Kms)",
+              "max_marks": 14,
+              "scoring": "1 project = 7 marks; add 3.5 marks for similar completed assignment subject to maximum 7 marks. Developed-country weighting applies (100%/75%/50%)."
+            }
+          ]
+        },
+        {
+          "no": 3,
+          "name": "Employment with the Firm",
+          "max_marks": 4,
+          "scoring": "<1 year = 0; 1 year = 2 marks; add 1 mark for each subsequent year subject to maximum 2 additional marks."
+        },
+        {
+          "no": 4,
+          "name": "Age Limit",
+          "max_marks": 8,
+          "scoring": ">=50 years = 0; >=45 but <50 years = 4; <45 years = 8"
+        }
+      ],
+      "position_notes": [
+        "Similar Capacity: (i) Consultant - Resident/Highway Engineer; (ii) Concessionaire/Contractor - Resident Engineer/Highway Engineer/Project Manager (Construction/Supervision); (iii) Government - Executive Engineer (or equivalent) and above.",
+        "Only projects where personnel input is not <12 months considered.",
+        "Experience on behalf of AE/IE or Contractor/Concessionaire to be endorsed by Government agency; else INFRACON-uploaded experience considered."
+      ]
+    },
+    {
+      "clause": "3.3",
+      "position": "Bridge/Structural Engineer",
+      "max_marks": 100,
+      "components": [
+        {
+          "no": 1,
+          "name": "General Qualification",
+          "max_marks": 24,
+          "sub_components": [
+            {
+              "ref": "i",
+              "description": "Full Time Post-Graduation in Structural/Bridge Engineering",
+              "max_marks": 24,
+              "scoring": "PG from IIT/NIT/IISc/BITS or other State Government Engineering College of repute or Developed Countries = 24 (full); other colleges = 12 (50%)."
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "name": "Adequacy for the Project",
+          "max_marks": 60,
+          "sub_components": [
+            {
+              "ref": "i",
+              "description": "Total Professional Experience in handling Highway/Bridge projects",
+              "max_marks": 14,
+              "scoring": "Minimum 10 years = 2 marks; additional 2 marks per additional year subject to maximum 12 additional marks."
+            },
+            {
+              "ref": "ii",
+              "description": "Experience in similar capacity in Design/Construction/Construction Supervision of Bridges/ROB/Flyover/Interchanges/other such structures (2/4/6 laning** and above)",
+              "max_marks": 12,
+              "scoring": "<5 years = 0; 5 years = 2 marks; add 2 marks for each additional completed year subject to maximum 10 marks. Must work at least 24 months or construction period."
+            },
+            {
+              "ref": "iii",
+              "description": "Experience in similar capacity in Design of Major Highway Bridges/ROB/Flyover/Interchanges/other structures",
+              "max_marks": 12,
+              "scoring": "<2 Bridges = 0; 2 Bridges = 2 marks; add 2.5 marks for each additional bridge subject to maximum 10 additional marks."
+            },
+            {
+              "ref": "iv",
+              "description": "Experience in similar capacity in construction supervision of Major Highway Bridges/ROB/Flyover/Interchanges/other structures",
+              "max_marks": 12,
+              "scoring": "<5 Bridges = 0; 5 Bridges = 2 marks; add 2.5 marks for each additional bridge subject to maximum 10 additional marks. Must work at least 24 months or construction period."
+            },
+            {
+              "ref": "v",
+              "description": "Experience in similar capacity in design of Rehabilitation and repair of Major Bridges/ROB/Flyover/Interchanges/other structures",
+              "max_marks": 5,
+              "scoring": "<1 Bridge = 0; 1 Bridge = 2 marks; add 1 mark for each additional bridge subject to maximum 3 additional marks."
+            },
+            {
+              "ref": "vi",
+              "description": "Experience in similar capacity in Design or execution of modern bridge construction technology (Precast Segmental, Balanced Cantilever, Extradosed, Full Span Launching, Incremental Launching)",
+              "max_marks": 5,
+              "scoring": "1 bridge = 2 marks; add 1 mark for each additional bridge subject to maximum 3 additional marks."
+            }
+          ]
+        },
+        {
+          "no": 3,
+          "name": "Employment with the Firm",
+          "max_marks": 8,
+          "scoring": "<1 year = 0; 1 year = 2 marks; add 2 marks for each subsequent year subject to maximum 6 additional marks."
+        },
+        {
+          "no": 4,
+          "name": "Age Limit",
+          "max_marks": 8,
+          "scoring": ">=50 years = 0; >=45 but <50 years = 4; <45 years = 8"
+        }
+      ],
+      "position_notes": [
+        "Similar Capacity: (i) Consultant/Contractor - Bridge Engineer/Project Manager (Bridges)/Resident Engineer (Bridge); (ii) Government - Executive Engineer.",
+        "Only projects where personnel input is not <12 months considered.",
+        "Experience on behalf of AE/IE or Contractor/Concessionaire to be endorsed by Government agency; else INFRACON-uploaded experience considered."
+      ]
+    },
+    {
+      "clause": "3.4",
+      "position": "Senior Pavement Specialist",
+      "max_marks": 100,
+      "components": [
+        {
+          "no": 1,
+          "name": "General Qualification",
+          "max_marks": 16,
+          "sub_components": [
+            {
+              "ref": "i",
+              "description": "Full Time Post-Graduation in Transportation/Highway Engineering/Pavement Engineering or equivalent",
+              "max_marks": 16,
+              "scoring": "PG from IIT/NIT/IISc/BITS or other State Government Engineering College of repute or Developed Countries = 16 (full); other colleges = 8 (50%)."
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "name": "Adequacy for the Project",
+          "max_marks": 72,
+          "sub_components": [
+            {
+              "ref": "i",
+              "description": "Total Professional Experience of Pavement Design/Construction and Maintenance of Highways/Roads comprising Bridges/ROB/elevated structure or any standalone structure",
+              "max_marks": 12,
+              "scoring": "Minimum 10 years = 4 marks; additional 2 marks per additional year subject to maximum additional 8 marks."
+            },
+            {
+              "ref": "ii",
+              "description": "Experience as SPS or similar capacity in Construction/Supervision of 2/4/6-laning** major Highway Projects comprising bridges/ROB/elevated/standalone structure (40% of project length, min 25 Kms)",
+              "max_marks": 12,
+              "scoring": "Minimum 5 years = 4 marks; additional 2 marks per additional year subject to maximum additional 8 marks. Must work at least 24 months or construction period."
+            },
+            {
+              "ref": "iii",
+              "description": "Experience in similar capacity or as Pavement/Geotechnical Engineer in construction/supervision of Major Highway projects (40% of project length, 2/4/6 laning**)",
+              "max_marks": 24,
+              "scoring": "<2 nos = 0; 2 nos = 10 marks; add 4 marks for each additional project subject to maximum 14 additional marks. Must work at least 24 months or construction period."
+            },
+            {
+              "ref": "iv",
+              "description": "Contribution to any IRC Code/Manual as part of drafting committee or publication of paper in reputed international journal in last 10 years",
+              "max_marks": 8,
+              "scoring": "One Code/Manual/paper = 4; More than one = 8"
+            },
+            {
+              "ref": "v",
+              "description": "Experience in similar capacity in Design of Pavements for SH/NH",
+              "max_marks": 16,
+              "scoring": "<2 Projects = 0; 2 Projects = 4 marks; add 4 marks for each additional 2 projects subject to maximum 12 additional marks."
+            }
+          ]
+        },
+        {
+          "no": 3,
+          "name": "Employment with the Firm",
+          "max_marks": 4,
+          "scoring": "<1 year = 0; 1 year = 1 mark; add 1 mark for each subsequent year subject to maximum 3 additional marks."
+        },
+        {
+          "no": 4,
+          "name": "Age Limit",
+          "max_marks": 8,
+          "scoring": ">=45 years = 0; >=40 but <45 years = 4; <40 years = 8"
+        }
+      ],
+      "position_notes": [
+        "Similar Capacity: (i) Consultant/Contractor - Pavement Specialist/Pavement Engineer/Pavement Expert/Highway Engineer; (ii) Government - Executive Engineer.",
+        "Only projects where personnel input is not <6 months considered.",
+        "Experience on behalf of AE/IE or Contractor/Concessionaire to be endorsed by Government agency; else INFRACON-uploaded experience considered."
+      ]
+    },
+    {
+      "clause": "3.5",
+      "position": "Senior Quality/Material Expert",
+      "max_marks": 100,
+      "components": [
+        {
+          "no": 1,
+          "name": "General Qualification",
+          "max_marks": 19,
+          "sub_components": [
+            {
+              "ref": "i",
+              "description": "Full Time Post-Graduation in Geotechnical Engineering/Foundation Engineering/Soil Mechanics/Rock Mechanics/Transportation/Highway Engineering",
+              "max_marks": 15,
+              "scoring": "PG from IIT/NIT/IISc/BITS or other State Government Engineering College of repute or Developed Countries = 15 (full); other colleges = 7.5 (50%)."
+            },
+            {
+              "ref": "ii",
+              "description": "Certification Course in Quality Assurance/Quality Control in Material Testing from IAHE/IITs/CRRI/International Institute",
+              "max_marks": 4
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "name": "Adequacy for the Project",
+          "max_marks": 69,
+          "sub_components": [
+            {
+              "ref": "i",
+              "description": "Total Professional Experience in handling Highway projects",
+              "max_marks": 15,
+              "scoring": "Minimum 10 years = 3 marks; additional 3 marks per additional year subject to maximum additional 12 marks."
+            },
+            {
+              "ref": "ii",
+              "description": "Experience as SQME or similar capacity in Highway Development Projects (2/4/6 laning** and above), 40% of project length, min 25 Kms",
+              "max_marks": 23,
+              "scoring": "Minimum 5 years = 8 marks; additional 4 marks per additional year subject to maximum 15 additional marks."
+            },
+            {
+              "ref": "iii",
+              "description": "Experience as SQME or similar capacity in Highway Development projects (40% of project length, min 25 Kms, 2/4/6 laning** and above)",
+              "max_marks": 23,
+              "scoring": "1 project = 8 marks; add 4 marks for similar completed assignment subject to maximum of 15 additional marks. Must work at least 24 months or construction period."
+            },
+            {
+              "ref": "iv",
+              "description": "Experience in similar capacity in international projects of comparable size, complexity and technical specialty (40% of project length, min 25 Kms)",
+              "max_marks": 8,
+              "scoring": "1 project = 8 marks. Must work at least 24 months or construction period. Developed-country weighting applies (100%/75%/50%)."
+            }
+          ]
+        },
+        {
+          "no": 3,
+          "name": "Employment with the Firm",
+          "max_marks": 8,
+          "scoring": "<1 year = 0; 1 year = 2 marks; add 2 marks for each subsequent year subject to maximum 6 additional marks."
+        },
+        {
+          "no": 4,
+          "name": "Age Limit",
+          "max_marks": 4,
+          "scoring": ">=45 years = 0; >=40 but <45 years = 1.5; <40 years = 4"
+        }
+      ],
+      "position_notes": [
+        "Similar Capacity: (i) Consultant/Contractor - Quality Expert/Material Engineer/Material Expert/Quality Engineer/Geo-Technical Expert; (ii) Government - Executive Engineer.",
+        "Only projects where personnel input is not <12 months considered.",
+        "Experience on behalf of AE/IE or Contractor/Concessionaire to be endorsed by Government agency; else INFRACON-uploaded experience considered."
+      ]
+    },
+    {
+      "clause": "3.6",
+      "position": "Road Safety Expert",
+      "max_marks": 100,
+      "components": [
+        {
+          "no": 1,
+          "name": "General Qualification",
+          "max_marks": 30,
+          "sub_components": [
+            {
+              "ref": "i",
+              "description": "Full Time Post-Graduation in Traffic/Transportation/Safety Engineering or equivalent (PG in Transportation planning also considered if obtained after Graduation in Civil Engineering)",
+              "max_marks": 20,
+              "scoring": "PG from IIT/NIT/IISc/BITS/SPA or other State Government Engineering College of repute or Developed Countries = 20 (full); other colleges = 10 (50%)."
+            },
+            {
+              "ref": "ii",
+              "description": "2 weeks Road Safety Audit course from IAHE/IIT/CRRI",
+              "max_marks": 10
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "name": "Adequacy for the Project",
+          "max_marks": 70,
+          "sub_components": [
+            {
+              "ref": "i",
+              "description": "Experience in similar capacity in Road Safety works on Major Highway Project (2/4/6 laning** and above)",
+              "max_marks": 10,
+              "scoring": "<5 years = 0; 5 years = 6; add 2 for each additional year subject to maximum 4 marks."
+            },
+            {
+              "ref": "ii",
+              "description": "Experience in similar capacity in Road Safety works on Major Bridge Projects",
+              "max_marks": 10,
+              "scoring": "<3 bridges = 0; 3 bridges = 4; add 2 for each additional bridge subject to maximum 6 marks."
+            },
+            {
+              "ref": "ii-b",
+              "description": "Experience in similar capacity in Road Safety Audits of 2/4/6-laning** Highway projects at different stages including at least one at design stage",
+              "max_marks": 20,
+              "scoring": "<1 nos = 0; 1 nos = 4; add 4 marks for each additional 2 projects subject to maximum 16 marks."
+            },
+            {
+              "ref": "iii",
+              "description": "Experience in similar capacity in identification and improvement of black spots on Major Highway Project (2/4/6 laning** and above)",
+              "max_marks": 20,
+              "scoring": "<1 nos = 0; 1 nos = 4; add 4 marks for each additional improvement of black spots subject to maximum 16 marks."
+            },
+            {
+              "ref": "iv",
+              "description": "Experience in similar capacity of preparing Road Safety Management Plans for Highways and Inter Urban Highway",
+              "max_marks": 10,
+              "scoring": "<1 nos = 0; 1 nos = 4; add 2 marks for each additional project subject to maximum 5 marks. Each Inter Urban Highway project given full marks; each normal highway project given 50% marks."
+            }
+          ]
+        }
+      ],
+      "position_notes": [
+        "No separate Employment/Age Limit component (General Qualification 30 + Adequacy 70 = 100).",
+        "Similar Capacity: (i) Consultant/Contractor - Road Safety Expert; (ii) Government - Executive Engineer (or equivalent) and above.",
+        "Only projects where personnel input is not <6 months considered.",
+        "For S.No.2(iv) black-spot experience, rectified blackspot IDs may be provided on INFRACON."
+      ]
+    },
+    {
+      "clause": "3.7",
+      "position": "Team Leader cum Senior Bridge Engineer",
+      "max_marks": 100,
+      "components": [
+        {
+          "no": 1,
+          "name": "General Qualification",
+          "max_marks": 25,
+          "sub_components": [
+            {
+              "ref": "i",
+              "description": "Graduate in Civil Engineering",
+              "max_marks": 17
+            },
+            {
+              "ref": "ii",
+              "description": "Post Graduation in Structural Engineering or equivalent specialised stream of civil engineering",
+              "max_marks": 3
+            },
+            {
+              "ref": "iii",
+              "description": "Training programme on Collapse/failure of bridges/structures or bridge design from IAHE/any other Govt Institute",
+              "max_marks": 3
+            },
+            {
+              "ref": "iv",
+              "description": "Essential Software Experience (MS Roads/Projects, Prima Vera or other relevant software)",
+              "max_marks": 2
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "name": "Adequacy for the Project",
+          "max_marks": 70,
+          "sub_components": [
+            {
+              "ref": "a-i",
+              "description": "Total Professional Experience in handling Bridge projects",
+              "max_marks": 15,
+              "scoring": "<15 years = 0; 15 years = 12 marks; add 1 mark for each additional year subject to maximum 3 marks."
+            },
+            {
+              "ref": "a-ii",
+              "description": "Experience as Team Leader or similar capacity in Highway Development projects (2/4/6 laning** and above)",
+              "max_marks": 10,
+              "scoring": "<5 years = 0; 5 years = 8 marks; add 1 mark for each additional year subject to maximum 2 marks."
+            },
+            {
+              "ref": "a-iii",
+              "description": "Experience as Team Leader or similar capacity in Highway Development projects (40% of project length or more, 2/4/6 laning** and above)",
+              "max_marks": 5,
+              "scoring": "1 project = 4 marks; add 1 mark for additional projects subject to maximum 1 mark."
+            },
+            {
+              "ref": "b",
+              "description": "Experience as Team Leader or similar capacity of at least Two projects in Construction Supervision/AE/IE/Project preparation involving at least one Major Bridge (min 300 m length without approaches) (40% of project length, 2/4/6 laning**)",
+              "max_marks": 30,
+              "scoring": "<2 projects = 0; 2 projects = 20 marks; add 5 marks for each additional project subject to maximum 10 marks."
+            },
+            {
+              "ref": "c",
+              "description": "Experience as Team Leader/Project Manager or similar capacity in Operation and Maintenance of Major Bridge (min 300 m without approaches) (40% of project length, 2/4/6 laning**)",
+              "max_marks": 10,
+              "scoring": "1 project = 8 marks; add 1 mark for each additional project subject to maximum 2 marks."
+            }
+          ]
+        },
+        {
+          "no": 3,
+          "name": "Employment with the Firm",
+          "max_marks": 5,
+          "scoring": "<1 year = 0; 1 year = 3 marks; add 0.5 marks for each subsequent year subject to maximum 2 marks."
+        }
+      ],
+      "position_notes": [
+        "No Age Limit component.",
+        "Similar Capacity: (i) Consultant - Team Leader (Bridge)/Resident Engineer (Bridge) (Construction Supervision/IE/AE/DPR); (ii) Contractor - Project Manager (Bridge) (Construction/Supervision); (iii) Government - Superintending Engineer (or equivalent) and above."
+      ]
+    },
+    {
+      "clause": "3.8",
+      "position": "Resident cum Pavement Specialist",
+      "max_marks": 100,
+      "components": [
+        {
+          "no": 1,
+          "name": "General Qualification",
+          "max_marks": 25,
+          "sub_components": [
+            {
+              "ref": "i",
+              "description": "Graduate in Civil Engineering",
+              "max_marks": 17
+            },
+            {
+              "ref": "ii",
+              "description": "Post Graduation in Transportation/Highway Engineering/Structural Engineering/Geotechnical Engineering",
+              "max_marks": 3
+            },
+            {
+              "ref": "iii",
+              "description": "Training programme from IAHE/CRRI or any other Govt Institute in Highway/Pavement",
+              "max_marks": 3
+            },
+            {
+              "ref": "iv",
+              "description": "Essential Software Experience (MS Roads/Projects, Prima Vera or other relevant software)",
+              "max_marks": 2
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "name": "Adequacy for the Project",
+          "max_marks": 70,
+          "sub_components": [
+            {
+              "ref": "i",
+              "description": "Total Professional Experience in handling Highway projects",
+              "max_marks": 20,
+              "scoring": "<12 years = 0; 12 years = 16 marks; add 2 marks for each additional year subject to maximum 4 marks."
+            },
+            {
+              "ref": "ii",
+              "description": "Experience as Resident Engineer/Project Director/Project Manager/Superintending Engineer or equivalent/Executive Engineer or equivalent on construction works/AE/IE Projects (2/4/6 laning* and above)",
+              "max_marks": 20,
+              "scoring": "<5 years = 0; 5 years = 15 marks; add 1 mark for each additional year subject to maximum 5 marks."
+            },
+            {
+              "ref": "iii",
+              "description": "Experience in similar capacity in handling major 2/4/6-laning** projects (40% of project length or more, 2/4/6 laning** and above)",
+              "max_marks": 25,
+              "scoring": "<2 nos = 0; 2 nos = 19 marks; add 3 marks for each additional project subject to maximum 6 marks."
+            },
+            {
+              "ref": "iv",
+              "description": "Experience in similar capacity of Highway Project Construction/Supervision on EPC Mode (40% of project length or more, 2/4/6 laning** and above)",
+              "max_marks": 5,
+              "scoring": "1 project = 4 marks; add 1 mark for each additional project subject to maximum 1 mark."
+            }
+          ]
+        },
+        {
+          "no": 3,
+          "name": "Employment with the Firm",
+          "max_marks": 5,
+          "scoring": "<1 year = 0; 1 year = 3 marks; add 0.5 marks for each subsequent year subject to maximum 2 marks."
+        }
+      ],
+      "position_notes": [
+        "No Age Limit component. (Note: source numbering jumps from 3.8 to 3.10; clause 3.9 is absent in the document.)",
+        "Similar Capacity: (i) Consultant - Resident/Pavement Specialist/Pavement Engineer; (iii) Government - Executive Engineer (or equivalent) and above."
+      ]
+    },
+    {
+      "clause": "3.10",
+      "position": "Team Leader cum Senior Tunnel Expert",
+      "max_marks": 100,
+      "components": [
+        {
+          "no": 1,
+          "name": "General Qualification",
+          "max_marks": 25,
+          "sub_components": [
+            {
+              "ref": "I",
+              "description": "Graduate in Civil/Mining Engineering or equivalent",
+              "max_marks": 18
+            },
+            {
+              "ref": "II",
+              "description": "Post-Graduate or chartered engineer in Mining Engineering/Geotechnical Engineering/Structural Engineering/Rock Mechanics or equivalent",
+              "max_marks": 4
+            },
+            {
+              "ref": "III",
+              "description": "Attended minimum 5 days training on tunnel from IAHE/ITA/any other Govt institute",
+              "max_marks": 3
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "name": "Adequacy for the Project",
+          "max_marks": 70,
+          "sub_components": [
+            {
+              "ref": "a-i",
+              "description": "Total Professional Experience",
+              "max_marks": 7,
+              "scoring": "<20 years = 0; 20 years = 5 marks; add 1 mark for each additional year subject to maximum 2 marks."
+            },
+            {
+              "ref": "a-ii",
+              "description": "Total professional experience in handling major tunnelling projects",
+              "max_marks": 8,
+              "scoring": "<15 years = 0; 15 years = 6 marks; add 1 mark for each additional year subject to maximum 2 marks."
+            },
+            {
+              "ref": "a-iii",
+              "description": "Experience in major tunnel construction/construction supervision projects (Road/Rail/Metro)",
+              "max_marks": 10,
+              "scoring": "<10 years = 0; 10 years = 7 marks; add 1.5 marks for each additional year subject to maximum 3 marks."
+            },
+            {
+              "ref": "b-i",
+              "description": "Experience as Team Leader or similar capacity in construction supervision of major tunnel projects (Road/Rail/Metro), length 40% of project length or more than 1.5 km (whichever is more)",
+              "max_marks": 10,
+              "scoring": "<5 years = 0; 5 years = 7 marks; add 1.5 marks for each additional year subject to maximum 3 marks."
+            },
+            {
+              "ref": "b-ii",
+              "description": "Experience as Team Leader or similar capacity of project Preparation/Design of tunnel projects (Road/Rail/Metro), length 40% of project length or 1.5 km whichever is more",
+              "max_marks": 10,
+              "scoring": "1 project = 8 marks; add 1 mark for each additional project subject to maximum 2 marks."
+            },
+            {
+              "ref": "b-iii",
+              "description": "Experience as Team Leader or similar capacity in construction supervision of tunnels (Road/Rail/Metro), 40% of project length or 1.5 km whichever is more",
+              "max_marks": 20,
+              "scoring": "<2 projects = 0; 2 projects = 15 marks; add 1.25 marks for each additional project subject to maximum 5 marks."
+            },
+            {
+              "ref": "c",
+              "description": "Experience in project preparation/design of major tunnel projects apart from those under 2(b)(ii) (Road/Rail/Metro)",
+              "max_marks": 5,
+              "scoring": "1 project = 4 marks; 2 or more = 5 marks."
+            }
+          ]
+        },
+        {
+          "no": 3,
+          "name": "Employment with the Firm",
+          "max_marks": 5,
+          "scoring": "<1 year = 0; 1 year = 3 marks; add 0.5 marks for each subsequent year subject to maximum 2 marks."
+        }
+      ],
+      "position_notes": [
+        "Team Leader includes Project Manager (tunnels)/Resident Engineer (Tunnel)/Tunnel Engineer or any equivalent position.",
+        "** Tunnel projects, unless specifically mentioned, must be major tunnels of length >= 1.5 km for evaluation. For projects <1.5 km, tunnel length requirement may be changed to 40% of project length or min 500 m whichever is more."
+      ]
+    },
+    {
+      "clause": "3.11",
+      "position": "Resident cum Tunnel Excavation Expert",
+      "max_marks": 100,
+      "components": [
+        {
+          "no": 1,
+          "name": "General Qualification",
+          "max_marks": 25,
+          "sub_components": [
+            {
+              "ref": "I",
+              "description": "Graduate in Civil/Mining Engineering or equivalent",
+              "max_marks": 18
+            },
+            {
+              "ref": "II",
+              "description": "Post-Graduate or chartered engineer in Civil/Mining Engineering or equivalent",
+              "max_marks": 4
+            },
+            {
+              "ref": "III",
+              "description": "Attended minimum 5 days training on tunnels from IAHE/ITA/any other Govt institute",
+              "max_marks": 3
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "name": "Adequacy for the Project",
+          "max_marks": 70,
+          "sub_components": [
+            {
+              "ref": "a-i",
+              "description": "Total Experience",
+              "max_marks": 15,
+              "scoring": "<15 years = 0; 15 years = 12 marks; add 1 mark for each additional year subject to maximum 3 marks."
+            },
+            {
+              "ref": "a-ii",
+              "description": "Total professional experience in handling major tunneling projects",
+              "max_marks": 10,
+              "scoring": "<10 years = 0; 10 years = 7 marks; add 1.5 marks for each additional year subject to maximum 3 marks."
+            },
+            {
+              "ref": "b-i",
+              "description": "Experience as Tunnel Engineer/Tunnel Excavation Expert or similar capacity in construction supervision of major tunneling projects (Road/Rail/Metro)",
+              "max_marks": 10,
+              "scoring": "<7 years = 0; 7 years = 7 marks; add 1.5 marks for each additional year subject to maximum 3 marks."
+            },
+            {
+              "ref": "b-ii",
+              "description": "Experience as Tunnel Engineer/Tunnel Excavation Expert or similar capacity in construction supervision of tunnel projects (Road/Rail/Metro), min length 40% of project length or 1.5 km whichever is more (min 1 year supervision in a project)",
+              "max_marks": 20,
+              "scoring": "<2 projects = 0; 2 projects = 15 marks; add 2.5 marks for each additional project subject to 5 marks."
+            },
+            {
+              "ref": "b-iii",
+              "description": "Experience in tunnel design/DPR preparation/feasibility study/design review involving major tunnel projects (Road/Rail/Metro), 40% of project length or 1.5 km whichever is more (min 1 year experience in a project)",
+              "max_marks": 10,
+              "scoring": "1 project = 7 marks; add 1 mark for each additional project subject to maximum 3 marks."
+            },
+            {
+              "ref": "c",
+              "description": "Experience in construction of major tunnel projects (Road/Rail/Metro) apart from those under 2(b)(ii)",
+              "max_marks": 5,
+              "scoring": "1 project = 3 marks; add 1 mark for each additional project subject to maximum 2 marks."
+            }
+          ]
+        },
+        {
+          "no": 3,
+          "name": "Employment with the Firm",
+          "max_marks": 5,
+          "scoring": "<1 year = 0; 1 year = 3 marks; add 0.5 marks for each subsequent year subject to maximum 2 marks."
+        }
+      ],
+      "position_notes": [
+        "** Tunnel projects, unless specifically mentioned, must be major tunnels of length >= 1.5 km. For projects <1.5 km, tunnel length requirement may be changed to 40% of project length or min 500 m whichever is more."
+      ]
+    },
+    {
+      "clause": "3.12",
+      "position": "Tunnel Design Engineer",
+      "max_marks": 100,
+      "components": [
+        {
+          "no": 1,
+          "name": "General Qualification",
+          "max_marks": 25,
+          "sub_components": [
+            {
+              "ref": "I",
+              "description": "Graduate in Civil Engineering or equivalent",
+              "max_marks": 18
+            },
+            {
+              "ref": "II",
+              "description": "Post-Graduate in Engineering (Structural)",
+              "max_marks": 4
+            },
+            {
+              "ref": "III",
+              "description": "Attended minimum 5 days training on tunnel from IAHE/ITA/any other Govt institute",
+              "max_marks": 3
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "name": "Adequacy for the Project",
+          "max_marks": 70,
+          "sub_components": [
+            {
+              "ref": "a-i",
+              "description": "Total Professional Experience",
+              "max_marks": 15,
+              "scoring": "<20 years = 0; 20 years = 11 marks; add 1 mark for each additional year subject to maximum 4 marks."
+            },
+            {
+              "ref": "a-ii",
+              "description": "Total Professional Experience in handling major Tunnel projects",
+              "max_marks": 10,
+              "scoring": "<12 years = 0; 12 years = 7 marks; add 1 mark for each additional year subject to maximum 3 marks."
+            },
+            {
+              "ref": "b-i",
+              "description": "Experience in tunnel design (Road/Rail/Metro) works in similar capacity",
+              "max_marks": 10,
+              "scoring": "<12 years = 0; 12 years = 7 marks; add 1 mark for each additional year subject to maximum 3 marks."
+            },
+            {
+              "ref": "b-ii",
+              "description": "Experience in similar capacity in Project Preparation/DPR involving design of tunnels (Road/Rail/Metro), 40% of project length or 1.5 km whichever is more (min 1 year experience in a project)",
+              "max_marks": 15,
+              "scoring": "<3 projects = 0; 3 projects = 11 marks; add 1 mark for each additional project subject to maximum 4 marks."
+            },
+            {
+              "ref": "b-iii",
+              "description": "Experience in similar capacity in construction/supervision projects involving design/design review of tunnels, 40% of project length or 1.5 km whichever is more (min 1 year experience in project)",
+              "max_marks": 10,
+              "scoring": "<2 projects = 0; 2 projects = 7 marks; add 1.5 marks for each additional project subject to maximum 3 marks."
+            },
+            {
+              "ref": "c-i",
+              "description": "Experience in innovation tunnel design (Road/Rail/Metro) like immersed tunnel and sub-sea bored tunnel",
+              "max_marks": 5,
+              "scoring": "1 project = 4 marks; 2 or more projects = 5 marks."
+            },
+            {
+              "ref": "c-ii",
+              "description": "Experience in design tunnel projects (Road/Rail/Metro) apart from those under 2(b)(ii)",
+              "max_marks": 5,
+              "scoring": "1 project = 4 marks; 2 or more projects = 5 marks."
+            }
+          ]
+        },
+        {
+          "no": 3,
+          "name": "Employment with the Firm",
+          "max_marks": 5,
+          "scoring": "<1 year = 0; 1 year = 3 marks; add 0.5 marks for each subsequent year subject to maximum 2 marks."
+        }
+      ],
+      "position_notes": [
+        "** Tunnel projects, unless specifically mentioned, must be major tunnels of length >= 1.5 km. For projects <1.5 km, tunnel length requirement may be changed to 40% of project length or min 500 m whichever is more."
+      ]
+    },
+    {
+      "clause": "3.13",
+      "position": "Tunnel Safety Expert",
+      "max_marks": 100,
+      "components": [
+        {
+          "no": 1,
+          "name": "General Qualification",
+          "max_marks": 25,
+          "sub_components": [
+            {
+              "ref": "I",
+              "description": "Graduate in Civil/Mining Engineering or equivalent",
+              "max_marks": 18
+            },
+            {
+              "ref": "II",
+              "description": "Any professional Certification from a recognized/statutory body on safety/health/shot firer",
+              "max_marks": 4
+            },
+            {
+              "ref": "III",
+              "description": "Attended minimum 5 days training on tunnel safety from IAHE/ITA/any other Govt institute",
+              "max_marks": 3
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "name": "Adequacy for the Project",
+          "max_marks": 70,
+          "sub_components": [
+            {
+              "ref": "a-i",
+              "description": "Total Professional Experience",
+              "max_marks": 15,
+              "scoring": "<20 years = 0; 20 years = 11 marks; add 1 mark for each additional year subject to maximum 4 marks."
+            },
+            {
+              "ref": "a-ii",
+              "description": "Experience in Tunnel (Road/Rail/Metro) Safety Works",
+              "max_marks": 15,
+              "scoring": "<10 years = 0; 10 years = 11 marks; add 1 mark for each additional year subject to maximum 4 marks."
+            },
+            {
+              "ref": "a-iii",
+              "description": "International exposure in tunnel safety works in developed countries",
+              "max_marks": 10,
+              "scoring": "<7 years = 0; 7 years = 7 marks; add 1 mark for each additional subject to maximum 3 marks."
+            },
+            {
+              "ref": "b-i",
+              "description": "Experience in similar capacity of Tunnel Safety Audits during construction stage of tunnel projects (Road/Rail/Metro), 40% of project length or 1.5 km whichever is more",
+              "max_marks": 20,
+              "scoring": "<2 projects = 0; 2 projects = 15 marks; add 1.25 marks for each additional project subject to maximum 5 marks."
+            },
+            {
+              "ref": "b-ii",
+              "description": "Experience in similar capacity of Tunnel Safety Audits in design stage on tunnel projects (Road/Rail/Metro)",
+              "max_marks": 10,
+              "scoring": "1 project = 8 marks; 2 or more = 10 marks."
+            },
+            {
+              "ref": "c",
+              "description": "Experience in construction of major tunnel projects (Road/Rail/Metro)",
+              "max_marks": 5,
+              "scoring": "1 project = 3 marks; add 1 mark for each additional project subject to maximum 2 marks."
+            }
+          ]
+        },
+        {
+          "no": 3,
+          "name": "Employment with the Firm",
+          "max_marks": 5,
+          "scoring": "<1 year = 0; 1 year = 3 marks; add 0.5 marks for each subsequent year subject to maximum 2 marks."
+        }
+      ],
+      "position_notes": [
+        "** Tunnel projects, unless specifically mentioned, must be major tunnels of length >= 1.5 km. For projects <1.5 km, tunnel length requirement may be changed to 40% of project length or min 500 m whichever is more."
+      ]
+    },
+    {
+      "clause": "3.14",
+      "position": "Senior Geotechnical Expert",
+      "max_marks": 100,
+      "components": [
+        {
+          "no": 1,
+          "name": "General Qualification",
+          "max_marks": 25,
+          "sub_components": [
+            {
+              "ref": "I",
+              "description": "Graduate in Civil Engineering/Masters in Engineering Geology or equivalent from a recognized institute",
+              "max_marks": 18
+            },
+            {
+              "ref": "II",
+              "description": "Post Graduate in Rock Mechanics/Foundation Engineering/Tunnel Engineering",
+              "max_marks": 4
+            },
+            {
+              "ref": "III",
+              "description": "Attended minimum 5 days training on tunnels/Geotechnical from IAHE/ITA/any other Govt institute",
+              "max_marks": 3
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "name": "Adequacy for the Project",
+          "max_marks": 70,
+          "sub_components": [
+            {
+              "ref": "a-i",
+              "description": "Total Professional Experience",
+              "max_marks": 15,
+              "scoring": "<20 years = 0; 20 years = 11 marks; add 1 mark for each additional year."
+            },
+            {
+              "ref": "a-ii",
+              "description": "Experience in Construction/Construction Supervision of major tunnel projects (Road/Rail/Metro)",
+              "max_marks": 10,
+              "scoring": "<10 years = 0; 10 years = 7 marks."
+            },
+            {
+              "ref": "b-i",
+              "description": "Experience as Geotechnical engineer or similar capacity in construction/supervision of at least 4 tunnel projects (Road/Rail/Metro), length 40% of project length or 1.5 km whichever is more",
+              "max_marks": 25,
+              "scoring": "<4 projects = 0; 4 projects = 17 marks; add 2 marks for each additional project."
+            },
+            {
+              "ref": "b-ii",
+              "description": "Experience as Geotechnical engineer or similar capacity in Construction/Supervision of major tunnel projects involving vertical shaft sinking of at least 200 m vertical depth",
+              "max_marks": 5,
+              "scoring": "1 project = 4 marks; more than 2 projects = 5 marks."
+            },
+            {
+              "ref": "b-iii",
+              "description": "Experience as Geotechnical engineer or similar capacity in design/project preparation of tunnel projects (Road/Rail/Metro), 40% of project length or 1.5 km whichever is more",
+              "max_marks": 15,
+              "scoring": "<2 projects = 0; 2 projects = 11 marks; add 2 marks for each additional project subject to maximum 4 marks."
+            }
+          ]
+        },
+        {
+          "no": 3,
+          "name": "Employment with the Firm",
+          "max_marks": 5,
+          "scoring": "<1 year = 0; 1 year = 3 marks; add 0.5 marks for each subsequent year subject to maximum 2 marks."
+        }
+      ],
+      "position_notes": [
+        "** Tunnel projects, unless specifically mentioned, must be major tunnels of length >= 1.5 km. For projects <1.5 km, tunnel length requirement may be changed to 40% of project length or min 500 m whichever is more."
+      ]
+    },
+    {
+      "clause": "3.15",
+      "position": "Senior Geologist",
+      "max_marks": 100,
+      "components": [
+        {
+          "no": 1,
+          "name": "General Qualification",
+          "max_marks": 25,
+          "sub_components": [
+            {
+              "ref": "I",
+              "description": "Masters in Geology/Applied Geology from recognized institute",
+              "max_marks": 22
+            },
+            {
+              "ref": "III",
+              "description": "Attended minimum 5 days training for geologist from IAHE/ITA/any other Govt institute",
+              "max_marks": 3
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "name": "Adequacy for the Project",
+          "max_marks": 70,
+          "sub_components": [
+            {
+              "ref": "a-i",
+              "description": "Total Professional Experience",
+              "max_marks": 20,
+              "scoring": "<20 years = 0; 20 years = 15 marks; add 1 mark for each additional year."
+            },
+            {
+              "ref": "a-ii",
+              "description": "Experience in major Tunnel construction/supervision Projects (Road/Rail/Metro) using NATM technology",
+              "max_marks": 15,
+              "scoring": "<5 years = 0; add 1.5 marks for each additional year subject to maximum 3 marks."
+            },
+            {
+              "ref": "b-i",
+              "description": "Experience in major Tunnel (Road/Rail/Metro) Construction works in similar capacity",
+              "max_marks": 15,
+              "scoring": "<7 years = 0; 7 years = 12 marks; add 1 mark for each additional year subject to maximum 3 marks."
+            },
+            {
+              "ref": "b-ii",
+              "description": "Experience in similar capacity in project preparation/DPR involving major tunnel projects (Road/Rail/Metro) (min 1 year experience in a project)",
+              "max_marks": 10,
+              "scoring": "<2 projects = 0; 2 projects = 7 marks; add 1.5 marks for each additional project subject to maximum 3 marks."
+            },
+            {
+              "ref": "b-iii",
+              "description": "Experience in similar capacity in highway tunnel construction/supervision of project having 40% of project length or 1.5 km whichever is more",
+              "max_marks": 10,
+              "scoring": "<2 projects = 0; 2 projects = 7 marks; add 1.5 marks for each additional project subject to maximum 3 marks."
+            }
+          ]
+        },
+        {
+          "no": 3,
+          "name": "Employment with the Firm",
+          "max_marks": 5,
+          "scoring": "<1 year = 0; 1 year = 3 marks; add 0.5 marks for each subsequent year subject to maximum 2 marks."
+        }
+      ]
+    },
+    {
+      "clause": "3.16",
+      "position": "Program Schedule Reviewer",
+      "max_marks": 100,
+      "components": [
+        {
+          "no": 1,
+          "name": "General Qualification",
+          "max_marks": 30,
+          "sub_components": [
+            {
+              "ref": "1.1",
+              "description": "Full Time Post-Graduation in Construction Management",
+              "max_marks": 5
+            },
+            {
+              "ref": "1.2",
+              "description": "Full Time Graduation in Civil/Highway Engineering",
+              "max_marks": 15,
+              "scoring": "From IIT/NIT/IISc/BITS or other State Government Engineering College of repute or Developed Countries = 15 (full); other colleges = 7.5 (50%)."
+            },
+            {
+              "ref": "1.3",
+              "description": "Essential Software Experience (MS Projects, Prima Vera)",
+              "max_marks": 5
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "name": "Adequacy for the Project",
+          "max_marks": 50,
+          "sub_components": [
+            {
+              "ref": "2.1",
+              "description": "Experience as Program Schedule reviewer or similar position in infrastructure Projects",
+              "max_marks": 20,
+              "scoring": "1 project = 10 marks; add 5 marks for similar completed assignment subject to maximum 10 marks. Must work at least 75% of project duration."
+            },
+            {
+              "ref": "2.2",
+              "description": "Experience as Program Schedule reviewer or similar position in Highway Projects",
+              "max_marks": 20,
+              "scoring": "1 project = 10 marks; add 5 marks for similar completed assignment subject to maximum 10 additional marks. Must work at least 24 months or construction period."
+            },
+            {
+              "ref": "2.3",
+              "description": "Contribution to any IRC Code/Manual as part of drafting committee or publication in reputed international journal in last 10 years",
+              "max_marks": 10,
+              "scoring": "One Code/Manual/Paper = 5; More than one = 10"
+            }
+          ]
+        },
+        {
+          "no": 3,
+          "name": "Employment with the Firm",
+          "max_marks": 20,
+          "sub_components": [
+            {
+              "ref": "3.1",
+              "description": "Employment tenure",
+              "max_marks": 10,
+              "scoring": "<1 year = 0; 1 year = 2 marks; add 2 marks for each subsequent year subject to maximum 8 additional marks."
+            },
+            {
+              "ref": "3.2",
+              "description": "Age Limit",
+              "max_marks": 10,
+              "scoring": ">=45 years = 0; >=40 but <45 years = 5; <40 years = 10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clause": "3.17",
+      "position": "Senior Contract Specialist (AE/EPC variant)",
+      "max_marks": 100,
+      "components": [
+        {
+          "no": 1,
+          "name": "General Qualification",
+          "max_marks": 25,
+          "sub_components": [
+            {
+              "ref": "i",
+              "description": "Graduate in Civil Engineering (Full Time Graduation in Civil/Highway Engineering)",
+              "max_marks": 18,
+              "scoring": "From IIT/NIT/IISc/BITS or other State Government Engineering College of repute or Developed Countries = 18 (full); other colleges = 9 (50%)."
+            },
+            {
+              "ref": "ii",
+              "description": "Post Graduate Degree in Law / PG in management / certificate course in management / certificate course in construction management / certificate course in contract management",
+              "max_marks": 7,
+              "scoring": "Law Degree from National Law Universities (NLUs) and certificate course from IITs/IIMs = 7 (full); other colleges = 3.5 (50%)."
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "name": "Adequacy for the Project",
+          "max_marks": 70,
+          "sub_components": [
+            {
+              "ref": "i",
+              "description": "Total Professional Experience of Contract Management",
+              "max_marks": 20,
+              "scoring": "<15 years = 0; 15 years = 15 marks; add 1 mark for each additional year subject to maximum 5 marks."
+            },
+            {
+              "ref": "ii",
+              "description": "Experience as Contract Specialist on any National/State Highway project",
+              "max_marks": 20,
+              "scoring": "<4 years = 0; 4 years = 15 marks; add 1 mark for each additional year subject to maximum 5 marks."
+            },
+            {
+              "ref": "iii",
+              "description": "Contract Management of a large Highway contract (say over Rs.300 crore) including experience of handling variation orders, claims of the contractor and their appropriate disposal",
+              "max_marks": 25,
+              "scoring": "<2 nos = 0; 2 nos = 20 marks; add 2.5 marks for each additional project subject to maximum 5 marks."
+            },
+            {
+              "ref": "iv",
+              "description": "Experience of Handling Arbitration cases in respect of any Highway project",
+              "max_marks": 5,
+              "scoring": "1 project = 4 marks; 2 or more projects = 5 marks."
+            }
+          ]
+        },
+        {
+          "no": 3,
+          "name": "Employment with the Firm",
+          "max_marks": 5,
+          "scoring": "<1 year = 0; 1 year = 1 mark; add 1 mark for each subsequent year subject to maximum 4 marks."
+        }
+      ]
+    }
+  ],
+  "general_notes_for_all_key_positions": [
+    "AICTE (Major/Core Branch of Engineering/Technology and their relevant/appropriate course leading to degree in Engineering/Technology), 2017 shall be considered for equivalence of disciplines.",
+    "For gaps not addressed in the above notification, the same shall be decided by a committee of the Authority with at least one educationalist as a committee member.",
+    "Self-Certified Undertakings on INFRACON, if not supplemented with Client-Issued Certificates, shall not be considered for Evaluation.",
+    "Retired Govt. Officers shall upload the promotion orders to equivalent/similar capacity posts on INFRACON.",
+    "If a key personnel has worked in the next lower category to the similar capacity, the marks allotted in the category 'experience in similar capacity' shall be reduced to two-thirds. Applicable for evaluation of all key personnel.",
+    "Similar projects means 2/4/6 lane as applicable for the project for which RFP is invited. For 2-lane projects, experience of 4/6 lane also considered with multiplication factor 1.5; 4/6 lane considered interchangeably for 4/6 laning projects; for 4/6 laning projects, experience of 2 lane considered with multiplication factor 0.4.",
+    "Essential Software Experience (MS Roads/Projects, Prima Vera or other relevant software) - only certificate from any Govt training institute/Educational institute will be considered.",
+    "CV submitted without Medical certificate of fitness as per Appendix-B shall not be evaluated and will be assigned zero (0) marks.",
+    "Developed-country project experience weighting (where applicable): 1. Developed Countries decided per latest UN notification.; 2. 100% marks for project in developed countries.; 3. 75% marks for multilateral funded projects (World Bank, ADB, JICA, EIB, any UN agency).; 4. 50% marks for any other projects in developing countries (other than India)."
+  ],
+  "technical_capacity_residual_bid_capacity": {
+    "clause": "4.0",
+    "title": "Requirements with respect to Technical Capacity - Provision for maximum number of consultancy services to be awarded to one consultant",
+    "rule": "Residual AE/IE Bid Capacity 'R' shall be more than the tentative length of the Project.",
+    "formula_normal_highway_projects": "R = CL x TF - RP",
+    "variables": {
+      "CL": "Completed Length = Length of AE/IE completed NHs/Expressways in last 5 Financial Years.",
+      "TF": "Turnover Factor = multiplication factor based on Average Annual Turnover (see table).",
+      "RP": "Running Projects = Length of AE/IE projects in hand where provisional/completion certificate not issued; includes projects where firm is H-1 bidder but LOA not issued."
+    },
+    "turnover_factor_table": [
+      {
+        "average_annual_turnover_last_5_FY": "Up to 50 cr",
+        "turnover_factor_TF": 1.0
+      },
+      {
+        "average_annual_turnover_last_5_FY": "50 to 250 cr",
+        "turnover_factor_TF": 1.5
+      },
+      {
+        "average_annual_turnover_last_5_FY": ">250 crores",
+        "turnover_factor_TF": 2.0
+      }
+    ],
+    "notes": [
+      "R to be calculated for each JV member and weighted average as per share in JV considered.",
+      "Applicants shall submit requisite details for determination of technical capacity in the prescribed format (Technical Capacity - Form T-11)."
+    ]
+  }
+}
